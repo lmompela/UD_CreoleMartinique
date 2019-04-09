@@ -7,7 +7,7 @@ dico = {
 sent_idx = 1
 
 def guess_tag(idx, s, dico):
-	tag = '_'
+	tag = 'X'
 
 	if s in "!\"'()+,./:?«»–—‘“”•…":
 		return 'PUNCT'
