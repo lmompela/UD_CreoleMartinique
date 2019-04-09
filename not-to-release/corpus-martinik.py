@@ -1,8 +1,12 @@
 import sys, re 
 
-sent_idx = 0
+dico = {
+'févriyé':'NOUN'
+}
 
-def guess_tag(idx, s):
+sent_idx = 1
+
+def guess_tag(idx, s, dico):
 	tag = '_'
 
 	if s in "!\"'()+,./:?«»–—‘“”•…":
@@ -11,6 +15,8 @@ def guess_tag(idx, s):
 		return 'PROPN'
 	elif re.match('^[0-9]+$', s):
 		return 'NUM'
+	elif s in dico:
+		return dico[s]
 
 	return tag
 
@@ -28,7 +34,7 @@ for line in sys.stdin.readlines():
 	idx = 0
 	for tok in line.split(' '):
 		idx += 1
-		tag = guess_tag(idx, tok)
+		tag = guess_tag(idx, tok, dico)
 		lemma = tok
 		#       1    2    3    4    5   6     7    8    9    10
 		row = (idx, tok, lemma, tag, '_', '_', '_', '_', '_', '_')
