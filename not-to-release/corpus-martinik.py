@@ -7,7 +7,7 @@ dico = {
 sent_idx = 1
 
 def guess_tag(idx, s, dico):
-	tag = 'X'
+	tag = '_'
 
 	if s in "!\"'()+,./:?«»–—‘“”•…":
 		return 'PUNCT'
@@ -37,7 +37,7 @@ for line in sys.stdin.readlines():
 		tag = guess_tag(idx, tok, dico)
 		lemma = tok
 		#       1    2    3    4    5   6     7    8    9    10
-		row = (idx, tok, lemma, tag, '_', '_', '_', '_', '_', '_')
+		row = (idx, tok, lemma, tag, tag, '_', '_', '_', '_', '_')
 		print('%d\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s' % row)
 
 	print('')
