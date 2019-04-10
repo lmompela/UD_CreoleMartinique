@@ -6,12 +6,14 @@ dico = {
 
 sent_idx = 1
 
-def guess_tag(idx, s, dico):
+def guess_tag(idx, s, dico, first_alpha):
 	tag = '_'
+
+#	print(idx, s, first_alpha, file=sys.stderr)
 
 	if s in "!\"'()+,./:?«»–—‘“”•…":
 		return 'PUNCT'
-	elif idx != 1 and s[0].isupper():
+	elif idx != 1 and s[0].isupper() and not first_alpha and s.title():
 		return 'PROPN'
 	elif re.match('^[0-9]+$', s):
 		return 'NUM'
@@ -19,6 +21,7 @@ def guess_tag(idx, s, dico):
 		return dico[s]
 
 	return tag
+
 
 for line in sys.stdin.readlines():
 # !"'()+,./:?«»–—‘“”•…  0123456789
@@ -32,9 +35,14 @@ for line in sys.stdin.readlines():
 	print('# sent_id = %d' % sent_idx)
 	print('# text = %s' % orig_line)
 	idx = 0
+	first_alpha = True
 	for tok in line.split(' '):
 		idx += 1
-		tag = guess_tag(idx, tok, dico)
+		tag = guess_tag(idx, tok, dico, first_alpha)
+		if tok[0].isalpha() > 0:
+			first_alpha = False
+		if tok in '?!:':
+			first_alpha = True
 		lemma = tok
 		#       1    2    3    4    5   6     7    8    9    10
 		row = (idx, tok, lemma, tag, tag, '_', '_', '_', '_', '_')

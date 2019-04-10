@@ -1,7 +1,7 @@
 # sent_id = 1
 # text = "Ni an patjé tan moun ka matjé lang kréyol la okontrè di sa anlo adan nou pé kwè. 
 1	"	"	PUNCT	PUNCT	_	_	_	_	_
-2	Ni	Ni	PROPN	PROPN	_	_	_	_	_
+2	Ni	Ni	_	_	_	_	_	_	_
 3	an	an	_	_	_	_	_	_	_
 4	patjé	patjé	_	_	_	_	_	_	_
 5	tan	tan	_	_	_	_	_	_	_
@@ -458,7 +458,7 @@
 3	dékoupé	dékoupé	_	_	_	_	_	_	_
 4	fraz-la	fraz-la	_	_	_	_	_	_	_
 5	?	?	PUNCT	PUNCT	_	_	_	_	_
-6	Kiles	Kiles	PROPN	PROPN	_	_	_	_	_
+6	Kiles	Kiles	_	_	_	_	_	_	_
 7	mo	mo	_	_	_	_	_	_	_
 8	pou	pou	_	_	_	_	_	_	_
 9	matjé	matjé	_	_	_	_	_	_	_
@@ -470,7 +470,7 @@
 15	matjé	matjé	_	_	_	_	_	_	_
 16	débwaré	débwaré	_	_	_	_	_	_	_
 17	?	?	PUNCT	PUNCT	_	_	_	_	_
-18	Ki	Ki	PROPN	PROPN	_	_	_	_	_
+18	Ki	Ki	_	_	_	_	_	_	_
 19	koté	koté	_	_	_	_	_	_	_
 20	pou	pou	_	_	_	_	_	_	_
 21	mété	mété	_	_	_	_	_	_	_
@@ -483,7 +483,7 @@
 28	union	union	_	_	_	_	_	_	_
 29	)	)	PUNCT	PUNCT	_	_	_	_	_
 30	?	?	PUNCT	PUNCT	_	_	_	_	_
-31	Jean	Jean	PROPN	PROPN	_	_	_	_	_
+31	Jean	Jean	_	_	_	_	_	_	_
 32	Bernabé	Bernabé	PROPN	PROPN	_	_	_	_	_
 33	pwopozé	pwopozé	_	_	_	_	_	_	_
 34	sistenm-li-a	sistenm-li-a	_	_	_	_	_	_	_
@@ -1057,7 +1057,7 @@
 16	nou	nou	_	_	_	_	_	_	_
 17	la	la	_	_	_	_	_	_	_
 18	?	?	PUNCT	PUNCT	_	_	_	_	_
-19	Es	Es	PROPN	PROPN	_	_	_	_	_
+19	Es	Es	_	_	_	_	_	_	_
 20	nou	nou	_	_	_	_	_	_	_
 21	ké	ké	_	_	_	_	_	_	_
 22	sèvi	sèvi	_	_	_	_	_	_	_
@@ -1066,9 +1066,9 @@
 25	lé	lé	_	_	_	_	_	_	_
 26	jou-la	jou-la	_	_	_	_	_	_	_
 27	?	?	PUNCT	PUNCT	_	_	_	_	_
-28	Awa	Awa	PROPN	PROPN	_	_	_	_	_
+28	Awa	Awa	_	_	_	_	_	_	_
 29	!	!	PUNCT	PUNCT	_	_	_	_	_
-30	Nou	Nou	PROPN	PROPN	_	_	_	_	_
+30	Nou	Nou	_	_	_	_	_	_	_
 31	byen	byen	_	_	_	_	_	_	_
 32	sav	sav	_	_	_	_	_	_	_
 33	sa	sa	_	_	_	_	_	_	_
@@ -1274,7 +1274,7 @@
 # text = Poukwa? Padavwa (parce que) yo ka sirviv gras a lékriti. 
 1	Poukwa	Poukwa	_	_	_	_	_	_	_
 2	?	?	PUNCT	PUNCT	_	_	_	_	_
-3	Padavwa	Padavwa	PROPN	PROPN	_	_	_	_	_
+3	Padavwa	Padavwa	_	_	_	_	_	_	_
 4	(	(	PUNCT	PUNCT	_	_	_	_	_
 5	parce	parce	_	_	_	_	_	_	_
 6	que	que	_	_	_	_	_	_	_
@@ -1451,7 +1451,7 @@
 6	pawôl	pawôl	_	_	_	_	_	_	_
 7	palé	palé	_	_	_	_	_	_	_
 8	?	?	PUNCT	PUNCT	_	_	_	_	_
-9	Enben	Enben	PROPN	PROPN	_	_	_	_	_
+9	Enben	Enben	_	_	_	_	_	_	_
 10	,	,	PUNCT	PUNCT	_	_	_	_	_
 11	lè	lè	_	_	_	_	_	_	_
 12	ou	ou	_	_	_	_	_	_	_
@@ -1603,7 +1603,7 @@
 # text = Poukwa? Padavwa lè nou ka palé, nou pa ka gyè fè fraz, an vlé di fraz kon sé langannis-la ka konsèvwaʼy la. 
 1	Poukwa	Poukwa	_	_	_	_	_	_	_
 2	?	?	PUNCT	PUNCT	_	_	_	_	_
-3	Padavwa	Padavwa	PROPN	PROPN	_	_	_	_	_
+3	Padavwa	Padavwa	_	_	_	_	_	_	_
 4	lè	lè	_	_	_	_	_	_	_
 5	nou	nou	_	_	_	_	_	_	_
 6	ka	ka	_	_	_	_	_	_	_
@@ -1899,7 +1899,7 @@
 7	lang	lang	_	_	_	_	_	_	_
 8	fwansé-a	fwansé-a	_	_	_	_	_	_	_
 9	:	:	PUNCT	PUNCT	_	_	_	_	_
-10	Joachim	Joachim	PROPN	PROPN	_	_	_	_	_
+10	Joachim	Joachim	_	_	_	_	_	_	_
 11	Du	Du	PROPN	PROPN	_	_	_	_	_
 12	Bellay	Bellay	PROPN	PROPN	_	_	_	_	_
 13	maké	maké	_	_	_	_	_	_	_
@@ -2158,7 +2158,7 @@
 5	a	a	_	_	_	_	_	_	_
 6	lékriti	lékriti	_	_	_	_	_	_	_
 7	?	?	PUNCT	PUNCT	_	_	_	_	_
-8	Enben	Enben	PROPN	PROPN	_	_	_	_	_
+8	Enben	Enben	_	_	_	_	_	_	_
 9	,	,	PUNCT	PUNCT	_	_	_	_	_
 10	lè	lè	_	_	_	_	_	_	_
 11	ou	ou	_	_	_	_	_	_	_
@@ -2755,7 +2755,7 @@
 3	kon	kon	_	_	_	_	_	_	_
 4	sa	sa	_	_	_	_	_	_	_
 5	:	:	PUNCT	PUNCT	_	_	_	_	_
-6	Il	Il	PROPN	PROPN	_	_	_	_	_
+6	Il	Il	_	_	_	_	_	_	_
 7	faut	faut	_	_	_	_	_	_	_
 8	dégasconner	dégasconner	_	_	_	_	_	_	_
 9	la	la	_	_	_	_	_	_	_
@@ -3068,7 +3068,7 @@
 6	fè	fè	_	_	_	_	_	_	_
 7	sa	sa	_	_	_	_	_	_	_
 8	?	?	PUNCT	PUNCT	_	_	_	_	_
-9	Enben	Enben	PROPN	PROPN	_	_	_	_	_
+9	Enben	Enben	_	_	_	_	_	_	_
 10	,	,	PUNCT	PUNCT	_	_	_	_	_
 11	dabò	dabò	_	_	_	_	_	_	_
 12	pou	pou	_	_	_	_	_	_	_
@@ -3104,14 +3104,14 @@
 5	ké	ké	_	_	_	_	_	_	_
 6	chwazi	chwazi	_	_	_	_	_	_	_
 7	?	?	PUNCT	PUNCT	_	_	_	_	_
-8	Es	Es	PROPN	PROPN	_	_	_	_	_
+8	Es	Es	_	_	_	_	_	_	_
 9	sé	sé	_	_	_	_	_	_	_
 10	jan	jan	_	_	_	_	_	_	_
 11	palé	palé	_	_	_	_	_	_	_
 12	a	a	_	_	_	_	_	_	_
 13	Béké	Béké	PROPN	PROPN	_	_	_	_	_
 14	?	?	PUNCT	PUNCT	_	_	_	_	_
-15	Es	Es	PROPN	PROPN	_	_	_	_	_
+15	Es	Es	_	_	_	_	_	_	_
 16	sé	sé	_	_	_	_	_	_	_
 17	jan	jan	_	_	_	_	_	_	_
 18	palé	palé	_	_	_	_	_	_	_
@@ -3120,7 +3120,7 @@
 21	é	é	_	_	_	_	_	_	_
 22	tikyap	tikyap	_	_	_	_	_	_	_
 23	?	?	PUNCT	PUNCT	_	_	_	_	_
-24	Es	Es	PROPN	PROPN	_	_	_	_	_
+24	Es	Es	_	_	_	_	_	_	_
 25	sé	sé	_	_	_	_	_	_	_
 26	jan	jan	_	_	_	_	_	_	_
 27	palé	palé	_	_	_	_	_	_	_
@@ -3130,7 +3130,7 @@
 31	prolétaire	prolétaire	_	_	_	_	_	_	_
 32	)	)	PUNCT	PUNCT	_	_	_	_	_
 33	?	?	PUNCT	PUNCT	_	_	_	_	_
-34	Si	Si	PROPN	PROPN	_	_	_	_	_
+34	Si	Si	_	_	_	_	_	_	_
 35	nou	nou	_	_	_	_	_	_	_
 36	ka	ka	_	_	_	_	_	_	_
 37	fè	fè	_	_	_	_	_	_	_
@@ -3206,7 +3206,7 @@
 # text = Poukwa? Davwa lè ou ka kréyé on larèl-langann, fo i wototo (prestigieux), fo tout moun admiréʼy é chaché imitéʼy. 
 1	Poukwa	Poukwa	_	_	_	_	_	_	_
 2	?	?	PUNCT	PUNCT	_	_	_	_	_
-3	Davwa	Davwa	PROPN	PROPN	_	_	_	_	_
+3	Davwa	Davwa	_	_	_	_	_	_	_
 4	lè	lè	_	_	_	_	_	_	_
 5	ou	ou	_	_	_	_	_	_	_
 6	ka	ka	_	_	_	_	_	_	_
@@ -3545,7 +3545,7 @@
 # sent_id = 111
 # text =     • Li olyé nou di kabann. 
 1	•	•	PUNCT	PUNCT	_	_	_	_	_
-2	Li	Li	PROPN	PROPN	_	_	_	_	_
+2	Li	Li	_	_	_	_	_	_	_
 3	olyé	olyé	_	_	_	_	_	_	_
 4	nou	nou	_	_	_	_	_	_	_
 5	di	di	_	_	_	_	_	_	_
@@ -3555,7 +3555,7 @@
 # sent_id = 112
 # text =     • Libélil olyé nou di marisosé/zingzing. 
 1	•	•	PUNCT	PUNCT	_	_	_	_	_
-2	Libélil	Libélil	PROPN	PROPN	_	_	_	_	_
+2	Libélil	Libélil	_	_	_	_	_	_	_
 3	olyé	olyé	_	_	_	_	_	_	_
 4	nou	nou	_	_	_	_	_	_	_
 5	di	di	_	_	_	_	_	_	_
@@ -3567,7 +3567,7 @@
 # sent_id = 113
 # text =     • Nénifa olyé nou di chapôdlo/chapo-a-dlo.
 1	•	•	PUNCT	PUNCT	_	_	_	_	_
-2	Nénifa	Nénifa	PROPN	PROPN	_	_	_	_	_
+2	Nénifa	Nénifa	_	_	_	_	_	_	_
 3	olyé	olyé	_	_	_	_	_	_	_
 4	nou	nou	_	_	_	_	_	_	_
 5	di	di	_	_	_	_	_	_	_
@@ -4155,7 +4155,7 @@
 2	sa	sa	_	_	_	_	_	_	_
 3	yé	yé	_	_	_	_	_	_	_
 4	?	?	PUNCT	PUNCT	_	_	_	_	_
-5	Enben	Enben	PROPN	PROPN	_	_	_	_	_
+5	Enben	Enben	_	_	_	_	_	_	_
 6	,	,	PUNCT	PUNCT	_	_	_	_	_
 7	lè	lè	_	_	_	_	_	_	_
 8	ou	ou	_	_	_	_	_	_	_
@@ -4375,13 +4375,13 @@
 5	nou	nou	_	_	_	_	_	_	_
 6	mové	mové	_	_	_	_	_	_	_
 7	?	?	PUNCT	PUNCT	_	_	_	_	_
-8	Poukwa	Poukwa	PROPN	PROPN	_	_	_	_	_
+8	Poukwa	Poukwa	_	_	_	_	_	_	_
 9	kréyòl	kréyòl	_	_	_	_	_	_	_
 10	a	a	_	_	_	_	_	_	_
 11	yo	yo	_	_	_	_	_	_	_
 12	mové	mové	_	_	_	_	_	_	_
 13	?	?	PUNCT	PUNCT	_	_	_	_	_
-14	Sé	Sé	PROPN	PROPN	_	_	_	_	_
+14	Sé	Sé	_	_	_	_	_	_	_
 15	davwa	davwa	_	_	_	_	_	_	_
 16	sé	sé	_	_	_	_	_	_	_
 17	jounalis	jounalis	_	_	_	_	_	_	_
@@ -4688,7 +4688,7 @@
 36	ka	ka	_	_	_	_	_	_	_
 37	rimatjé	rimatjé	_	_	_	_	_	_	_
 38	?	?	PUNCT	PUNCT	_	_	_	_	_
-39	Ki	Ki	PROPN	PROPN	_	_	_	_	_
+39	Ki	Ki	_	_	_	_	_	_	_
 40	pon-an	pon-an	_	_	_	_	_	_	_
 41	ki	ki	_	_	_	_	_	_	_
 42	pli	pli	_	_	_	_	_	_	_
@@ -4726,7 +4726,7 @@
 8	Lèvasò	Lèvasò	PROPN	PROPN	_	_	_	_	_
 9	a	a	_	_	_	_	_	_	_
 10	!	!	PUNCT	PUNCT	_	_	_	_	_
-11	Lè	Lè	PROPN	PROPN	_	_	_	_	_
+11	Lè	Lè	_	_	_	_	_	_	_
 12	nou	nou	_	_	_	_	_	_	_
 13	ka	ka	_	_	_	_	_	_	_
 14	déviré	déviré	_	_	_	_	_	_	_
@@ -4809,7 +4809,7 @@
 5	pwel-zié	pwel-zié	_	_	_	_	_	_	_
 6	Foyal	Foyal	PROPN	PROPN	_	_	_	_	_
 7	!	!	PUNCT	PUNCT	_	_	_	_	_
-8	I	I	PROPN	PROPN	_	_	_	_	_
+8	I	I	_	_	_	_	_	_	_
 9	ka	ka	_	_	_	_	_	_	_
 10	fè	fè	_	_	_	_	_	_	_
 11	konsidiré	konsidiré	_	_	_	_	_	_	_
@@ -5029,7 +5029,7 @@
 # sent_id = 172
 # text = — Pou tousa moun an kannaval-la ki manniè i ké fè?
 1	—	—	PUNCT	PUNCT	_	_	_	_	_
-2	Pou	Pou	PROPN	PROPN	_	_	_	_	_
+2	Pou	Pou	_	_	_	_	_	_	_
 3	tousa	tousa	_	_	_	_	_	_	_
 4	moun	moun	_	_	_	_	_	_	_
 5	an	an	_	_	_	_	_	_	_
@@ -5146,7 +5146,7 @@
 # sent_id = 179
 # text = — Sé pa mwen ké dérespekté an sendikalis, menmsi man pa toujou dakò épi kanmanʼy. 
 1	—	—	PUNCT	PUNCT	_	_	_	_	_
-2	Sé	Sé	PROPN	PROPN	_	_	_	_	_
+2	Sé	Sé	_	_	_	_	_	_	_
 3	pa	pa	_	_	_	_	_	_	_
 4	mwen	mwen	_	_	_	_	_	_	_
 5	ké	ké	_	_	_	_	_	_	_
@@ -5403,7 +5403,7 @@
 12	ka	ka	_	_	_	_	_	_	_
 13	wè	wè	_	_	_	_	_	_	_
 14	?	?	PUNCT	PUNCT	_	_	_	_	_
-15	Anlo	Anlo	PROPN	PROPN	_	_	_	_	_
+15	Anlo	Anlo	_	_	_	_	_	_	_
 16	bann	bann	_	_	_	_	_	_	_
 17	initil	initil	_	_	_	_	_	_	_
 18	asou	asou	_	_	_	_	_	_	_
@@ -5435,7 +5435,7 @@
 7	menm	menm	_	_	_	_	_	_	_
 8	palé	palé	_	_	_	_	_	_	_
 9	!	!	PUNCT	PUNCT	_	_	_	_	_
-10	Ba	Ba	PROPN	PROPN	_	_	_	_	_
+10	Ba	Ba	_	_	_	_	_	_	_
 11	sé	sé	_	_	_	_	_	_	_
 12	moun-tala	moun-tala	_	_	_	_	_	_	_
 13	,	,	PUNCT	PUNCT	_	_	_	_	_
@@ -5722,7 +5722,7 @@
 # sent_id = 203
 # text =  — Kom ou sé an potomitan an kilti Matinik, man lé matjé jou-a!
 1	—	—	PUNCT	PUNCT	_	_	_	_	_
-2	Kom	Kom	PROPN	PROPN	_	_	_	_	_
+2	Kom	Kom	_	_	_	_	_	_	_
 3	ou	ou	_	_	_	_	_	_	_
 4	sé	sé	_	_	_	_	_	_	_
 5	an	an	_	_	_	_	_	_	_
@@ -5777,7 +5777,7 @@
 # sent_id = 206
 # text = — Boutjéʼw-la ou pé pòtéʼy ba anlot fanm. 
 1	—	—	PUNCT	PUNCT	_	_	_	_	_
-2	Boutjéʼw-la	Boutjéʼw-la	PROPN	PROPN	_	_	_	_	_
+2	Boutjéʼw-la	Boutjéʼw-la	_	_	_	_	_	_	_
 3	ou	ou	_	_	_	_	_	_	_
 4	pé	pé	_	_	_	_	_	_	_
 5	pòtéʼy	pòtéʼy	_	_	_	_	_	_	_
@@ -6137,7 +6137,7 @@
 # sent_id = 225
 # text = — Sé épi Martinik 1er man ka maché pas sé sa man ni kom télé bò kay-mwen!
 1	—	—	PUNCT	PUNCT	_	_	_	_	_
-2	Sé	Sé	PROPN	PROPN	_	_	_	_	_
+2	Sé	Sé	_	_	_	_	_	_	_
 3	épi	épi	_	_	_	_	_	_	_
 4	Martinik	Martinik	PROPN	PROPN	_	_	_	_	_
 5	1er	1er	_	_	_	_	_	_	_
@@ -6746,7 +6746,7 @@
 # sent_id = 257
 # text =    "Si je prends la peine de monter sur ce rocher de roche, ce n'est pas pour vous dire des couillonaderies, mais pou vous dire la franche vérité...".
 1	"	"	PUNCT	PUNCT	_	_	_	_	_
-2	Si	Si	PROPN	PROPN	_	_	_	_	_
+2	Si	Si	_	_	_	_	_	_	_
 3	je	je	_	_	_	_	_	_	_
 4	prends	prends	_	_	_	_	_	_	_
 5	la	la	_	_	_	_	_	_	_
@@ -6830,7 +6830,7 @@
 # sent_id = 260
 # text =    "Les thuriféraires stipendiés du gouvernement devraient se taire."
 1	"	"	PUNCT	PUNCT	_	_	_	_	_
-2	Les	Les	PROPN	PROPN	_	_	_	_	_
+2	Les	Les	_	_	_	_	_	_	_
 3	thuriféraires	thuriféraires	_	_	_	_	_	_	_
 4	stipendiés	stipendiés	_	_	_	_	_	_	_
 5	du	du	_	_	_	_	_	_	_
@@ -6878,7 +6878,7 @@
 5	mérité	mérité	_	_	_	_	_	_	_
 6	soutou	soutou	_	_	_	_	_	_	_
 7	!	!	PUNCT	PUNCT	_	_	_	_	_
-8	Kisiswa	Kisiswa	PROPN	PROPN	_	_	_	_	_
+8	Kisiswa	Kisiswa	_	_	_	_	_	_	_
 9	dé	dé	_	_	_	_	_	_	_
 10	grangrek	grangrek	_	_	_	_	_	_	_
 11	kon	kon	_	_	_	_	_	_	_
@@ -7097,7 +7097,7 @@
 16	komin	komin	_	_	_	_	_	_	_
 17	Sent-Mari	Sent-Mari	PROPN	PROPN	_	_	_	_	_
 18	!	!	PUNCT	PUNCT	_	_	_	_	_
-19	Pèsonn	Pèsonn	PROPN	PROPN	_	_	_	_	_
+19	Pèsonn	Pèsonn	_	_	_	_	_	_	_
 20	lan	lan	_	_	_	_	_	_	_
 21	pa	pa	_	_	_	_	_	_	_
 22	ka	ka	_	_	_	_	_	_	_
@@ -8434,7 +8434,7 @@
 # sent_id = 323
 # text = — Misié pa djè ékolojik, ek i bien égoyis!
 1	—	—	PUNCT	PUNCT	_	_	_	_	_
-2	Misié	Misié	PROPN	PROPN	_	_	_	_	_
+2	Misié	Misié	_	_	_	_	_	_	_
 3	pa	pa	_	_	_	_	_	_	_
 4	djè	djè	_	_	_	_	_	_	_
 5	ékolojik	ékolojik	_	_	_	_	_	_	_
@@ -8562,7 +8562,7 @@
 # sent_id = 330
 # text = (Sé pa té Kalbasié mé atè Plas Mahault, pas Mao pas la pa djè rété kominis) Pa koté Chelchè sé té épi la Carnival Run moun kouri anba solèy bien avan sé jou gra-a. 
 1	(	(	PUNCT	PUNCT	_	_	_	_	_
-2	Sé	Sé	PROPN	PROPN	_	_	_	_	_
+2	Sé	Sé	_	_	_	_	_	_	_
 3	pa	pa	_	_	_	_	_	_	_
 4	té	té	_	_	_	_	_	_	_
 5	Kalbasié	Kalbasié	PROPN	PROPN	_	_	_	_	_
@@ -8882,7 +8882,7 @@
 # sent_id = 347
 # text =     1 Kandida douvan douvan
 1	1	1	NUM	NUM	_	_	_	_	_
-2	Kandida	Kandida	PROPN	PROPN	_	_	_	_	_
+2	Kandida	Kandida	_	_	_	_	_	_	_
 3	douvan	douvan	_	_	_	_	_	_	_
 4	douvan	douvan	_	_	_	_	_	_	_
 
@@ -9048,7 +9048,7 @@
 # sent_id = 354
 # text =     2 An vié lafet
 1	2	2	NUM	NUM	_	_	_	_	_
-2	An	An	PROPN	PROPN	_	_	_	_	_
+2	An	An	_	_	_	_	_	_	_
 3	vié	vié	_	_	_	_	_	_	_
 4	lafet	lafet	_	_	_	_	_	_	_
 
@@ -9096,7 +9096,7 @@
 14	bay	bay	_	_	_	_	_	_	_
 15	rézon	rézon	_	_	_	_	_	_	_
 16	?	?	PUNCT	PUNCT	_	_	_	_	_
-17	Sa	Sa	PROPN	PROPN	_	_	_	_	_
+17	Sa	Sa	_	_	_	_	_	_	_
 18	dwé	dwé	_	_	_	_	_	_	_
 19	red	red	_	_	_	_	_	_	_
 20	ba	ba	_	_	_	_	_	_	_
@@ -9121,7 +9121,7 @@
 # sent_id = 357
 # text =     3 Eleksion Léwop
 1	3	3	NUM	NUM	_	_	_	_	_
-2	Eleksion	Eleksion	PROPN	PROPN	_	_	_	_	_
+2	Eleksion	Eleksion	_	_	_	_	_	_	_
 3	Léwop	Léwop	PROPN	PROPN	_	_	_	_	_
 
 # sent_id = 358
@@ -9359,7 +9359,7 @@
 5	pé	pé	_	_	_	_	_	_	_
 6	mandé	mandé	_	_	_	_	_	_	_
 7	:	:	PUNCT	PUNCT	_	_	_	_	_
-8	Es	Es	PROPN	PROPN	_	_	_	_	_
+8	Es	Es	_	_	_	_	_	_	_
 9	Malen	Malen	PROPN	PROPN	_	_	_	_	_
 10	ki	ki	_	_	_	_	_	_	_
 11	ni	ni	_	_	_	_	_	_	_
@@ -9414,7 +9414,7 @@
 10	vini	vini	_	_	_	_	_	_	_
 11	ant	ant	_	_	_	_	_	_	_
 12	:	:	PUNCT	PUNCT	_	_	_	_	_
-13	BPAC	BPAC	PROPN	PROPN	_	_	_	_	_
+13	BPAC	BPAC	_	_	_	_	_	_	_
 14	(	(	PUNCT	PUNCT	_	_	_	_	_
 15	Ba	Ba	PROPN	PROPN	_	_	_	_	_
 16	Péyi	Péyi	PROPN	PROPN	_	_	_	_	_
@@ -9673,7 +9673,7 @@
 # sent_id = 384
 # text =     4 Direktè lʼARS
 1	4	4	NUM	NUM	_	_	_	_	_
-2	Direktè	Direktè	PROPN	PROPN	_	_	_	_	_
+2	Direktè	Direktè	_	_	_	_	_	_	_
 3	lʼARS	lʼARS	_	_	_	_	_	_	_
 
 # sent_id = 385
@@ -9799,7 +9799,7 @@
 # sent_id = 392
 # text =     5 Kannaval toupatou
 1	5	5	NUM	NUM	_	_	_	_	_
-2	Kannaval	Kannaval	PROPN	PROPN	_	_	_	_	_
+2	Kannaval	Kannaval	_	_	_	_	_	_	_
 3	toupatou	toupatou	_	_	_	_	_	_	_
 
 # sent_id = 393
@@ -9847,7 +9847,7 @@
 13	kanman	kanman	_	_	_	_	_	_	_
 14	:	:	PUNCT	PUNCT	_	_	_	_	_
 15	«	«	PUNCT	PUNCT	_	_	_	_	_
-16	Le	Le	PROPN	PROPN	_	_	_	_	_
+16	Le	Le	_	_	_	_	_	_	_
 17	carnaval	carnaval	_	_	_	_	_	_	_
 18	dans	dans	_	_	_	_	_	_	_
 19	la	la	_	_	_	_	_	_	_
@@ -9921,7 +9921,7 @@
 # sent_id = 398
 # text = — Sé jou-tala sé épi Labann a Pipo man ka wayné!
 1	—	—	PUNCT	PUNCT	_	_	_	_	_
-2	Sé	Sé	PROPN	PROPN	_	_	_	_	_
+2	Sé	Sé	_	_	_	_	_	_	_
 3	jou-tala	jou-tala	_	_	_	_	_	_	_
 4	sé	sé	_	_	_	_	_	_	_
 5	épi	épi	_	_	_	_	_	_	_
@@ -10008,7 +10008,7 @@
 3	dé	dé	_	_	_	_	_	_	_
 4	bofrè	bofrè	_	_	_	_	_	_	_
 5	!	!	PUNCT	PUNCT	_	_	_	_	_
-6	Yonn	Yonn	PROPN	PROPN	_	_	_	_	_
+6	Yonn	Yonn	_	_	_	_	_	_	_
 7	mò	mò	_	_	_	_	_	_	_
 8	lè	lè	_	_	_	_	_	_	_
 9	3	3	NUM	NUM	_	_	_	_	_
@@ -10475,7 +10475,7 @@
 # sent_id = 421
 # text =     6 Kannaval ka chofé
 1	6	6	NUM	NUM	_	_	_	_	_
-2	Kannaval	Kannaval	PROPN	PROPN	_	_	_	_	_
+2	Kannaval	Kannaval	_	_	_	_	_	_	_
 3	ka	ka	_	_	_	_	_	_	_
 4	chofé	chofé	_	_	_	_	_	_	_
 
@@ -10605,7 +10605,7 @@
 26	moun	moun	_	_	_	_	_	_	_
 27	tann	tann	_	_	_	_	_	_	_
 28	:	:	PUNCT	PUNCT	_	_	_	_	_
-29	SE	SE	PROPN	PROPN	_	_	_	_	_
+29	SE	SE	_	_	_	_	_	_	_
 30	POU	POU	PROPN	PROPN	_	_	_	_	_
 31	YO	YO	PROPN	PROPN	_	_	_	_	_
 32	.	.	PUNCT	PUNCT	_	_	_	_	_
@@ -10657,7 +10657,7 @@
 # sent_id = 432
 # text = — OU ZA KONNET dépi sé pou vréyé monté, ni anlo moun ka di tou fo: NOU PE FEY.
 1	—	—	PUNCT	PUNCT	_	_	_	_	_
-2	OU	OU	PROPN	PROPN	_	_	_	_	_
+2	OU	OU	_	_	_	_	_	_	_
 3	ZA	ZA	PROPN	PROPN	_	_	_	_	_
 4	KONNET	KONNET	PROPN	PROPN	_	_	_	_	_
 5	dépi	dépi	_	_	_	_	_	_	_
@@ -10674,7 +10674,7 @@
 16	tou	tou	_	_	_	_	_	_	_
 17	fo	fo	_	_	_	_	_	_	_
 18	:	:	PUNCT	PUNCT	_	_	_	_	_
-19	NOU	NOU	PROPN	PROPN	_	_	_	_	_
+19	NOU	NOU	_	_	_	_	_	_	_
 20	PE	PE	PROPN	PROPN	_	_	_	_	_
 21	FEY	FEY	PROPN	PROPN	_	_	_	_	_
 22	.	.	PUNCT	PUNCT	_	_	_	_	_
@@ -10794,7 +10794,7 @@
 # sent_id = 437
 # text =     7 Fodfrans pa lé rété dèyè
 1	7	7	NUM	NUM	_	_	_	_	_
-2	Fodfrans	Fodfrans	PROPN	PROPN	_	_	_	_	_
+2	Fodfrans	Fodfrans	_	_	_	_	_	_	_
 3	pa	pa	_	_	_	_	_	_	_
 4	lé	lé	_	_	_	_	_	_	_
 5	rété	rété	_	_	_	_	_	_	_
@@ -11016,7 +11016,7 @@
 10	maché	maché	_	_	_	_	_	_	_
 11	nawflaw	nawflaw	_	_	_	_	_	_	_
 12	:	:	PUNCT	PUNCT	_	_	_	_	_
-13	TCSP-a	TCSP-a	PROPN	PROPN	_	_	_	_	_
+13	TCSP-a	TCSP-a	_	_	_	_	_	_	_
 14	obidjoul	obidjoul	_	_	_	_	_	_	_
 15	,	,	PUNCT	PUNCT	_	_	_	_	_
 16	rikonstriksion	rikonstriksion	_	_	_	_	_	_	_
@@ -11256,7 +11256,7 @@
 2	kriyé	kriyé	_	_	_	_	_	_	_
 3	sa	sa	_	_	_	_	_	_	_
 4	:	:	PUNCT	PUNCT	_	_	_	_	_
-5	Kaval	Kaval	PROPN	PROPN	_	_	_	_	_
+5	Kaval	Kaval	_	_	_	_	_	_	_
 6	Brennzeng	Brennzeng	PROPN	PROPN	_	_	_	_	_
 7	Festival	Festival	PROPN	PROPN	_	_	_	_	_
 8	.	.	PUNCT	PUNCT	_	_	_	_	_
@@ -11359,7 +11359,7 @@
 # sent_id = 465
 # text =     8 Wélélé
 1	8	8	NUM	NUM	_	_	_	_	_
-2	Wélélé	Wélélé	PROPN	PROPN	_	_	_	_	_
+2	Wélélé	Wélélé	_	_	_	_	_	_	_
 
 # sent_id = 466
 # text = Adan tout zafè-tala, sé Wélélé Bann ki an zafè wélélé-a, pa manchot pies. 
@@ -11702,7 +11702,7 @@
 # sent_id = 484
 # text = — Si Makawon bliyé yo, asiré mè-a ka chonjé yo, pou sé gran-moun lan pa bliyé yo!
 1	—	—	PUNCT	PUNCT	_	_	_	_	_
-2	Si	Si	PROPN	PROPN	_	_	_	_	_
+2	Si	Si	_	_	_	_	_	_	_
 3	Makawon	Makawon	PROPN	PROPN	_	_	_	_	_
 4	bliyé	bliyé	_	_	_	_	_	_	_
 5	yo	yo	_	_	_	_	_	_	_
@@ -11898,7 +11898,7 @@
 7	poveb-la	poveb-la	_	_	_	_	_	_	_
 8	:	:	PUNCT	PUNCT	_	_	_	_	_
 9	«	«	PUNCT	PUNCT	_	_	_	_	_
-10	Bef	Bef	PROPN	PROPN	_	_	_	_	_
+10	Bef	Bef	_	_	_	_	_	_	_
 11	douvan	douvan	_	_	_	_	_	_	_
 12	brè	brè	_	_	_	_	_	_	_
 13	dlo	dlo	_	_	_	_	_	_	_
@@ -11921,7 +11921,7 @@
 # sent_id = 497
 # text = «Tro présé pa janmen fè jou ouvè».
 1	«	«	PUNCT	PUNCT	_	_	_	_	_
-2	Tro	Tro	PROPN	PROPN	_	_	_	_	_
+2	Tro	Tro	_	_	_	_	_	_	_
 3	présé	présé	_	_	_	_	_	_	_
 4	pa	pa	_	_	_	_	_	_	_
 5	janmen	janmen	_	_	_	_	_	_	_
@@ -12571,14 +12571,14 @@
 # sent_id = 531
 # text = — Jid ou fou an mitan tet! Gouvelman pa menm sav la Matinik yé, ek si nou ka viv, apaw di lè yo bizwen nou pou votman prézidansiel!
 1	—	—	PUNCT	PUNCT	_	_	_	_	_
-2	Jid	Jid	PROPN	PROPN	_	_	_	_	_
+2	Jid	Jid	_	_	_	_	_	_	_
 3	ou	ou	_	_	_	_	_	_	_
 4	fou	fou	_	_	_	_	_	_	_
 5	an	an	_	_	_	_	_	_	_
 6	mitan	mitan	_	_	_	_	_	_	_
 7	tet	tet	_	_	_	_	_	_	_
 8	!	!	PUNCT	PUNCT	_	_	_	_	_
-9	Gouvelman	Gouvelman	PROPN	PROPN	_	_	_	_	_
+9	Gouvelman	Gouvelman	_	_	_	_	_	_	_
 10	pa	pa	_	_	_	_	_	_	_
 11	menm	menm	_	_	_	_	_	_	_
 12	sav	sav	_	_	_	_	_	_	_
@@ -12983,7 +12983,7 @@
 5	annou	annou	_	_	_	_	_	_	_
 6	pengad	pengad	_	_	_	_	_	_	_
 7	!	!	PUNCT	PUNCT	_	_	_	_	_
-8	Jòdijou	Jòdijou	PROPN	PROPN	_	_	_	_	_
+8	Jòdijou	Jòdijou	_	_	_	_	_	_	_
 9	,	,	PUNCT	PUNCT	_	_	_	_	_
 10	zòti	zòti	_	_	_	_	_	_	_
 11	ek	ek	_	_	_	_	_	_	_
