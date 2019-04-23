@@ -452,65 +452,74 @@
 48	.	.	PUNCT	PUNCT	_	_	_	_	_
 
 # sent_id = 13
-# text = Ki manniè dékoupé fraz-la ? Kiles mo pou matjé bwaré ek kiles mo pou matjé débwaré ? Ki koté pou mété mak liennay (trait d'union) ? Jean Bernabé pwopozé sistenm-li-a – éti moun koumansé kriyé "sistenm GEREC" – adan an bidim liv yo ka kriyé Fondal-Natal (1983). 
+# text = Ki manniè dékoupé fraz-la ? 
 1	Ki	Ki	_	_	_	_	_	_	_
 2	manniè	manniè	_	_	_	_	_	_	_
 3	dékoupé	dékoupé	_	_	_	_	_	_	_
 4	fraz-la	fraz-la	_	_	_	_	_	_	_
 5	?	?	PUNCT	PUNCT	_	_	_	_	_
-6	Kiles	Kiles	_	_	_	_	_	_	_
-7	mo	mo	_	_	_	_	_	_	_
-8	pou	pou	_	_	_	_	_	_	_
-9	matjé	matjé	_	_	_	_	_	_	_
-10	bwaré	bwaré	_	_	_	_	_	_	_
-11	ek	ek	_	_	_	_	_	_	_
-12	kiles	kiles	_	_	_	_	_	_	_
-13	mo	mo	_	_	_	_	_	_	_
-14	pou	pou	_	_	_	_	_	_	_
-15	matjé	matjé	_	_	_	_	_	_	_
-16	débwaré	débwaré	_	_	_	_	_	_	_
-17	?	?	PUNCT	PUNCT	_	_	_	_	_
-18	Ki	Ki	_	_	_	_	_	_	_
-19	koté	koté	_	_	_	_	_	_	_
-20	pou	pou	_	_	_	_	_	_	_
-21	mété	mété	_	_	_	_	_	_	_
-22	mak	mak	_	_	_	_	_	_	_
-23	liennay	liennay	_	_	_	_	_	_	_
-24	(	(	PUNCT	PUNCT	_	_	_	_	_
-25	trait	trait	_	_	_	_	_	_	_
-26	d	d	_	_	_	_	_	_	_
-27	'	'	PUNCT	PUNCT	_	_	_	_	_
-28	union	union	_	_	_	_	_	_	_
-29	)	)	PUNCT	PUNCT	_	_	_	_	_
-30	?	?	PUNCT	PUNCT	_	_	_	_	_
-31	Jean	Jean	_	_	_	_	_	_	_
-32	Bernabé	Bernabé	PROPN	PROPN	_	_	_	_	_
-33	pwopozé	pwopozé	_	_	_	_	_	_	_
-34	sistenm-li-a	sistenm-li-a	_	_	_	_	_	_	_
-35	–	–	PUNCT	PUNCT	_	_	_	_	_
-36	éti	éti	_	_	_	_	_	_	_
-37	moun	moun	_	_	_	_	_	_	_
-38	koumansé	koumansé	_	_	_	_	_	_	_
-39	kriyé	kriyé	_	_	_	_	_	_	_
-40	"	"	PUNCT	PUNCT	_	_	_	_	_
-41	sistenm	sistenm	_	_	_	_	_	_	_
-42	GEREC	GEREC	PROPN	PROPN	_	_	_	_	_
-43	"	"	PUNCT	PUNCT	_	_	_	_	_
-44	–	–	PUNCT	PUNCT	_	_	_	_	_
-45	adan	adan	_	_	_	_	_	_	_
-46	an	an	_	_	_	_	_	_	_
-47	bidim	bidim	_	_	_	_	_	_	_
-48	liv	liv	_	_	_	_	_	_	_
-49	yo	yo	_	_	_	_	_	_	_
-50	ka	ka	_	_	_	_	_	_	_
-51	kriyé	kriyé	_	_	_	_	_	_	_
-52	Fondal-Natal	Fondal-Natal	PROPN	PROPN	_	_	_	_	_
-53	(	(	PUNCT	PUNCT	_	_	_	_	_
-54	1983	1983	NUM	NUM	_	_	_	_	_
-55	)	)	PUNCT	PUNCT	_	_	_	_	_
-56	.	.	PUNCT	PUNCT	_	_	_	_	_
 
 # sent_id = 14
+# text = Kiles mo pou matjé bwaré ek kiles mo pou matjé débwaré ? 
+1	Kiles	Kiles	_	_	_	_	_	_	_
+2	mo	mo	_	_	_	_	_	_	_
+3	pou	pou	_	_	_	_	_	_	_
+4	matjé	matjé	_	_	_	_	_	_	_
+5	bwaré	bwaré	_	_	_	_	_	_	_
+6	ek	ek	_	_	_	_	_	_	_
+7	kiles	kiles	_	_	_	_	_	_	_
+8	mo	mo	_	_	_	_	_	_	_
+9	pou	pou	_	_	_	_	_	_	_
+10	matjé	matjé	_	_	_	_	_	_	_
+11	débwaré	débwaré	_	_	_	_	_	_	_
+12	?	?	PUNCT	PUNCT	_	_	_	_	_
+
+# sent_id = 15
+# text = Ki koté pou mété mak liennay (trait d'union) ? 
+1	Ki	Ki	_	_	_	_	_	_	_
+2	koté	koté	_	_	_	_	_	_	_
+3	pou	pou	_	_	_	_	_	_	_
+4	mété	mété	_	_	_	_	_	_	_
+5	mak	mak	_	_	_	_	_	_	_
+6	liennay	liennay	_	_	_	_	_	_	_
+7	(	(	PUNCT	PUNCT	_	_	_	_	_
+8	trait	trait	_	_	_	_	_	_	_
+9	d	d	_	_	_	_	_	_	_
+10	'	'	PUNCT	PUNCT	_	_	_	_	_
+11	union	union	_	_	_	_	_	_	_
+12	)	)	PUNCT	PUNCT	_	_	_	_	_
+13	?	?	PUNCT	PUNCT	_	_	_	_	_
+
+# sent_id = 16
+# text = Jean Bernabé pwopozé sistenm-li-a – éti moun koumansé kriyé "sistenm GEREC" – adan an bidim liv yo ka kriyé Fondal-Natal (1983). 
+1	Jean	Jean	_	_	_	_	_	_	_
+2	Bernabé	Bernabé	PROPN	PROPN	_	_	_	_	_
+3	pwopozé	pwopozé	_	_	_	_	_	_	_
+4	sistenm-li-a	sistenm-li-a	_	_	_	_	_	_	_
+5	–	–	PUNCT	PUNCT	_	_	_	_	_
+6	éti	éti	_	_	_	_	_	_	_
+7	moun	moun	_	_	_	_	_	_	_
+8	koumansé	koumansé	_	_	_	_	_	_	_
+9	kriyé	kriyé	_	_	_	_	_	_	_
+10	"	"	PUNCT	PUNCT	_	_	_	_	_
+11	sistenm	sistenm	_	_	_	_	_	_	_
+12	GEREC	GEREC	PROPN	PROPN	_	_	_	_	_
+13	"	"	PUNCT	PUNCT	_	_	_	_	_
+14	–	–	PUNCT	PUNCT	_	_	_	_	_
+15	adan	adan	_	_	_	_	_	_	_
+16	an	an	_	_	_	_	_	_	_
+17	bidim	bidim	_	_	_	_	_	_	_
+18	liv	liv	_	_	_	_	_	_	_
+19	yo	yo	_	_	_	_	_	_	_
+20	ka	ka	_	_	_	_	_	_	_
+21	kriyé	kriyé	_	_	_	_	_	_	_
+22	Fondal-Natal	Fondal-Natal	PROPN	PROPN	_	_	_	_	_
+23	(	(	PUNCT	PUNCT	_	_	_	_	_
+24	1983	1983	NUM	NUM	_	_	_	_	_
+25	)	)	PUNCT	PUNCT	_	_	_	_	_
+26	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# sent_id = 17
 # text = Pannan pwes trant lanné, sistem-tala woulé adan liv, jounal, piblisité, kisasayésa… ek, tanzantan, Jean Bernabé té ka fè yonn-dé ti mofwazay adanʼy silon réyaksion piblik-la. 
 1	Pannan	Pannan	_	_	_	_	_	_	_
 2	pwes	pwes	_	_	_	_	_	_	_
@@ -546,7 +555,7 @@
 32	piblik-la	piblik-la	_	_	_	_	_	_	_
 33	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 15
+# sent_id = 18
 # text = Epi mi anvwala, an siek ki nef ka koumansé ek i tan pou fè an bilan. 
 1	Epi	Epi	_	_	_	_	_	_	_
 2	mi	mi	_	_	_	_	_	_	_
@@ -567,7 +576,7 @@
 17	bilan	bilan	_	_	_	_	_	_	_
 18	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 16
+# sent_id = 19
 # text = I tan pou tiré lison di lo lanné lespérians-tala ek mété doubout an sistenm wouvè asou lakréolopali ek, annou espéré, pli obidjoul : sé sa zot ké jwenn adan liv-tala, Graphie créole."
 1	I	I	_	_	_	_	_	_	_
 2	tan	tan	_	_	_	_	_	_	_
@@ -607,7 +616,7 @@
 36	.	.	PUNCT	PUNCT	_	_	_	_	_
 37	"	"	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 17
+# sent_id = 20
 # text = Kon zòt dwèt savé, lang-la yo ka sèvi andidan lékòl oben linivèsité, a pa menm lang-la toutafètman ki tala yo ka sèvi adan lavi touléjou la. 
 1	Kon	Kon	_	_	_	_	_	_	_
 2	zòt	zòt	_	_	_	_	_	_	_
@@ -639,7 +648,7 @@
 28	la	la	_	_	_	_	_	_	_
 29	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 18
+# sent_id = 21
 # text = Kivédi tini on jan nou ka palé tou lé jou é tini on dòt jan nou ka palé adan dé sèten sitiyasyon ki byen prési. 
 1	Kivédi	Kivédi	_	_	_	_	_	_	_
 2	tini	tini	_	_	_	_	_	_	_
@@ -668,7 +677,7 @@
 25	prési	prési	_	_	_	_	_	_	_
 26	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 19
+# sent_id = 22
 # text = Adan sé ansyen lang-la kivédi (cʼest-à-dire) sé tala ki touvé yo maké dépi nanninannan (fort longtemps), dépi plizyè syèk kontèl anglé, fwansé, panyôl, arab oben chinwa, nou ka konstaté ki pawòl maké yo ka sèvi pou fè lison adan lékôl oben pou fè plodari (discours) politik oben ankò pou fè jounal laradyo oben latélé, sé on pawòl ki anba enfliyans a pawòl maké. 
 1	Adan	Adan	_	_	_	_	_	_	_
 2	sé	sé	_	_	_	_	_	_	_
@@ -747,7 +756,7 @@
 75	maké	maké	_	_	_	_	_	_	_
 76	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 20
+# sent_id = 23
 # text = Kivédi i ka suiv on larèl, i ka obéyi a yonndé règ ki rèd é sé règ-lasa sé adan pawòl maké ou ka sèvi yo. 
 1	Kivédi	Kivédi	_	_	_	_	_	_	_
 2	i	i	_	_	_	_	_	_	_
@@ -777,7 +786,7 @@
 26	yo	yo	_	_	_	_	_	_	_
 27	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 21
+# sent_id = 24
 # text = Sé dayè poukwa, lè on moun ka palé byen, yo ka di i ka palé “kon on liv ki chiré”. 
 1	Sé	Sé	_	_	_	_	_	_	_
 2	dayè	dayè	_	_	_	_	_	_	_
@@ -805,7 +814,7 @@
 24	”	”	PUNCT	PUNCT	_	_	_	_	_
 25	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 22
+# sent_id = 25
 # text = Esprésyon-lasa ka montré nou ki pawòl a boug-lasa ka imité pawòl a liv. 
 1	Esprésyon-lasa	Esprésyon-lasa	_	_	_	_	_	_	_
 2	ka	ka	_	_	_	_	_	_	_
@@ -822,7 +831,7 @@
 13	liv	liv	_	_	_	_	_	_	_
 14	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 23
+# sent_id = 26
 # text = Lè nou ka èkzaminé ka a kréyòl-la, nou ka touvé nou douvan on poblèm séryé: kréyòl sé on lang ki sé plis on lang moun ka palé kè on lang moun ka maké. 
 1	Lè	Lè	_	_	_	_	_	_	_
 2	nou	nou	_	_	_	_	_	_	_
@@ -861,7 +870,7 @@
 35	maké	maké	_	_	_	_	_	_	_
 36	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 24
+# sent_id = 27
 # text = Sa vré kè dépi mitan a 18yèm syèk-la, tini moun ka maké tèks litérè an kréyòl. 
 1	Sa	Sa	_	_	_	_	_	_	_
 2	vré	vré	_	_	_	_	_	_	_
@@ -882,7 +891,7 @@
 17	kréyòl	kréyòl	_	_	_	_	_	_	_
 18	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 25
+# sent_id = 28
 # text = Prèmyé tèks ki parèt an kréyòl, sé on poèm yo ka kriyé Lisette quitté la plaine, éti sé on Béké Duvivier de la Mahautière ki makéʼy an 1754. 
 1	Prèmyé	Prèmyé	_	_	_	_	_	_	_
 2	tèks	tèks	_	_	_	_	_	_	_
@@ -916,7 +925,7 @@
 30	1754	1754	NUM	NUM	_	_	_	_	_
 31	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 26
+# sent_id = 29
 # text = Apré sa, tini on pakèt tèks ki parèt ki Ayiti, ki Matinik, ki Gwadloup, ki Guiyàn. 
 1	Apré	Apré	_	_	_	_	_	_	_
 2	sa	sa	_	_	_	_	_	_	_
@@ -940,7 +949,7 @@
 20	Guiyàn	Guiyàn	PROPN	PROPN	_	_	_	_	_
 21	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 27
+# sent_id = 30
 # text = Mé magré toujou té ni tèks ki maké an kréyòl, plas a yo té two asou koté, two marjinal pou yo té pé mofwazé (transformer) divini a lang kréyòl-la. 
 1	Mé	Mé	_	_	_	_	_	_	_
 2	magré	magré	_	_	_	_	_	_	_
@@ -977,7 +986,7 @@
 33	kréyòl-la	kréyòl-la	_	_	_	_	_	_	_
 34	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 28
+# sent_id = 31
 # text = Kidonk nou pé di ki sé pawòl palé ki toujou té pi fò an kréyòl é ki jik alè ka rété pi fò. 
 1	Kidonk	Kidonk	_	_	_	_	_	_	_
 2	nou	nou	_	_	_	_	_	_	_
@@ -1004,7 +1013,7 @@
 23	fò	fò	_	_	_	_	_	_	_
 24	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 29
+# sent_id = 32
 # text = Sitiyasyon-lasa ka fè kè nou pa ni pon lang palé nou pé sèvi adan lékòl, linivèsité, laradyo oben latélé pis nou pòkò ni lang maké an kréyòl. 
 1	Sitiyasyon-lasa	Sitiyasyon-lasa	_	_	_	_	_	_	_
 2	ka	ka	_	_	_	_	_	_	_
@@ -1037,8 +1046,8 @@
 29	kréyòl	kréyòl	_	_	_	_	_	_	_
 30	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 30
-# text = Ki jan nou pé fè on montray (cours) an kréyòl adan linivèsité an nou la? Es nou ké sèvi kréyòl tou lé jou-la? Awa! Nou byen sav sa pa posib.
+# sent_id = 33
+# text = Ki jan nou pé fè on montray (cours) an kréyòl adan linivèsité an nou la? 
 1	Ki	Ki	_	_	_	_	_	_	_
 2	jan	jan	_	_	_	_	_	_	_
 3	nou	nou	_	_	_	_	_	_	_
@@ -1057,26 +1066,35 @@
 16	nou	nou	_	_	_	_	_	_	_
 17	la	la	_	_	_	_	_	_	_
 18	?	?	PUNCT	PUNCT	_	_	_	_	_
-19	Es	Es	_	_	_	_	_	_	_
-20	nou	nou	_	_	_	_	_	_	_
-21	ké	ké	_	_	_	_	_	_	_
-22	sèvi	sèvi	_	_	_	_	_	_	_
-23	kréyòl	kréyòl	_	_	_	_	_	_	_
-24	tou	tou	_	_	_	_	_	_	_
-25	lé	lé	_	_	_	_	_	_	_
-26	jou-la	jou-la	_	_	_	_	_	_	_
-27	?	?	PUNCT	PUNCT	_	_	_	_	_
-28	Awa	Awa	_	_	_	_	_	_	_
-29	!	!	PUNCT	PUNCT	_	_	_	_	_
-30	Nou	Nou	_	_	_	_	_	_	_
-31	byen	byen	_	_	_	_	_	_	_
-32	sav	sav	_	_	_	_	_	_	_
-33	sa	sa	_	_	_	_	_	_	_
-34	pa	pa	_	_	_	_	_	_	_
-35	posib	posib	_	_	_	_	_	_	_
-36	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 31
+# sent_id = 34
+# text = Es nou ké sèvi kréyòl tou lé jou-la? 
+1	Es	Es	_	_	_	_	_	_	_
+2	nou	nou	_	_	_	_	_	_	_
+3	ké	ké	_	_	_	_	_	_	_
+4	sèvi	sèvi	_	_	_	_	_	_	_
+5	kréyòl	kréyòl	_	_	_	_	_	_	_
+6	tou	tou	_	_	_	_	_	_	_
+7	lé	lé	_	_	_	_	_	_	_
+8	jou-la	jou-la	_	_	_	_	_	_	_
+9	?	?	PUNCT	PUNCT	_	_	_	_	_
+
+# sent_id = 35
+# text = Awa! 
+1	Awa	Awa	_	_	_	_	_	_	_
+2	!	!	PUNCT	PUNCT	_	_	_	_	_
+
+# sent_id = 36
+# text = Nou byen sav sa pa posib.
+1	Nou	Nou	_	_	_	_	_	_	_
+2	byen	byen	_	_	_	_	_	_	_
+3	sav	sav	_	_	_	_	_	_	_
+4	sa	sa	_	_	_	_	_	_	_
+5	pa	pa	_	_	_	_	_	_	_
+6	posib	posib	_	_	_	_	_	_	_
+7	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# sent_id = 37
 # text = Annou pwan chak sé étap-lasa é annou dékatiyé (analyser) yo yonn dèyè lòt. 
 1	Annou	Annou	_	_	_	_	_	_	_
 2	pwan	pwan	_	_	_	_	_	_	_
@@ -1095,7 +1113,7 @@
 15	lòt	lòt	_	_	_	_	_	_	_
 16	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 32
+# sent_id = 38
 # text = Pou zafè a “pawòl palé”-la, pa lapenn pèd onlo tan asiʼy pis dépi on lang vivan, moun ka paléʼy. 
 1	Pou	Pou	_	_	_	_	_	_	_
 2	zafè	zafè	_	_	_	_	_	_	_
@@ -1123,7 +1141,7 @@
 24	paléʼy	paléʼy	_	_	_	_	_	_	_
 25	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 33
+# sent_id = 39
 # text = Kon zòt savé, on lang pé mò. 
 1	Kon	Kon	_	_	_	_	_	_	_
 2	zòt	zòt	_	_	_	_	_	_	_
@@ -1135,7 +1153,7 @@
 8	mò	mò	_	_	_	_	_	_	_
 9	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 34
+# sent_id = 40
 # text = Lang sé pa dé biten ki étèrnèl. 
 1	Lang	Lang	_	_	_	_	_	_	_
 2	sé	sé	_	_	_	_	_	_	_
@@ -1146,7 +1164,7 @@
 7	étèrnèl	étèrnèl	_	_	_	_	_	_	_
 8	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 35
+# sent_id = 41
 # text = Yo ka viv é yo ka mò kon moun menm. 
 1	Yo	Yo	_	_	_	_	_	_	_
 2	ka	ka	_	_	_	_	_	_	_
@@ -1160,7 +1178,7 @@
 10	menm	menm	_	_	_	_	_	_	_
 11	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 36
+# sent_id = 42
 # text = On lang kon laten viv plizyè syèk épi i disparèt. 
 1	On	On	_	_	_	_	_	_	_
 2	lang	lang	_	_	_	_	_	_	_
@@ -1174,7 +1192,7 @@
 10	disparèt	disparèt	_	_	_	_	_	_	_
 11	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 37
+# sent_id = 43
 # text = On lang kon grèk gadé menm non-la mé lè ou gadé, sé divès lang diféran yo ba menm non-la kivédi grèk éti moun té ka palé an tan a Platon é Sokrat a pa menm lantg-la ki sila moun ka palé jôd-la. 
 1	On	On	_	_	_	_	_	_	_
 2	lang	lang	_	_	_	_	_	_	_
@@ -1221,7 +1239,7 @@
 43	jôd-la	jôd-la	_	_	_	_	_	_	_
 44	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 38
+# sent_id = 44
 # text = Yo ka kriyé tou lé dé la “grèk” men a pa menm lang-la. 
 1	Yo	Yo	_	_	_	_	_	_	_
 2	ka	ka	_	_	_	_	_	_	_
@@ -1240,7 +1258,7 @@
 15	lang-la	lang-la	_	_	_	_	_	_	_
 16	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 39
+# sent_id = 45
 # text = An vlé apiyé asou on pwen: an byen di kè laten oben grèk a Platon “disparèt”, an pa jen di yo mò. 
 1	An	An	_	_	_	_	_	_	_
 2	vlé	vlé	_	_	_	_	_	_	_
@@ -1270,24 +1288,27 @@
 26	mò	mò	_	_	_	_	_	_	_
 27	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 40
-# text = Poukwa? Padavwa (parce que) yo ka sirviv gras a lékriti. 
+# sent_id = 46
+# text = Poukwa? 
 1	Poukwa	Poukwa	_	_	_	_	_	_	_
 2	?	?	PUNCT	PUNCT	_	_	_	_	_
-3	Padavwa	Padavwa	_	_	_	_	_	_	_
-4	(	(	PUNCT	PUNCT	_	_	_	_	_
-5	parce	parce	_	_	_	_	_	_	_
-6	que	que	_	_	_	_	_	_	_
-7	)	)	PUNCT	PUNCT	_	_	_	_	_
-8	yo	yo	_	_	_	_	_	_	_
-9	ka	ka	_	_	_	_	_	_	_
-10	sirviv	sirviv	_	_	_	_	_	_	_
-11	gras	gras	_	_	_	_	_	_	_
-12	a	a	_	_	_	_	_	_	_
-13	lékriti	lékriti	_	_	_	_	_	_	_
-14	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 41
+# sent_id = 47
+# text = Padavwa (parce que) yo ka sirviv gras a lékriti. 
+1	Padavwa	Padavwa	_	_	_	_	_	_	_
+2	(	(	PUNCT	PUNCT	_	_	_	_	_
+3	parce	parce	_	_	_	_	_	_	_
+4	que	que	_	_	_	_	_	_	_
+5	)	)	PUNCT	PUNCT	_	_	_	_	_
+6	yo	yo	_	_	_	_	_	_	_
+7	ka	ka	_	_	_	_	_	_	_
+8	sirviv	sirviv	_	_	_	_	_	_	_
+9	gras	gras	_	_	_	_	_	_	_
+10	a	a	_	_	_	_	_	_	_
+11	lékriti	lékriti	_	_	_	_	_	_	_
+12	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# sent_id = 48
 # text = Mé lè ou gadé dé sèten lang Lafrik oben lang amérendyen, ki pa té ni pon sistèm a lékriti, an fwa moun pa ka palé lang-la ankò i ka mò kivédi pa ka rété pon tras dè yo ankò. 
 1	Mé	Mé	_	_	_	_	_	_	_
 2	lè	lè	_	_	_	_	_	_	_
@@ -1332,7 +1353,7 @@
 41	ankò	ankò	_	_	_	_	_	_	_
 42	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 42
+# sent_id = 49
 # text = Kidonk, an ka rézimé lidé an mwen: dépi on lang vivan, i ni pawòl palé. 
 1	Kidonk	Kidonk	_	_	_	_	_	_	_
 2	,	,	PUNCT	PUNCT	_	_	_	_	_
@@ -1354,7 +1375,7 @@
 18	palé	palé	_	_	_	_	_	_	_
 19	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 43
+# sent_id = 50
 # text = Dézyèm étap-la, sé sa an kriyé “pawòl palé ki maké”: èsprésyon-lasa pé parèt tibwen dwòl men an ké èspikéʼy. 
 1	Dézyèm	Dézyèm	_	_	_	_	_	_	_
 2	étap-la	étap-la	_	_	_	_	_	_	_
@@ -1381,7 +1402,7 @@
 23	èspikéʼy	èspikéʼy	_	_	_	_	_	_	_
 24	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 44
+# sent_id = 51
 # text = Lè zòt vwè on langannis (linguiste) ka anrijistré on kont kréyòl kèlkanswa adan on véyé a mounmò oben on dòt koté, épi i ka ritranskriʼy asi on fèy papyé oben on ékran a òwdinatè, sé on pawòl palé i ka maké kivédi on pawòl ki ka obéyi a lojik a pawòl palé. 
 1	Lè	Lè	_	_	_	_	_	_	_
 2	zòt	zòt	_	_	_	_	_	_	_
@@ -1441,8 +1462,8 @@
 56	palé	palé	_	_	_	_	_	_	_
 57	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 45
-# text = Ka sa yé lojik a pawôl palé? Enben, lè ou vwè on moun ka palé, a pa enki lang-la i ka sèvi pou èspriméʼy: i ka sèvi braʼy, menʼy, zyéʼy. 
+# sent_id = 52
+# text = Ka sa yé lojik a pawôl palé? 
 1	Ka	Ka	_	_	_	_	_	_	_
 2	sa	sa	_	_	_	_	_	_	_
 3	yé	yé	_	_	_	_	_	_	_
@@ -1451,37 +1472,40 @@
 6	pawôl	pawôl	_	_	_	_	_	_	_
 7	palé	palé	_	_	_	_	_	_	_
 8	?	?	PUNCT	PUNCT	_	_	_	_	_
-9	Enben	Enben	_	_	_	_	_	_	_
-10	,	,	PUNCT	PUNCT	_	_	_	_	_
-11	lè	lè	_	_	_	_	_	_	_
-12	ou	ou	_	_	_	_	_	_	_
-13	vwè	vwè	_	_	_	_	_	_	_
-14	on	on	_	_	_	_	_	_	_
-15	moun	moun	_	_	_	_	_	_	_
-16	ka	ka	_	_	_	_	_	_	_
-17	palé	palé	_	_	_	_	_	_	_
-18	,	,	PUNCT	PUNCT	_	_	_	_	_
-19	a	a	_	_	_	_	_	_	_
-20	pa	pa	_	_	_	_	_	_	_
-21	enki	enki	_	_	_	_	_	_	_
-22	lang-la	lang-la	_	_	_	_	_	_	_
-23	i	i	_	_	_	_	_	_	_
-24	ka	ka	_	_	_	_	_	_	_
-25	sèvi	sèvi	_	_	_	_	_	_	_
-26	pou	pou	_	_	_	_	_	_	_
-27	èspriméʼy	èspriméʼy	_	_	_	_	_	_	_
-28	:	:	PUNCT	PUNCT	_	_	_	_	_
-29	i	i	_	_	_	_	_	_	_
-30	ka	ka	_	_	_	_	_	_	_
-31	sèvi	sèvi	_	_	_	_	_	_	_
-32	braʼy	braʼy	_	_	_	_	_	_	_
-33	,	,	PUNCT	PUNCT	_	_	_	_	_
-34	menʼy	menʼy	_	_	_	_	_	_	_
-35	,	,	PUNCT	PUNCT	_	_	_	_	_
-36	zyéʼy	zyéʼy	_	_	_	_	_	_	_
-37	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 46
+# sent_id = 53
+# text = Enben, lè ou vwè on moun ka palé, a pa enki lang-la i ka sèvi pou èspriméʼy: i ka sèvi braʼy, menʼy, zyéʼy. 
+1	Enben	Enben	_	_	_	_	_	_	_
+2	,	,	PUNCT	PUNCT	_	_	_	_	_
+3	lè	lè	_	_	_	_	_	_	_
+4	ou	ou	_	_	_	_	_	_	_
+5	vwè	vwè	_	_	_	_	_	_	_
+6	on	on	_	_	_	_	_	_	_
+7	moun	moun	_	_	_	_	_	_	_
+8	ka	ka	_	_	_	_	_	_	_
+9	palé	palé	_	_	_	_	_	_	_
+10	,	,	PUNCT	PUNCT	_	_	_	_	_
+11	a	a	_	_	_	_	_	_	_
+12	pa	pa	_	_	_	_	_	_	_
+13	enki	enki	_	_	_	_	_	_	_
+14	lang-la	lang-la	_	_	_	_	_	_	_
+15	i	i	_	_	_	_	_	_	_
+16	ka	ka	_	_	_	_	_	_	_
+17	sèvi	sèvi	_	_	_	_	_	_	_
+18	pou	pou	_	_	_	_	_	_	_
+19	èspriméʼy	èspriméʼy	_	_	_	_	_	_	_
+20	:	:	PUNCT	PUNCT	_	_	_	_	_
+21	i	i	_	_	_	_	_	_	_
+22	ka	ka	_	_	_	_	_	_	_
+23	sèvi	sèvi	_	_	_	_	_	_	_
+24	braʼy	braʼy	_	_	_	_	_	_	_
+25	,	,	PUNCT	PUNCT	_	_	_	_	_
+26	menʼy	menʼy	_	_	_	_	_	_	_
+27	,	,	PUNCT	PUNCT	_	_	_	_	_
+28	zyéʼy	zyéʼy	_	_	_	_	_	_	_
+29	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# sent_id = 54
 # text = Kifè sikti (structure) a pawòl maké ka woulé èvè sé zouti-lasa é, pou ba zòt on kontèl (exemple), i pa ka gyè sèvi lyennè (connecteur) kivédi sé zouti gramatikal-la ki ka pèmèt nou lyenné dé mòso fraz (oblen plizyè mòso fraz) ansanm. 
 1	Kifè	Kifè	_	_	_	_	_	_	_
 2	sikti	sikti	_	_	_	_	_	_	_
@@ -1537,7 +1561,7 @@
 52	ansanm	ansanm	_	_	_	_	_	_	_
 53	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 47
+# sent_id = 55
 # text = An fransé, sé prensipal lyennè-a sé ainsi donc, par conséquent, cependant, toutefois etc… Menm adan on lang kon fwansé, ki sé on lang maké, lè ou ka palé adan lavi touléjou ou pa ka gyè sèvi avè yo. 
 1	An	An	_	_	_	_	_	_	_
 2	fransé	fransé	_	_	_	_	_	_	_
@@ -1586,7 +1610,7 @@
 45	yo	yo	_	_	_	_	_	_	_
 46	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 48
+# sent_id = 56
 # text = Sé adan fwansé maké ou pito ka sèvi yo. 
 1	Sé	Sé	_	_	_	_	_	_	_
 2	adan	adan	_	_	_	_	_	_	_
@@ -1599,36 +1623,39 @@
 9	yo	yo	_	_	_	_	_	_	_
 10	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 49
-# text = Poukwa? Padavwa lè nou ka palé, nou pa ka gyè fè fraz, an vlé di fraz kon sé langannis-la ka konsèvwaʼy la. 
+# sent_id = 57
+# text = Poukwa? 
 1	Poukwa	Poukwa	_	_	_	_	_	_	_
 2	?	?	PUNCT	PUNCT	_	_	_	_	_
-3	Padavwa	Padavwa	_	_	_	_	_	_	_
-4	lè	lè	_	_	_	_	_	_	_
-5	nou	nou	_	_	_	_	_	_	_
-6	ka	ka	_	_	_	_	_	_	_
-7	palé	palé	_	_	_	_	_	_	_
-8	,	,	PUNCT	PUNCT	_	_	_	_	_
-9	nou	nou	_	_	_	_	_	_	_
-10	pa	pa	_	_	_	_	_	_	_
-11	ka	ka	_	_	_	_	_	_	_
-12	gyè	gyè	_	_	_	_	_	_	_
-13	fè	fè	_	_	_	_	_	_	_
-14	fraz	fraz	_	_	_	_	_	_	_
-15	,	,	PUNCT	PUNCT	_	_	_	_	_
-16	an	an	_	_	_	_	_	_	_
-17	vlé	vlé	_	_	_	_	_	_	_
-18	di	di	_	_	_	_	_	_	_
-19	fraz	fraz	_	_	_	_	_	_	_
-20	kon	kon	_	_	_	_	_	_	_
-21	sé	sé	_	_	_	_	_	_	_
-22	langannis-la	langannis-la	_	_	_	_	_	_	_
-23	ka	ka	_	_	_	_	_	_	_
-24	konsèvwaʼy	konsèvwaʼy	_	_	_	_	_	_	_
-25	la	la	_	_	_	_	_	_	_
-26	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 50
+# sent_id = 58
+# text = Padavwa lè nou ka palé, nou pa ka gyè fè fraz, an vlé di fraz kon sé langannis-la ka konsèvwaʼy la. 
+1	Padavwa	Padavwa	_	_	_	_	_	_	_
+2	lè	lè	_	_	_	_	_	_	_
+3	nou	nou	_	_	_	_	_	_	_
+4	ka	ka	_	_	_	_	_	_	_
+5	palé	palé	_	_	_	_	_	_	_
+6	,	,	PUNCT	PUNCT	_	_	_	_	_
+7	nou	nou	_	_	_	_	_	_	_
+8	pa	pa	_	_	_	_	_	_	_
+9	ka	ka	_	_	_	_	_	_	_
+10	gyè	gyè	_	_	_	_	_	_	_
+11	fè	fè	_	_	_	_	_	_	_
+12	fraz	fraz	_	_	_	_	_	_	_
+13	,	,	PUNCT	PUNCT	_	_	_	_	_
+14	an	an	_	_	_	_	_	_	_
+15	vlé	vlé	_	_	_	_	_	_	_
+16	di	di	_	_	_	_	_	_	_
+17	fraz	fraz	_	_	_	_	_	_	_
+18	kon	kon	_	_	_	_	_	_	_
+19	sé	sé	_	_	_	_	_	_	_
+20	langannis-la	langannis-la	_	_	_	_	_	_	_
+21	ka	ka	_	_	_	_	_	_	_
+22	konsèvwaʼy	konsèvwaʼy	_	_	_	_	_	_	_
+23	la	la	_	_	_	_	_	_	_
+24	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# sent_id = 59
 # text = Nou ka fè ti mòso fraz, nou ka kalanjé (hésiter), nou ka jakoté (se répéter), é lè nou ka fè dé vré fraz, sé kè nou ni on sikti a pawòl maké adan kabèch an nou. 
 1	Nou	Nou	_	_	_	_	_	_	_
 2	ka	ka	_	_	_	_	_	_	_
@@ -1676,7 +1703,7 @@
 44	nou	nou	_	_	_	_	_	_	_
 45	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 51
+# sent_id = 60
 # text = Sé davwa nou ay lékòl, nou ka rivé pwodui sé kalté fraz konpliké-lasa lè nou ka palé. 
 1	Sé	Sé	_	_	_	_	_	_	_
 2	davwa	davwa	_	_	_	_	_	_	_
@@ -1698,7 +1725,7 @@
 18	palé	palé	_	_	_	_	_	_	_
 19	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 52
+# sent_id = 61
 # text = An ka wouviré asou lidé a dézyèm étap-la éti on lang pou franchi si i vlé vin on vré lang maké. 
 1	An	An	_	_	_	_	_	_	_
 2	ka	ka	_	_	_	_	_	_	_
@@ -1723,7 +1750,7 @@
 21	maké	maké	_	_	_	_	_	_	_
 22	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 53
+# sent_id = 62
 # text = Enben, nou pé di kè jòd-la, kréyòl-la za près dépasé étap-lasa men i poko toutafètman janbé larèl kivédi i pòkò rivé adan twazyèm étap-la ki sé pawòl maké. 
 1	Enben	Enben	_	_	_	_	_	_	_
 2	,	,	PUNCT	PUNCT	_	_	_	_	_
@@ -1757,7 +1784,7 @@
 30	maké	maké	_	_	_	_	_	_	_
 31	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 54
+# sent_id = 63
 # text = Kréyòl-la an mitan a rivyè-la, fòk nou endéʼy najé pou i réyisi travèséʼy. 
 1	Kréyòl-la	Kréyòl-la	_	_	_	_	_	_	_
 2	an	an	_	_	_	_	_	_	_
@@ -1775,7 +1802,7 @@
 14	travèséʼy	travèséʼy	_	_	_	_	_	_	_
 15	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 55
+# sent_id = 64
 # text = Si nou pa fè sa, i kapab néyé é disparèt nèt. 
 1	Si	Si	_	_	_	_	_	_	_
 2	nou	nou	_	_	_	_	_	_	_
@@ -1791,7 +1818,7 @@
 12	nèt	nèt	_	_	_	_	_	_	_
 13	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 56
+# sent_id = 65
 # text = Poukwa an ka di kè kréyòl za dépasé étap a “pawòl palé ki maké”, sé davwa moun ki ka ékri kréyòl pa ka kontanté yo dè rètranskri chanté, kont kréyòl oben timtim tou sèl: yo ka éséyé voyé lang-la pi douvan adan poèm, woman, pyès téyat kisasayésa… (etc…). 
 1	Poukwa	Poukwa	_	_	_	_	_	_	_
 2	an	an	_	_	_	_	_	_	_
@@ -1854,7 +1881,7 @@
 59	)	)	PUNCT	PUNCT	_	_	_	_	_
 60	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 57
+# sent_id = 66
 # text = Men pou fè sa fòk konstwi lang-lan é fo zòt sav makè (écrivain) sé prèmyé moun ki ka konstwi lang-lan, ki ka machoké (forger) lang-la. 
 1	Men	Men	_	_	_	_	_	_	_
 2	pou	pou	_	_	_	_	_	_	_
@@ -1888,7 +1915,7 @@
 30	lang-la	lang-la	_	_	_	_	_	_	_
 31	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 58
+# sent_id = 67
 # text = Enki sonjé sa ki pasé pou lang fwansé-a: Joachim Du Bellay maké “La défense et illustration de la langue française” èvè sé makè a mouvman litérè-la yo té ka kriyé “La Pléïade”-la davwa yo té bon èvè zafè sé enki an laten moun té ka maké liv an Fwans. 
 1	Enki	Enki	_	_	_	_	_	_	_
 2	sonjé	sonjé	_	_	_	_	_	_	_
@@ -1947,7 +1974,7 @@
 55	Fwans	Fwans	PROPN	PROPN	_	_	_	_	_
 56	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 59
+# sent_id = 68
 # text = Yo té vlé voyé pwòp lang a yo douvan kivédi fwansé-la é sé pou sa yo envanté onlo pawòlnèf (néologismes) é yo koumansé sèviʼy pou ékri dé biten ki abstré, dé biten ki grangrèk (intellectuel). 
 1	Yo	Yo	_	_	_	_	_	_	_
 2	té	té	_	_	_	_	_	_	_
@@ -1991,7 +2018,7 @@
 40	)	)	PUNCT	PUNCT	_	_	_	_	_
 41	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 60
+# sent_id = 69
 # text = Menm mouvman-lasa fèt pou sé diféran lang Léwòp-la kontèl italyen, panyòl kisasayésa…Dépi sé lanné 70-la, nou komansé vwè parèt onlo tèks litérè an kréyòl ki Gwadloup, ki Matinik ki Ayiti ki Guiyàn. 
 1	Menm	Menm	_	_	_	_	_	_	_
 2	mouvman-lasa	mouvman-lasa	_	_	_	_	_	_	_
@@ -2032,7 +2059,7 @@
 37	Guiyàn	Guiyàn	PROPN	PROPN	_	_	_	_	_
 38	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 61
+# sent_id = 70
 # text = Té tini dé poèt kon Sony Rupaire, Hector Poullet, Max Rippon an Gwadloup, Monchoachi, Joby Bèrnabé, Serge Restog oben Térèz Léotin an Matinik, dé makè a pyès téyat kon Frankétienne an Ayiti é Elie Stephenson an Guiyàn. 
 1	Té	Té	_	_	_	_	_	_	_
 2	tini	tini	_	_	_	_	_	_	_
@@ -2079,7 +2106,7 @@
 43	Guiyàn	Guiyàn	PROPN	PROPN	_	_	_	_	_
 44	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 62
+# sent_id = 71
 # text = Sé a lè-ala onlo moun koumansé goumé rèd ba kréyòl é koumansé di kè i sé on lang. 
 1	Sé	Sé	_	_	_	_	_	_	_
 2	a	a	_	_	_	_	_	_	_
@@ -2101,7 +2128,7 @@
 18	lang	lang	_	_	_	_	_	_	_
 19	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 63
+# sent_id = 72
 # text = Yo té ka rijété vyé lidé-la konmkwa kréyòl té on mové fwansé oben on patwa. 
 1	Yo	Yo	_	_	_	_	_	_	_
 2	té	té	_	_	_	_	_	_	_
@@ -2120,7 +2147,7 @@
 15	patwa	patwa	_	_	_	_	_	_	_
 16	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 64
+# sent_id = 73
 # text = Lo travay litérè-lasa, ki ka kontinyé jis alè, ba kréyòl-la on gran pal davwa i blijé kréyòl-la soumèt li a lojik a lékriti. 
 1	Lo	Lo	_	_	_	_	_	_	_
 2	travay	travay	_	_	_	_	_	_	_
@@ -2149,8 +2176,8 @@
 25	lékriti	lékriti	_	_	_	_	_	_	_
 26	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 65
-# text = Ka sa yé lojik a lékriti? Enben, lè ou vwè ou ka ékri, ou pa tini hak ka viwonné (entourer) lang-la. 
+# sent_id = 74
+# text = Ka sa yé lojik a lékriti? 
 1	Ka	Ka	_	_	_	_	_	_	_
 2	sa	sa	_	_	_	_	_	_	_
 3	yé	yé	_	_	_	_	_	_	_
@@ -2158,28 +2185,31 @@
 5	a	a	_	_	_	_	_	_	_
 6	lékriti	lékriti	_	_	_	_	_	_	_
 7	?	?	PUNCT	PUNCT	_	_	_	_	_
-8	Enben	Enben	_	_	_	_	_	_	_
-9	,	,	PUNCT	PUNCT	_	_	_	_	_
-10	lè	lè	_	_	_	_	_	_	_
-11	ou	ou	_	_	_	_	_	_	_
-12	vwè	vwè	_	_	_	_	_	_	_
-13	ou	ou	_	_	_	_	_	_	_
-14	ka	ka	_	_	_	_	_	_	_
-15	ékri	ékri	_	_	_	_	_	_	_
-16	,	,	PUNCT	PUNCT	_	_	_	_	_
-17	ou	ou	_	_	_	_	_	_	_
-18	pa	pa	_	_	_	_	_	_	_
-19	tini	tini	_	_	_	_	_	_	_
-20	hak	hak	_	_	_	_	_	_	_
-21	ka	ka	_	_	_	_	_	_	_
-22	viwonné	viwonné	_	_	_	_	_	_	_
-23	(	(	PUNCT	PUNCT	_	_	_	_	_
-24	entourer	entourer	_	_	_	_	_	_	_
-25	)	)	PUNCT	PUNCT	_	_	_	_	_
-26	lang-la	lang-la	_	_	_	_	_	_	_
-27	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 66
+# sent_id = 75
+# text = Enben, lè ou vwè ou ka ékri, ou pa tini hak ka viwonné (entourer) lang-la. 
+1	Enben	Enben	_	_	_	_	_	_	_
+2	,	,	PUNCT	PUNCT	_	_	_	_	_
+3	lè	lè	_	_	_	_	_	_	_
+4	ou	ou	_	_	_	_	_	_	_
+5	vwè	vwè	_	_	_	_	_	_	_
+6	ou	ou	_	_	_	_	_	_	_
+7	ka	ka	_	_	_	_	_	_	_
+8	ékri	ékri	_	_	_	_	_	_	_
+9	,	,	PUNCT	PUNCT	_	_	_	_	_
+10	ou	ou	_	_	_	_	_	_	_
+11	pa	pa	_	_	_	_	_	_	_
+12	tini	tini	_	_	_	_	_	_	_
+13	hak	hak	_	_	_	_	_	_	_
+14	ka	ka	_	_	_	_	_	_	_
+15	viwonné	viwonné	_	_	_	_	_	_	_
+16	(	(	PUNCT	PUNCT	_	_	_	_	_
+17	entourer	entourer	_	_	_	_	_	_	_
+18	)	)	PUNCT	PUNCT	_	_	_	_	_
+19	lang-la	lang-la	_	_	_	_	_	_	_
+20	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# sent_id = 76
 # text = Lang-la tousèl asi fèy papyé-la oben asi ékran a òwdinatè-la. 
 1	Lang-la	Lang-la	_	_	_	_	_	_	_
 2	tousèl	tousèl	_	_	_	_	_	_	_
@@ -2193,7 +2223,7 @@
 10	òwdinatè-la	òwdinatè-la	_	_	_	_	_	_	_
 11	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 67
+# sent_id = 77
 # text = I pa tini zyé pou endéʼy, i pa tini jès non pli kifè lang maké-la blijé envanté dé zouti pou ranpli vid-lasa. 
 1	I	I	_	_	_	_	_	_	_
 2	pa	pa	_	_	_	_	_	_	_
@@ -2220,7 +2250,7 @@
 23	vid-lasa	vid-lasa	_	_	_	_	_	_	_
 24	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 68
+# sent_id = 78
 # text = Sé lyennè-la an té ka palé zòt talè-la, sé yonn adan sé zouti-la sé ékriven-an ka itilizé pou fè lang-la antré adan on lojik a pawòl maké.
 1	Sé	Sé	_	_	_	_	_	_	_
 2	lyennè-la	lyennè-la	_	_	_	_	_	_	_
@@ -2252,7 +2282,7 @@
 28	maké	maké	_	_	_	_	_	_	_
 29	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 69
+# sent_id = 79
 # text = Pa ni enki biten a lyennè-la adan lojik a pawòl maké. 
 1	Pa	Pa	_	_	_	_	_	_	_
 2	ni	ni	_	_	_	_	_	_	_
@@ -2267,7 +2297,7 @@
 11	maké	maké	_	_	_	_	_	_	_
 12	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 70
+# sent_id = 80
 # text = Ni zafè a larèl-langann la (norme) kivédi on modèl palé è on modèl maké ki lékòl é linivèsité ka priviléjyé. 
 1	Ni	Ni	_	_	_	_	_	_	_
 2	zafè	zafè	_	_	_	_	_	_	_
@@ -2293,7 +2323,7 @@
 22	priviléjyé	priviléjyé	_	_	_	_	_	_	_
 23	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 71
+# sent_id = 81
 # text = Konsèp a larèl-langann lan pa toutafètman klè délè davwa nou ni tandans a konfonn plizyè nivo. 
 1	Konsèp	Konsèp	_	_	_	_	_	_	_
 2	a	a	_	_	_	_	_	_	_
@@ -2313,7 +2343,7 @@
 16	nivo	nivo	_	_	_	_	_	_	_
 17	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 72
+# sent_id = 82
 # text = Ni, dabò pou yonn, on larèl-langann natirèl adan lang a tou lé jou-la kivédi on modèl palé ki kominoté-la ka rèkonnèt konm pi bon modèl palé. 
 1	Ni	Ni	_	_	_	_	_	_	_
 2	,	,	PUNCT	PUNCT	_	_	_	_	_
@@ -2345,7 +2375,7 @@
 28	palé	palé	_	_	_	_	_	_	_
 29	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 73
+# sent_id = 83
 # text = Kontèl an Fwans, yo ka diʼw sé an réjyon Tourèn (Touraine) moun ka palé pi bèl modèl fwansé. 
 1	Kontèl	Kontèl	_	_	_	_	_	_	_
 2	an	an	_	_	_	_	_	_	_
@@ -2370,7 +2400,7 @@
 21	fwansé	fwansé	_	_	_	_	_	_	_
 22	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 74
+# sent_id = 84
 # text = An Anglitè, yo ka diʼw sé anglé larèn-la (the queenʼs english) ki pi bon modèl palé anglé-la. 
 1	An	An	_	_	_	_	_	_	_
 2	Anglitè	Anglitè	PROPN	PROPN	_	_	_	_	_
@@ -2394,7 +2424,7 @@
 20	anglé-la	anglé-la	_	_	_	_	_	_	_
 21	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 75
+# sent_id = 85
 # text = Nou menm, an kréyòl, nou ka kwè kè sé Môn-dé-Zès (Matinik) oben Vyé-Zabitan (Gwadloup) éti moun ka palé pi bèl kréyòl, kréyòl ki pi fondalnatal (fondamental). 
 1	Nou	Nou	_	_	_	_	_	_	_
 2	menm	menm	_	_	_	_	_	_	_
@@ -2433,7 +2463,7 @@
 35	)	)	PUNCT	PUNCT	_	_	_	_	_
 36	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 76
+# sent_id = 86
 # text = Lè ou gadé lidé-lasa, pli souvan ki rarman, i pa vré, sé pa an Tourèn yo ka palé pi bon fwansé, men lidé-lasa nésésè davwa i ka pèmèt konsolidé larèl-langann. 
 1	Lè	Lè	_	_	_	_	_	_	_
 2	ou	ou	_	_	_	_	_	_	_
@@ -2471,7 +2501,7 @@
 34	larèl-langann	larèl-langann	_	_	_	_	_	_	_
 35	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 77
+# sent_id = 87
 # text = Sa sé pou pawòl palé mé pou pawòl maké a pa pèp-la ki ka kréyé, ki ka machoké larèl-langann pis pèp-la pa ka gyè ékri. 
 1	Sa	Sa	_	_	_	_	_	_	_
 2	sé	sé	_	_	_	_	_	_	_
@@ -2501,7 +2531,7 @@
 26	ékri	ékri	_	_	_	_	_	_	_
 27	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 78
+# sent_id = 88
 # text = Menm adan on péyi kon Lafwans oben Lézétazini, moun pa ka gyè sèvi pawòl maké adan lavi a tou lé jou a yo. 
 1	Menm	Menm	_	_	_	_	_	_	_
 2	adan	adan	_	_	_	_	_	_	_
@@ -2529,7 +2559,7 @@
 24	yo	yo	_	_	_	_	_	_	_
 25	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 79
+# sent_id = 89
 # text = Sa yo pé maké sé sinyati a yo asi on chèk oben ranpli dé dokiman administratif men yo pa ka sèvi lékriti-la adan on sans ki kréyatif. 
 1	Sa	Sa	_	_	_	_	_	_	_
 2	yo	yo	_	_	_	_	_	_	_
@@ -2560,8 +2590,8 @@
 27	kréyatif	kréyatif	_	_	_	_	_	_	_
 28	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 80
-# text = Sèl moun adan sosyété-la ki ka sèvi lékriti adan on sans kréyatif sé makè, poèt, jounalis kisasayésa… Sé sé moun-lasa ki ka défini larèl-langann maké-la (norme écrite) é, pi souvan ki rarman, larèl-langann tala ka riflété mannyè palé a krèy-tikyap la (bourgeoisie) pis jounalis oben ékriven, sé pa moun pèp-la, sé moun ki ka sôti adan krèy-sosyal ki wo, menm si délè ou pé jwenn yonn ki sòti adan pèp-la. 
+# sent_id = 90
+# text = Sèl moun adan sosyété-la ki ka sèvi lékriti adan on sans kréyatif sé makè, poèt, jounalis kisasayésa… 
 1	Sèl	Sèl	_	_	_	_	_	_	_
 2	moun	moun	_	_	_	_	_	_	_
 3	adan	adan	_	_	_	_	_	_	_
@@ -2582,71 +2612,74 @@
 18	jounalis	jounalis	_	_	_	_	_	_	_
 19	kisasayésa	kisasayésa	_	_	_	_	_	_	_
 20	…	…	PUNCT	PUNCT	_	_	_	_	_
-21	Sé	Sé	PROPN	PROPN	_	_	_	_	_
-22	sé	sé	_	_	_	_	_	_	_
-23	moun-lasa	moun-lasa	_	_	_	_	_	_	_
-24	ki	ki	_	_	_	_	_	_	_
-25	ka	ka	_	_	_	_	_	_	_
-26	défini	défini	_	_	_	_	_	_	_
-27	larèl-langann	larèl-langann	_	_	_	_	_	_	_
-28	maké-la	maké-la	_	_	_	_	_	_	_
-29	(	(	PUNCT	PUNCT	_	_	_	_	_
-30	norme	norme	_	_	_	_	_	_	_
-31	écrite	écrite	_	_	_	_	_	_	_
-32	)	)	PUNCT	PUNCT	_	_	_	_	_
-33	é	é	_	_	_	_	_	_	_
-34	,	,	PUNCT	PUNCT	_	_	_	_	_
-35	pi	pi	_	_	_	_	_	_	_
-36	souvan	souvan	_	_	_	_	_	_	_
-37	ki	ki	_	_	_	_	_	_	_
-38	rarman	rarman	_	_	_	_	_	_	_
-39	,	,	PUNCT	PUNCT	_	_	_	_	_
-40	larèl-langann	larèl-langann	_	_	_	_	_	_	_
-41	tala	tala	_	_	_	_	_	_	_
-42	ka	ka	_	_	_	_	_	_	_
-43	riflété	riflété	_	_	_	_	_	_	_
-44	mannyè	mannyè	_	_	_	_	_	_	_
-45	palé	palé	_	_	_	_	_	_	_
-46	a	a	_	_	_	_	_	_	_
-47	krèy-tikyap	krèy-tikyap	_	_	_	_	_	_	_
-48	la	la	_	_	_	_	_	_	_
-49	(	(	PUNCT	PUNCT	_	_	_	_	_
-50	bourgeoisie	bourgeoisie	_	_	_	_	_	_	_
-51	)	)	PUNCT	PUNCT	_	_	_	_	_
-52	pis	pis	_	_	_	_	_	_	_
-53	jounalis	jounalis	_	_	_	_	_	_	_
-54	oben	oben	_	_	_	_	_	_	_
-55	ékriven	ékriven	_	_	_	_	_	_	_
-56	,	,	PUNCT	PUNCT	_	_	_	_	_
-57	sé	sé	_	_	_	_	_	_	_
-58	pa	pa	_	_	_	_	_	_	_
-59	moun	moun	_	_	_	_	_	_	_
-60	pèp-la	pèp-la	_	_	_	_	_	_	_
-61	,	,	PUNCT	PUNCT	_	_	_	_	_
-62	sé	sé	_	_	_	_	_	_	_
-63	moun	moun	_	_	_	_	_	_	_
-64	ki	ki	_	_	_	_	_	_	_
-65	ka	ka	_	_	_	_	_	_	_
-66	sôti	sôti	_	_	_	_	_	_	_
-67	adan	adan	_	_	_	_	_	_	_
-68	krèy-sosyal	krèy-sosyal	_	_	_	_	_	_	_
-69	ki	ki	_	_	_	_	_	_	_
-70	wo	wo	_	_	_	_	_	_	_
-71	,	,	PUNCT	PUNCT	_	_	_	_	_
-72	menm	menm	_	_	_	_	_	_	_
-73	si	si	_	_	_	_	_	_	_
-74	délè	délè	_	_	_	_	_	_	_
-75	ou	ou	_	_	_	_	_	_	_
-76	pé	pé	_	_	_	_	_	_	_
-77	jwenn	jwenn	_	_	_	_	_	_	_
-78	yonn	yonn	_	_	_	_	_	_	_
-79	ki	ki	_	_	_	_	_	_	_
-80	sòti	sòti	_	_	_	_	_	_	_
-81	adan	adan	_	_	_	_	_	_	_
-82	pèp-la	pèp-la	_	_	_	_	_	_	_
-83	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 81
+# sent_id = 91
+# text = Sé sé moun-lasa ki ka défini larèl-langann maké-la (norme écrite) é, pi souvan ki rarman, larèl-langann tala ka riflété mannyè palé a krèy-tikyap la (bourgeoisie) pis jounalis oben ékriven, sé pa moun pèp-la, sé moun ki ka sôti adan krèy-sosyal ki wo, menm si délè ou pé jwenn yonn ki sòti adan pèp-la. 
+1	Sé	Sé	_	_	_	_	_	_	_
+2	sé	sé	_	_	_	_	_	_	_
+3	moun-lasa	moun-lasa	_	_	_	_	_	_	_
+4	ki	ki	_	_	_	_	_	_	_
+5	ka	ka	_	_	_	_	_	_	_
+6	défini	défini	_	_	_	_	_	_	_
+7	larèl-langann	larèl-langann	_	_	_	_	_	_	_
+8	maké-la	maké-la	_	_	_	_	_	_	_
+9	(	(	PUNCT	PUNCT	_	_	_	_	_
+10	norme	norme	_	_	_	_	_	_	_
+11	écrite	écrite	_	_	_	_	_	_	_
+12	)	)	PUNCT	PUNCT	_	_	_	_	_
+13	é	é	_	_	_	_	_	_	_
+14	,	,	PUNCT	PUNCT	_	_	_	_	_
+15	pi	pi	_	_	_	_	_	_	_
+16	souvan	souvan	_	_	_	_	_	_	_
+17	ki	ki	_	_	_	_	_	_	_
+18	rarman	rarman	_	_	_	_	_	_	_
+19	,	,	PUNCT	PUNCT	_	_	_	_	_
+20	larèl-langann	larèl-langann	_	_	_	_	_	_	_
+21	tala	tala	_	_	_	_	_	_	_
+22	ka	ka	_	_	_	_	_	_	_
+23	riflété	riflété	_	_	_	_	_	_	_
+24	mannyè	mannyè	_	_	_	_	_	_	_
+25	palé	palé	_	_	_	_	_	_	_
+26	a	a	_	_	_	_	_	_	_
+27	krèy-tikyap	krèy-tikyap	_	_	_	_	_	_	_
+28	la	la	_	_	_	_	_	_	_
+29	(	(	PUNCT	PUNCT	_	_	_	_	_
+30	bourgeoisie	bourgeoisie	_	_	_	_	_	_	_
+31	)	)	PUNCT	PUNCT	_	_	_	_	_
+32	pis	pis	_	_	_	_	_	_	_
+33	jounalis	jounalis	_	_	_	_	_	_	_
+34	oben	oben	_	_	_	_	_	_	_
+35	ékriven	ékriven	_	_	_	_	_	_	_
+36	,	,	PUNCT	PUNCT	_	_	_	_	_
+37	sé	sé	_	_	_	_	_	_	_
+38	pa	pa	_	_	_	_	_	_	_
+39	moun	moun	_	_	_	_	_	_	_
+40	pèp-la	pèp-la	_	_	_	_	_	_	_
+41	,	,	PUNCT	PUNCT	_	_	_	_	_
+42	sé	sé	_	_	_	_	_	_	_
+43	moun	moun	_	_	_	_	_	_	_
+44	ki	ki	_	_	_	_	_	_	_
+45	ka	ka	_	_	_	_	_	_	_
+46	sôti	sôti	_	_	_	_	_	_	_
+47	adan	adan	_	_	_	_	_	_	_
+48	krèy-sosyal	krèy-sosyal	_	_	_	_	_	_	_
+49	ki	ki	_	_	_	_	_	_	_
+50	wo	wo	_	_	_	_	_	_	_
+51	,	,	PUNCT	PUNCT	_	_	_	_	_
+52	menm	menm	_	_	_	_	_	_	_
+53	si	si	_	_	_	_	_	_	_
+54	délè	délè	_	_	_	_	_	_	_
+55	ou	ou	_	_	_	_	_	_	_
+56	pé	pé	_	_	_	_	_	_	_
+57	jwenn	jwenn	_	_	_	_	_	_	_
+58	yonn	yonn	_	_	_	_	_	_	_
+59	ki	ki	_	_	_	_	_	_	_
+60	sòti	sòti	_	_	_	_	_	_	_
+61	adan	adan	_	_	_	_	_	_	_
+62	pèp-la	pèp-la	_	_	_	_	_	_	_
+63	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# sent_id = 92
 # text = Adan istwa a lang fwansé-la sé misyé Malherbe, on graméryen ki té ka viv an 17yèm syèk-la ki défini larèl gramatikal a fwansé-la é larèl-lasa, i fondaséʼy (fonder) asi jan sé moun a lantou a wa-la té ka palé kivédi asi jan palé a lakou wayal-la. 
 1	Adan	Adan	_	_	_	_	_	_	_
 2	istwa	istwa	_	_	_	_	_	_	_
@@ -2700,7 +2733,7 @@
 50	wayal-la	wayal-la	_	_	_	_	_	_	_
 51	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 82
+# sent_id = 93
 # text = A nivo vokabilè sé on dòt boug yo ka kriyé Vaugelas ki définiʼy. 
 1	A	A	_	_	_	_	_	_	_
 2	nivo	nivo	_	_	_	_	_	_	_
@@ -2717,7 +2750,7 @@
 13	définiʼy	définiʼy	_	_	_	_	_	_	_
 14	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 83
+# sent_id = 94
 # text = Ki pou Malherbe ki pou Vaugelas, fo té woté tout mo réjyonal adan lang fwansé maké-la é fo té itilizé enki modèl palé a lavil Pari. 
 1	Ki	Ki	_	_	_	_	_	_	_
 2	pou	pou	_	_	_	_	_	_	_
@@ -2748,7 +2781,7 @@
 27	Pari	Pari	PROPN	PROPN	_	_	_	_	_
 28	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 84
+# sent_id = 95
 # text = Malherbe di kon sa: Il faut dégasconner la langue française. 
 1	Malherbe	Malherbe	_	_	_	_	_	_	_
 2	di	di	_	_	_	_	_	_	_
@@ -2763,7 +2796,7 @@
 11	française	française	_	_	_	_	_	_	_
 12	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 85
+# sent_id = 96
 # text = Kon zòt savé, sé Gaskon-la sé moun ki ka viv adan réjyon a Bòwdo é adan pwovens a Lakitèn, nan sid a Lafwans. 
 1	Kon	Kon	_	_	_	_	_	_	_
 2	zòt	zòt	_	_	_	_	_	_	_
@@ -2792,7 +2825,7 @@
 25	Lafwans	Lafwans	PROPN	PROPN	_	_	_	_	_
 26	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 86
+# sent_id = 97
 # text = Sé moun-lasa té tini pwòp lang a yo, gaskon, ki té on dyalèk a òksitan ki té lang a tout sid a Lafwans jis an 18yèm syèk-la. 
 1	Sé	Sé	_	_	_	_	_	_	_
 2	moun-lasa	moun-lasa	_	_	_	_	_	_	_
@@ -2825,7 +2858,7 @@
 29	syèk-la	syèk-la	_	_	_	_	_	_	_
 30	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 87
+# sent_id = 98
 # text = Sé ranboulzay (révolution) fwansé 1789-la ki désidé kè fwansé ké sèl lang péyi-la é ki goumé kont sé dyalèk fwansé-la (nòwman, pwatèven kisasayésa…) èk kont sé lang réjyonal-la kontèl brèton, bask oben kòws. 
 1	Sé	Sé	_	_	_	_	_	_	_
 2	ranboulzay	ranboulzay	_	_	_	_	_	_	_
@@ -2869,7 +2902,7 @@
 40	kòws	kòws	_	_	_	_	_	_	_
 41	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 88
+# sent_id = 99
 # text = Rézilta a goumé-lasa apré dé syèk sé ki sé dyalèk fwansé-la disparèt é ki sé lang réjyonal-la pèd pyé, yo tjoulé é sèten adan yo an danjé jòd-la. 
 1	Rézilta	Rézilta	_	_	_	_	_	_	_
 2	a	a	_	_	_	_	_	_	_
@@ -2902,7 +2935,7 @@
 29	jòd-la	jòd-la	_	_	_	_	_	_	_
 30	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 89
+# sent_id = 100
 # text = Enben, lè Malherbe et Vaugelas défini larèl-langann a lang fwansé-la, yo enki bani tout mo ki té sôti adan sé pwovens-la. 
 1	Enben	Enben	_	_	_	_	_	_	_
 2	,	,	PUNCT	PUNCT	_	_	_	_	_
@@ -2929,7 +2962,7 @@
 23	pwovens-la	pwovens-la	_	_	_	_	_	_	_
 24	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 90
+# sent_id = 101
 # text = Biten-lasa pa woulé menm jan-la an Itali oben an Almay oti sé dyalèk-la vigyò (vigoureux) toujou é adan italyen maké oben alman maké, pon moun pa pè sèvi mo oben èsprésyon réjyonal. 
 1	Biten-lasa	Biten-lasa	_	_	_	_	_	_	_
 2	pa	pa	_	_	_	_	_	_	_
@@ -2968,7 +3001,7 @@
 35	réjyonal	réjyonal	_	_	_	_	_	_	_
 36	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 91
+# sent_id = 102
 # text = Lafwans sé péyi asi latè éti larèl-langann la pi rèd é sé lékòl èvè linivèsité ki chajé dè anchouké (enraciner) ‘y adan tèt a moun. 
 1	Lafwans	Lafwans	_	_	_	_	_	_	_
 2	sé	sé	_	_	_	_	_	_	_
@@ -3000,7 +3033,7 @@
 28	moun	moun	_	_	_	_	_	_	_
 29	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 92
+# sent_id = 103
 # text = Sé Lakadémi Fwansé ki chajè dè véyé si moun ka rèspèkté règ a larèl-langann-la é ki ka goumen kont mo anglé ki ka pwofondé (pénétrer) adan fwansé-la jôd-la.
 1	Sé	Sé	_	_	_	_	_	_	_
 2	Lakadémi	Lakadémi	PROPN	PROPN	_	_	_	_	_
@@ -3034,7 +3067,7 @@
 30	jôd-la	jôd-la	_	_	_	_	_	_	_
 31	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 93
+# sent_id = 104
 # text = Travay a ékriven an nou é dè tout moun ka sèvi kréyòl maké adan sosyété-la sé sè machoké on larèl-langann. 
 1	Travay	Travay	_	_	_	_	_	_	_
 2	a	a	_	_	_	_	_	_	_
@@ -3058,8 +3091,8 @@
 20	larèl-langann	larèl-langann	_	_	_	_	_	_	_
 21	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 94
-# text = Ki jan yo pé rivé fè sa? Enben, dabò pou yonn, fo nou cwazi on modèl kréyòl adan sé diféran mannyè-la éti moun ka palé kréyòl adan péyi an nou. 
+# sent_id = 105
+# text = Ki jan yo pé rivé fè sa? 
 1	Ki	Ki	_	_	_	_	_	_	_
 2	jan	jan	_	_	_	_	_	_	_
 3	yo	yo	_	_	_	_	_	_	_
@@ -3068,35 +3101,38 @@
 6	fè	fè	_	_	_	_	_	_	_
 7	sa	sa	_	_	_	_	_	_	_
 8	?	?	PUNCT	PUNCT	_	_	_	_	_
-9	Enben	Enben	_	_	_	_	_	_	_
-10	,	,	PUNCT	PUNCT	_	_	_	_	_
-11	dabò	dabò	_	_	_	_	_	_	_
-12	pou	pou	_	_	_	_	_	_	_
-13	yonn	yonn	_	_	_	_	_	_	_
-14	,	,	PUNCT	PUNCT	_	_	_	_	_
-15	fo	fo	_	_	_	_	_	_	_
-16	nou	nou	_	_	_	_	_	_	_
-17	cwazi	cwazi	_	_	_	_	_	_	_
-18	on	on	_	_	_	_	_	_	_
-19	modèl	modèl	_	_	_	_	_	_	_
-20	kréyòl	kréyòl	_	_	_	_	_	_	_
-21	adan	adan	_	_	_	_	_	_	_
-22	sé	sé	_	_	_	_	_	_	_
-23	diféran	diféran	_	_	_	_	_	_	_
-24	mannyè-la	mannyè-la	_	_	_	_	_	_	_
-25	éti	éti	_	_	_	_	_	_	_
-26	moun	moun	_	_	_	_	_	_	_
-27	ka	ka	_	_	_	_	_	_	_
-28	palé	palé	_	_	_	_	_	_	_
-29	kréyòl	kréyòl	_	_	_	_	_	_	_
-30	adan	adan	_	_	_	_	_	_	_
-31	péyi	péyi	_	_	_	_	_	_	_
-32	an	an	_	_	_	_	_	_	_
-33	nou	nou	_	_	_	_	_	_	_
-34	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 95
-# text = Kilès modèl kréyòl nou ké chwazi? Es sé jan palé a Béké? Es sé jan palé a Milat é tikyap? Es sé jan palé a magyengyen (prolétaire)? Si nou ka fè on siparézon (faire une comparaison) èvè dòt pèp asou latè kontèl sé Fwansé-la, nou ka vwè kè yo chwazi jan palé a sé tikyap-la kivédi a krèy-sosyal la ki ka dominé la, ki ka gouvèné sosyété-la. 
+# sent_id = 106
+# text = Enben, dabò pou yonn, fo nou cwazi on modèl kréyòl adan sé diféran mannyè-la éti moun ka palé kréyòl adan péyi an nou. 
+1	Enben	Enben	_	_	_	_	_	_	_
+2	,	,	PUNCT	PUNCT	_	_	_	_	_
+3	dabò	dabò	_	_	_	_	_	_	_
+4	pou	pou	_	_	_	_	_	_	_
+5	yonn	yonn	_	_	_	_	_	_	_
+6	,	,	PUNCT	PUNCT	_	_	_	_	_
+7	fo	fo	_	_	_	_	_	_	_
+8	nou	nou	_	_	_	_	_	_	_
+9	cwazi	cwazi	_	_	_	_	_	_	_
+10	on	on	_	_	_	_	_	_	_
+11	modèl	modèl	_	_	_	_	_	_	_
+12	kréyòl	kréyòl	_	_	_	_	_	_	_
+13	adan	adan	_	_	_	_	_	_	_
+14	sé	sé	_	_	_	_	_	_	_
+15	diféran	diféran	_	_	_	_	_	_	_
+16	mannyè-la	mannyè-la	_	_	_	_	_	_	_
+17	éti	éti	_	_	_	_	_	_	_
+18	moun	moun	_	_	_	_	_	_	_
+19	ka	ka	_	_	_	_	_	_	_
+20	palé	palé	_	_	_	_	_	_	_
+21	kréyòl	kréyòl	_	_	_	_	_	_	_
+22	adan	adan	_	_	_	_	_	_	_
+23	péyi	péyi	_	_	_	_	_	_	_
+24	an	an	_	_	_	_	_	_	_
+25	nou	nou	_	_	_	_	_	_	_
+26	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# sent_id = 107
+# text = Kilès modèl kréyòl nou ké chwazi? 
 1	Kilès	Kilès	_	_	_	_	_	_	_
 2	modèl	modèl	_	_	_	_	_	_	_
 3	kréyòl	kréyòl	_	_	_	_	_	_	_
@@ -3104,79 +3140,91 @@
 5	ké	ké	_	_	_	_	_	_	_
 6	chwazi	chwazi	_	_	_	_	_	_	_
 7	?	?	PUNCT	PUNCT	_	_	_	_	_
-8	Es	Es	_	_	_	_	_	_	_
-9	sé	sé	_	_	_	_	_	_	_
-10	jan	jan	_	_	_	_	_	_	_
-11	palé	palé	_	_	_	_	_	_	_
-12	a	a	_	_	_	_	_	_	_
-13	Béké	Béké	PROPN	PROPN	_	_	_	_	_
-14	?	?	PUNCT	PUNCT	_	_	_	_	_
-15	Es	Es	_	_	_	_	_	_	_
-16	sé	sé	_	_	_	_	_	_	_
-17	jan	jan	_	_	_	_	_	_	_
-18	palé	palé	_	_	_	_	_	_	_
-19	a	a	_	_	_	_	_	_	_
-20	Milat	Milat	PROPN	PROPN	_	_	_	_	_
-21	é	é	_	_	_	_	_	_	_
-22	tikyap	tikyap	_	_	_	_	_	_	_
-23	?	?	PUNCT	PUNCT	_	_	_	_	_
-24	Es	Es	_	_	_	_	_	_	_
-25	sé	sé	_	_	_	_	_	_	_
-26	jan	jan	_	_	_	_	_	_	_
-27	palé	palé	_	_	_	_	_	_	_
-28	a	a	_	_	_	_	_	_	_
-29	magyengyen	magyengyen	_	_	_	_	_	_	_
-30	(	(	PUNCT	PUNCT	_	_	_	_	_
-31	prolétaire	prolétaire	_	_	_	_	_	_	_
-32	)	)	PUNCT	PUNCT	_	_	_	_	_
-33	?	?	PUNCT	PUNCT	_	_	_	_	_
-34	Si	Si	_	_	_	_	_	_	_
-35	nou	nou	_	_	_	_	_	_	_
-36	ka	ka	_	_	_	_	_	_	_
-37	fè	fè	_	_	_	_	_	_	_
-38	on	on	_	_	_	_	_	_	_
-39	siparézon	siparézon	_	_	_	_	_	_	_
-40	(	(	PUNCT	PUNCT	_	_	_	_	_
-41	faire	faire	_	_	_	_	_	_	_
-42	une	une	_	_	_	_	_	_	_
-43	comparaison	comparaison	_	_	_	_	_	_	_
-44	)	)	PUNCT	PUNCT	_	_	_	_	_
-45	èvè	èvè	_	_	_	_	_	_	_
-46	dòt	dòt	_	_	_	_	_	_	_
-47	pèp	pèp	_	_	_	_	_	_	_
-48	asou	asou	_	_	_	_	_	_	_
-49	latè	latè	_	_	_	_	_	_	_
-50	kontèl	kontèl	_	_	_	_	_	_	_
-51	sé	sé	_	_	_	_	_	_	_
-52	Fwansé-la	Fwansé-la	PROPN	PROPN	_	_	_	_	_
-53	,	,	PUNCT	PUNCT	_	_	_	_	_
-54	nou	nou	_	_	_	_	_	_	_
-55	ka	ka	_	_	_	_	_	_	_
-56	vwè	vwè	_	_	_	_	_	_	_
-57	kè	kè	_	_	_	_	_	_	_
-58	yo	yo	_	_	_	_	_	_	_
-59	chwazi	chwazi	_	_	_	_	_	_	_
-60	jan	jan	_	_	_	_	_	_	_
-61	palé	palé	_	_	_	_	_	_	_
-62	a	a	_	_	_	_	_	_	_
-63	sé	sé	_	_	_	_	_	_	_
-64	tikyap-la	tikyap-la	_	_	_	_	_	_	_
-65	kivédi	kivédi	_	_	_	_	_	_	_
-66	a	a	_	_	_	_	_	_	_
-67	krèy-sosyal	krèy-sosyal	_	_	_	_	_	_	_
-68	la	la	_	_	_	_	_	_	_
-69	ki	ki	_	_	_	_	_	_	_
-70	ka	ka	_	_	_	_	_	_	_
-71	dominé	dominé	_	_	_	_	_	_	_
-72	la	la	_	_	_	_	_	_	_
-73	,	,	PUNCT	PUNCT	_	_	_	_	_
-74	ki	ki	_	_	_	_	_	_	_
-75	ka	ka	_	_	_	_	_	_	_
-76	gouvèné	gouvèné	_	_	_	_	_	_	_
-77	sosyété-la	sosyété-la	_	_	_	_	_	_	_
-78	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 96
+# sent_id = 108
+# text = Es sé jan palé a Béké? 
+1	Es	Es	_	_	_	_	_	_	_
+2	sé	sé	_	_	_	_	_	_	_
+3	jan	jan	_	_	_	_	_	_	_
+4	palé	palé	_	_	_	_	_	_	_
+5	a	a	_	_	_	_	_	_	_
+6	Béké	Béké	PROPN	PROPN	_	_	_	_	_
+7	?	?	PUNCT	PUNCT	_	_	_	_	_
+
+# sent_id = 109
+# text = Es sé jan palé a Milat é tikyap? 
+1	Es	Es	_	_	_	_	_	_	_
+2	sé	sé	_	_	_	_	_	_	_
+3	jan	jan	_	_	_	_	_	_	_
+4	palé	palé	_	_	_	_	_	_	_
+5	a	a	_	_	_	_	_	_	_
+6	Milat	Milat	PROPN	PROPN	_	_	_	_	_
+7	é	é	_	_	_	_	_	_	_
+8	tikyap	tikyap	_	_	_	_	_	_	_
+9	?	?	PUNCT	PUNCT	_	_	_	_	_
+
+# sent_id = 110
+# text = Es sé jan palé a magyengyen (prolétaire)? 
+1	Es	Es	_	_	_	_	_	_	_
+2	sé	sé	_	_	_	_	_	_	_
+3	jan	jan	_	_	_	_	_	_	_
+4	palé	palé	_	_	_	_	_	_	_
+5	a	a	_	_	_	_	_	_	_
+6	magyengyen	magyengyen	_	_	_	_	_	_	_
+7	(	(	PUNCT	PUNCT	_	_	_	_	_
+8	prolétaire	prolétaire	_	_	_	_	_	_	_
+9	)	)	PUNCT	PUNCT	_	_	_	_	_
+10	?	?	PUNCT	PUNCT	_	_	_	_	_
+
+# sent_id = 111
+# text = Si nou ka fè on siparézon (faire une comparaison) èvè dòt pèp asou latè kontèl sé Fwansé-la, nou ka vwè kè yo chwazi jan palé a sé tikyap-la kivédi a krèy-sosyal la ki ka dominé la, ki ka gouvèné sosyété-la. 
+1	Si	Si	_	_	_	_	_	_	_
+2	nou	nou	_	_	_	_	_	_	_
+3	ka	ka	_	_	_	_	_	_	_
+4	fè	fè	_	_	_	_	_	_	_
+5	on	on	_	_	_	_	_	_	_
+6	siparézon	siparézon	_	_	_	_	_	_	_
+7	(	(	PUNCT	PUNCT	_	_	_	_	_
+8	faire	faire	_	_	_	_	_	_	_
+9	une	une	_	_	_	_	_	_	_
+10	comparaison	comparaison	_	_	_	_	_	_	_
+11	)	)	PUNCT	PUNCT	_	_	_	_	_
+12	èvè	èvè	_	_	_	_	_	_	_
+13	dòt	dòt	_	_	_	_	_	_	_
+14	pèp	pèp	_	_	_	_	_	_	_
+15	asou	asou	_	_	_	_	_	_	_
+16	latè	latè	_	_	_	_	_	_	_
+17	kontèl	kontèl	_	_	_	_	_	_	_
+18	sé	sé	_	_	_	_	_	_	_
+19	Fwansé-la	Fwansé-la	PROPN	PROPN	_	_	_	_	_
+20	,	,	PUNCT	PUNCT	_	_	_	_	_
+21	nou	nou	_	_	_	_	_	_	_
+22	ka	ka	_	_	_	_	_	_	_
+23	vwè	vwè	_	_	_	_	_	_	_
+24	kè	kè	_	_	_	_	_	_	_
+25	yo	yo	_	_	_	_	_	_	_
+26	chwazi	chwazi	_	_	_	_	_	_	_
+27	jan	jan	_	_	_	_	_	_	_
+28	palé	palé	_	_	_	_	_	_	_
+29	a	a	_	_	_	_	_	_	_
+30	sé	sé	_	_	_	_	_	_	_
+31	tikyap-la	tikyap-la	_	_	_	_	_	_	_
+32	kivédi	kivédi	_	_	_	_	_	_	_
+33	a	a	_	_	_	_	_	_	_
+34	krèy-sosyal	krèy-sosyal	_	_	_	_	_	_	_
+35	la	la	_	_	_	_	_	_	_
+36	ki	ki	_	_	_	_	_	_	_
+37	ka	ka	_	_	_	_	_	_	_
+38	dominé	dominé	_	_	_	_	_	_	_
+39	la	la	_	_	_	_	_	_	_
+40	,	,	PUNCT	PUNCT	_	_	_	_	_
+41	ki	ki	_	_	_	_	_	_	_
+42	ka	ka	_	_	_	_	_	_	_
+43	gouvèné	gouvèné	_	_	_	_	_	_	_
+44	sosyété-la	sosyété-la	_	_	_	_	_	_	_
+45	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# sent_id = 112
 # text = Pa ni pon pèp asi latè ki chwazi modèl palé a moun ki anba, moun ki ka pwan fè, magyengyen. 
 1	Pa	Pa	_	_	_	_	_	_	_
 2	ni	ni	_	_	_	_	_	_	_
@@ -3202,35 +3250,38 @@
 22	magyengyen	magyengyen	_	_	_	_	_	_	_
 23	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 97
-# text = Poukwa? Davwa lè ou ka kréyé on larèl-langann, fo i wototo (prestigieux), fo tout moun admiréʼy é chaché imitéʼy. 
+# sent_id = 113
+# text = Poukwa? 
 1	Poukwa	Poukwa	_	_	_	_	_	_	_
 2	?	?	PUNCT	PUNCT	_	_	_	_	_
-3	Davwa	Davwa	_	_	_	_	_	_	_
-4	lè	lè	_	_	_	_	_	_	_
-5	ou	ou	_	_	_	_	_	_	_
-6	ka	ka	_	_	_	_	_	_	_
-7	kréyé	kréyé	_	_	_	_	_	_	_
-8	on	on	_	_	_	_	_	_	_
-9	larèl-langann	larèl-langann	_	_	_	_	_	_	_
-10	,	,	PUNCT	PUNCT	_	_	_	_	_
-11	fo	fo	_	_	_	_	_	_	_
-12	i	i	_	_	_	_	_	_	_
-13	wototo	wototo	_	_	_	_	_	_	_
-14	(	(	PUNCT	PUNCT	_	_	_	_	_
-15	prestigieux	prestigieux	_	_	_	_	_	_	_
-16	)	)	PUNCT	PUNCT	_	_	_	_	_
-17	,	,	PUNCT	PUNCT	_	_	_	_	_
-18	fo	fo	_	_	_	_	_	_	_
-19	tout	tout	_	_	_	_	_	_	_
-20	moun	moun	_	_	_	_	_	_	_
-21	admiréʼy	admiréʼy	_	_	_	_	_	_	_
-22	é	é	_	_	_	_	_	_	_
-23	chaché	chaché	_	_	_	_	_	_	_
-24	imitéʼy	imitéʼy	_	_	_	_	_	_	_
-25	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 98
+# sent_id = 114
+# text = Davwa lè ou ka kréyé on larèl-langann, fo i wototo (prestigieux), fo tout moun admiréʼy é chaché imitéʼy. 
+1	Davwa	Davwa	_	_	_	_	_	_	_
+2	lè	lè	_	_	_	_	_	_	_
+3	ou	ou	_	_	_	_	_	_	_
+4	ka	ka	_	_	_	_	_	_	_
+5	kréyé	kréyé	_	_	_	_	_	_	_
+6	on	on	_	_	_	_	_	_	_
+7	larèl-langann	larèl-langann	_	_	_	_	_	_	_
+8	,	,	PUNCT	PUNCT	_	_	_	_	_
+9	fo	fo	_	_	_	_	_	_	_
+10	i	i	_	_	_	_	_	_	_
+11	wototo	wototo	_	_	_	_	_	_	_
+12	(	(	PUNCT	PUNCT	_	_	_	_	_
+13	prestigieux	prestigieux	_	_	_	_	_	_	_
+14	)	)	PUNCT	PUNCT	_	_	_	_	_
+15	,	,	PUNCT	PUNCT	_	_	_	_	_
+16	fo	fo	_	_	_	_	_	_	_
+17	tout	tout	_	_	_	_	_	_	_
+18	moun	moun	_	_	_	_	_	_	_
+19	admiréʼy	admiréʼy	_	_	_	_	_	_	_
+20	é	é	_	_	_	_	_	_	_
+21	chaché	chaché	_	_	_	_	_	_	_
+22	imitéʼy	imitéʼy	_	_	_	_	_	_	_
+23	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# sent_id = 115
 # text = Si ou chwazi on larèl-langan éti moun ka méprizé, i pé pa woulé on jan ki obidjoul (convenable). 
 1	Si	Si	_	_	_	_	_	_	_
 2	ou	ou	_	_	_	_	_	_	_
@@ -3255,7 +3306,7 @@
 21	)	)	PUNCT	PUNCT	_	_	_	_	_
 22	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 99
+# sent_id = 116
 # text = Poblèm-la kréyòl-la ni, sé kè i sé on lang ki pa jen viv tou yonn adan nich (ecosystème) a-y. 
 1	Poblèm-la	Poblèm-la	_	_	_	_	_	_	_
 2	kréyòl-la	kréyòl-la	_	_	_	_	_	_	_
@@ -3281,7 +3332,7 @@
 22	a-y	a-y	_	_	_	_	_	_	_
 23	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 100
+# sent_id = 117
 # text = I toujou viv kolé èvè on dòt lang ki pi mapipi (puissant) kiʼy é lang-lasa, sé fwansé-la. 
 1	I	I	_	_	_	_	_	_	_
 2	toujou	toujou	_	_	_	_	_	_	_
@@ -3305,7 +3356,7 @@
 20	fwansé-la	fwansé-la	_	_	_	_	_	_	_
 21	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 101
+# sent_id = 118
 # text = Di fèt kè fwansé-la toujou pijé kréyòl-la, di fèt i toujou chaché tjouyé kréyòl-la, nou ka vwè ki dépi on dimi-syèk apipré, ni on dékréyolizasyon ka fèt. 
 1	Di	Di	_	_	_	_	_	_	_
 2	fèt	fèt	_	_	_	_	_	_	_
@@ -3339,7 +3390,7 @@
 30	fèt	fèt	_	_	_	_	_	_	_
 31	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 102
+# sent_id = 119
 # text = Kivédi kréyòl-la ka déchèpiyé (se déliter), ka dégrenné an mizi an mizi. 
 1	Kivédi	Kivédi	_	_	_	_	_	_	_
 2	kréyòl-la	kréyòl-la	_	_	_	_	_	_	_
@@ -3358,7 +3409,7 @@
 15	mizi	mizi	_	_	_	_	_	_	_
 16	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 103
+# sent_id = 120
 # text = Ni onlo mo fwansé, on pakèt èsprésyon fwansé ki ka enki varé kréyòl-la toubòlman san yo sibi pon mofwaz (transformation). 
 1	Ni	Ni	_	_	_	_	_	_	_
 2	onlo	onlo	_	_	_	_	_	_	_
@@ -3385,7 +3436,7 @@
 23	)	)	PUNCT	PUNCT	_	_	_	_	_
 24	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 104
+# sent_id = 121
 # text = An tan lontan, lè lang kréyòl-la té ka fòmé kò a-y, i té ka pwan sé mo fwansé-la é i té ka tòd yo, i té ka koupé yo, i té ka mofwazé yo jis lè ou pa té ka menm rivé rèkonnèt ki mo kréyòl-la té sòti adan on mo fwansé. 
 1	An	An	_	_	_	_	_	_	_
 2	tan	tan	_	_	_	_	_	_	_
@@ -3445,14 +3496,14 @@
 56	fwansé	fwansé	_	_	_	_	_	_	_
 57	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 105
+# sent_id = 122
 # text = Mi yonndé kontèl:
 1	Mi	Mi	_	_	_	_	_	_	_
 2	yonndé	yonndé	_	_	_	_	_	_	_
 3	kontèl	kontèl	_	_	_	_	_	_	_
 4	:	:	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 106
+# sent_id = 123
 # text = Jòd-la, kréyôl-la vin tèlman flègèdè ki i pa ka rivé mofwazé sé mo fwansé-la ankò. 
 1	Jòd-la	Jòd-la	_	_	_	_	_	_	_
 2	,	,	PUNCT	PUNCT	_	_	_	_	_
@@ -3472,7 +3523,7 @@
 16	ankò	ankò	_	_	_	_	_	_	_
 17	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 107
+# sent_id = 124
 # text = I ka enki adòpté yo kon yo yé la é sitiyasyon-lasa ka ba kréyòl bon fè. 
 1	I	I	_	_	_	_	_	_	_
 2	ka	ka	_	_	_	_	_	_	_
@@ -3492,7 +3543,7 @@
 16	fè	fè	_	_	_	_	_	_	_
 17	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 108
+# sent_id = 125
 # text = Si zòt vwè biten-la kontinyé kon sa, asiré pa pétèt lang kréyòl-la ké mò adan 15-20 lanné. 
 1	Si	Si	_	_	_	_	_	_	_
 2	zòt	zòt	_	_	_	_	_	_	_
@@ -3514,7 +3565,7 @@
 18	lanné	lanné	_	_	_	_	_	_	_
 19	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 109
+# sent_id = 126
 # text = Dézyèm biten, sé ki dékréyolizasyon-la ka fè nou bliyé vokabilè kréyòl an tan lontan. 
 1	Dézyèm	Dézyèm	_	_	_	_	_	_	_
 2	biten	biten	_	_	_	_	_	_	_
@@ -3533,7 +3584,7 @@
 15	lontan	lontan	_	_	_	_	_	_	_
 16	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 110
+# sent_id = 127
 # text = Kontèl, nou ka di:
 1	Kontèl	Kontèl	_	_	_	_	_	_	_
 2	,	,	PUNCT	PUNCT	_	_	_	_	_
@@ -3542,8 +3593,8 @@
 5	di	di	_	_	_	_	_	_	_
 6	:	:	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 111
-# text =     • Li olyé nou di kabann. 
+# sent_id = 128
+# text =     •Li olyé nou di kabann. 
 1	•	•	PUNCT	PUNCT	_	_	_	_	_
 2	Li	Li	_	_	_	_	_	_	_
 3	olyé	olyé	_	_	_	_	_	_	_
@@ -3552,7 +3603,7 @@
 6	kabann	kabann	_	_	_	_	_	_	_
 7	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 112
+# sent_id = 129
 # text =     • Libélil olyé nou di marisosé/zingzing. 
 1	•	•	PUNCT	PUNCT	_	_	_	_	_
 2	Libélil	Libélil	_	_	_	_	_	_	_
@@ -3564,7 +3615,7 @@
 8	zingzing	zingzing	_	_	_	_	_	_	_
 9	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 113
+# sent_id = 130
 # text =     • Nénifa olyé nou di chapôdlo/chapo-a-dlo.
 1	•	•	PUNCT	PUNCT	_	_	_	_	_
 2	Nénifa	Nénifa	_	_	_	_	_	_	_
@@ -3576,7 +3627,7 @@
 8	chapo-a-dlo	chapo-a-dlo	_	_	_	_	_	_	_
 9	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 114
+# sent_id = 131
 # text = Kidonk adan zafè a kontwi larèl langann kréyòl-la, fo nou viré touvé tout sé vyé mo kréyòl-la. 
 1	Kidonk	Kidonk	_	_	_	_	_	_	_
 2	adan	adan	_	_	_	_	_	_	_
@@ -3598,7 +3649,7 @@
 18	kréyòl-la	kréyòl-la	_	_	_	_	_	_	_
 19	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 115
+# sent_id = 132
 # text = Sé poukwa sé wouchachè-la (chercheurs) ka fè onlo étid pou riytouvé yo é sé ékriven-la ka wousèvi yo adan poèm a yo oben woman a yo. 
 1	Sé	Sé	_	_	_	_	_	_	_
 2	poukwa	poukwa	_	_	_	_	_	_	_
@@ -3630,7 +3681,7 @@
 28	yo	yo	_	_	_	_	_	_	_
 29	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 116
+# sent_id = 133
 # text = Twazyèm biten: konmva kréyòl blotjé adan dékatman (développement) a-y, i pa ka réyisi kréyé mo ki nèf ankò. 
 1	Twazyèm	Twazyèm	_	_	_	_	_	_	_
 2	biten	biten	_	_	_	_	_	_	_
@@ -3656,7 +3707,7 @@
 22	ankò	ankò	_	_	_	_	_	_	_
 23	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 117
+# sent_id = 134
 # text = Kifè i ka prété tout moʼy adan fwansé-a. 
 1	Kifè	Kifè	_	_	_	_	_	_	_
 2	i	i	_	_	_	_	_	_	_
@@ -3668,7 +3719,7 @@
 8	fwansé-a	fwansé-a	_	_	_	_	_	_	_
 9	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 118
+# sent_id = 135
 # text = Nou pé pa asèpté sa. 
 1	Nou	Nou	_	_	_	_	_	_	_
 2	pé	pé	_	_	_	_	_	_	_
@@ -3677,7 +3728,7 @@
 5	sa	sa	_	_	_	_	_	_	_
 6	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 119
+# sent_id = 136
 # text = Sé poukwa fo nou envanté mo ki nèf pou nou pé pèmèt kréyòl-la palé dè biten abstré, dè biten modèn. 
 1	Sé	Sé	_	_	_	_	_	_	_
 2	poukwa	poukwa	_	_	_	_	_	_	_
@@ -3702,7 +3753,7 @@
 21	modèn	modèn	_	_	_	_	_	_	_
 22	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 120
+# sent_id = 137
 # text = Fo nou réyisi fè liv filozofi an kréyòl, liv sosyoloji an kréyòl, liv iswta an kréyòl. 
 1	Fo	Fo	_	_	_	_	_	_	_
 2	nou	nou	_	_	_	_	_	_	_
@@ -3724,7 +3775,7 @@
 18	kréyòl	kréyòl	_	_	_	_	_	_	_
 19	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 121
+# sent_id = 138
 # text = Zòt ka konpwann ki pou sa fèt, nou pou kréyé ètsétéra mo ki nèf. 
 1	Zòt	Zòt	_	_	_	_	_	_	_
 2	ka	ka	_	_	_	_	_	_	_
@@ -3743,7 +3794,7 @@
 15	nèf	nèf	_	_	_	_	_	_	_
 16	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 122
+# sent_id = 139
 # text = Mé nou pa ka fè sa nenpòt jan: nou ka pati dè chous (racine) kréyòl-la é nou ka ajouté préfiks oben sifiks pou fè sé monèf-la. 
 1	Mé	Mé	_	_	_	_	_	_	_
 2	nou	nou	_	_	_	_	_	_	_
@@ -3776,7 +3827,7 @@
 29	monèf-la	monèf-la	_	_	_	_	_	_	_
 30	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 123
+# sent_id = 140
 # text = Kontèl: - ladjoukann: esclavage. 
 1	Kontèl	Kontèl	_	_	_	_	_	_	_
 2	:	:	PUNCT	PUNCT	_	_	_	_	_
@@ -3786,7 +3837,7 @@
 6	esclavage	esclavage	_	_	_	_	_	_	_
 7	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 124
+# sent_id = 141
 # text = Mo-lasa fèt èvè djouk ki vlé di esclave. 
 1	Mo-lasa	Mo-lasa	_	_	_	_	_	_	_
 2	fèt	fèt	_	_	_	_	_	_	_
@@ -3798,7 +3849,7 @@
 8	esclave	esclave	_	_	_	_	_	_	_
 9	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 125
+# sent_id = 142
 # text = Pou machoké monèf-la, nou ajouté préfiks la kon adan lavakabonnajri, lajistis, lapôt, lafinèt etc. 
 1	Pou	Pou	_	_	_	_	_	_	_
 2	machoké	machoké	_	_	_	_	_	_	_
@@ -3820,7 +3871,7 @@
 18	etc	etc	_	_	_	_	_	_	_
 19	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 126
+# sent_id = 143
 # text = Préfiks-lasa pa gyè fò an kréyòl gwadloupéyen pis yo ka di: 
 1	Préfiks-lasa	Préfiks-lasa	_	_	_	_	_	_	_
 2	pa	pa	_	_	_	_	_	_	_
@@ -3835,7 +3886,7 @@
 11	di	di	_	_	_	_	_	_	_
 12	:	:	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 127
+# sent_id = 144
 # text =     • pòt alô ki Matinik, Sent-Lisi, Guiyàn é Ayiti ka di lapòt. 
 1	•	•	PUNCT	PUNCT	_	_	_	_	_
 2	pòt	pòt	_	_	_	_	_	_	_
@@ -3853,7 +3904,7 @@
 14	lapòt	lapòt	_	_	_	_	_	_	_
 15	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 128
+# sent_id = 145
 # text =     • finèt alô ki sé menm péyi-lasa ka di lafinèt. 
 1	•	•	PUNCT	PUNCT	_	_	_	_	_
 2	finèt	finèt	_	_	_	_	_	_	_
@@ -3867,7 +3918,7 @@
 10	lafinèt	lafinèt	_	_	_	_	_	_	_
 11	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 129
+# sent_id = 146
 # text =     • byè alô ki sé menm péyi-lasa ka di labyè. 
 1	•	•	PUNCT	PUNCT	_	_	_	_	_
 2	byè	byè	_	_	_	_	_	_	_
@@ -3881,7 +3932,7 @@
 10	labyè	labyè	_	_	_	_	_	_	_
 11	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 130
+# sent_id = 147
 # text = Mé kréyôl Gwadloup konnèt sèvi préfiks la-la pis i ka sèviʼy adan:
 1	Mé	Mé	_	_	_	_	_	_	_
 2	kréyôl	kréyôl	_	_	_	_	_	_	_
@@ -3897,7 +3948,7 @@
 12	adan	adan	_	_	_	_	_	_	_
 13	:	:	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 131
+# sent_id = 148
 # text =     • lafimé, ladyablès, lagout, lagli, lagrip etc.
 1	•	•	PUNCT	PUNCT	_	_	_	_	_
 2	lafimé	lafimé	_	_	_	_	_	_	_
@@ -3912,7 +3963,7 @@
 11	etc	etc	_	_	_	_	_	_	_
 12	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 132
+# sent_id = 149
 # text = Annou déviré asi mo a ladjoukann-la, apré préfiks la-la, nou ka ajouté an sifiks ki sé ann. 
 1	Annou	Annou	_	_	_	_	_	_	_
 2	déviré	déviré	_	_	_	_	_	_	_
@@ -3935,7 +3986,7 @@
 19	ann	ann	_	_	_	_	_	_	_
 20	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 133
+# sent_id = 150
 # text = Sifiks-lasa ka èkzisté adan dé mo kontrèbann, dèmann etc. 
 1	Sifiks-lasa	Sifiks-lasa	_	_	_	_	_	_	_
 2	ka	ka	_	_	_	_	_	_	_
@@ -3949,7 +4000,7 @@
 10	etc	etc	_	_	_	_	_	_	_
 11	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 134
+# sent_id = 151
 # text = An té ka di talè-la ki moun adan sosyété an nou ki ka palé pi bèl kalité kréyòl sé moun a pèp-la é sé asi jan palé a yo, fo nou apiyé pou konstwi on lang kréyòl maké, toupannan nou ka anrichiʼy èvè monèf kon an fin èspliké zòt la. 
 1	An	An	_	_	_	_	_	_	_
 2	té	té	_	_	_	_	_	_	_
@@ -4005,7 +4056,7 @@
 52	la	la	_	_	_	_	_	_	_
 53	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 135
+# sent_id = 152
 # text = Kidonk fò biten-la klè an tèt a zòt: nou pa ka enki ajounou douvan modèl palé moun fondòk lakanpay, moun ka viv Vyé-Zabitan oben Makouba. 
 1	Kidonk	Kidonk	_	_	_	_	_	_	_
 2	fò	fò	_	_	_	_	_	_	_
@@ -4036,7 +4087,7 @@
 27	Makouba	Makouba	PROPN	PROPN	_	_	_	_	_
 28	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 136
+# sent_id = 153
 # text = Nou ka chwazi jan palé a yo mé nou ka anrichiʼy, nou ka mofwazéʼy pou rivé mété doubout on larèl-langann ba kréyòl-la. 
 1	Nou	Nou	_	_	_	_	_	_	_
 2	ka	ka	_	_	_	_	_	_	_
@@ -4063,7 +4114,7 @@
 23	kréyòl-la	kréyòl-la	_	_	_	_	_	_	_
 24	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 137
+# sent_id = 154
 # text = Kon zòt sav larèl-langann sé toujou on biten ki artifisyèl, sé toujou grangrèk èk ékriven kalanswa lang-la ki ka kréyéʼy, a pa jen pèp-la. 
 1	Kon	Kon	_	_	_	_	_	_	_
 2	zòt	zòt	_	_	_	_	_	_	_
@@ -4093,7 +4144,7 @@
 26	pèp-la	pèp-la	_	_	_	_	_	_	_
 27	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 138
+# sent_id = 155
 # text = Sé lè ou tini on larèl-langann ki séryè, ou kapab fè pawòl maké é pawòl palé ki maké. 
 1	Sé	Sé	_	_	_	_	_	_	_
 2	lè	lè	_	_	_	_	_	_	_
@@ -4116,7 +4167,7 @@
 19	maké	maké	_	_	_	_	_	_	_
 20	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 139
+# sent_id = 156
 # text = Dènyé étap on lang ka pasé pou i vin on lang toutafètman mèt dè kò a-y é dè divini a-y, sé sa man kriyé pawòl maké ki palé. 
 1	Dènyé	Dènyé	_	_	_	_	_	_	_
 2	étap	étap	_	_	_	_	_	_	_
@@ -4149,69 +4200,72 @@
 29	palé	palé	_	_	_	_	_	_	_
 30	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 140
-# text = Ka sa yé? Enben, lè ou vwè on jounalis ka fè jounal radyo oben jounal télévizé a-y, lè on prèt oben on pastè ka fè sèrmon a-y, lè on pwofésè ka fè montray (cours) a-y, a pa pawòl palé i ka sèvi, sé pawòl maké ki palé i ka sèvi. 
+# sent_id = 157
+# text = Ka sa yé? 
 1	Ka	Ka	_	_	_	_	_	_	_
 2	sa	sa	_	_	_	_	_	_	_
 3	yé	yé	_	_	_	_	_	_	_
 4	?	?	PUNCT	PUNCT	_	_	_	_	_
-5	Enben	Enben	_	_	_	_	_	_	_
-6	,	,	PUNCT	PUNCT	_	_	_	_	_
-7	lè	lè	_	_	_	_	_	_	_
-8	ou	ou	_	_	_	_	_	_	_
-9	vwè	vwè	_	_	_	_	_	_	_
-10	on	on	_	_	_	_	_	_	_
-11	jounalis	jounalis	_	_	_	_	_	_	_
-12	ka	ka	_	_	_	_	_	_	_
-13	fè	fè	_	_	_	_	_	_	_
-14	jounal	jounal	_	_	_	_	_	_	_
-15	radyo	radyo	_	_	_	_	_	_	_
-16	oben	oben	_	_	_	_	_	_	_
-17	jounal	jounal	_	_	_	_	_	_	_
-18	télévizé	télévizé	_	_	_	_	_	_	_
-19	a-y	a-y	_	_	_	_	_	_	_
-20	,	,	PUNCT	PUNCT	_	_	_	_	_
-21	lè	lè	_	_	_	_	_	_	_
-22	on	on	_	_	_	_	_	_	_
-23	prèt	prèt	_	_	_	_	_	_	_
-24	oben	oben	_	_	_	_	_	_	_
-25	on	on	_	_	_	_	_	_	_
-26	pastè	pastè	_	_	_	_	_	_	_
-27	ka	ka	_	_	_	_	_	_	_
-28	fè	fè	_	_	_	_	_	_	_
-29	sèrmon	sèrmon	_	_	_	_	_	_	_
-30	a-y	a-y	_	_	_	_	_	_	_
-31	,	,	PUNCT	PUNCT	_	_	_	_	_
-32	lè	lè	_	_	_	_	_	_	_
-33	on	on	_	_	_	_	_	_	_
-34	pwofésè	pwofésè	_	_	_	_	_	_	_
-35	ka	ka	_	_	_	_	_	_	_
-36	fè	fè	_	_	_	_	_	_	_
-37	montray	montray	_	_	_	_	_	_	_
-38	(	(	PUNCT	PUNCT	_	_	_	_	_
-39	cours	cours	_	_	_	_	_	_	_
-40	)	)	PUNCT	PUNCT	_	_	_	_	_
-41	a-y	a-y	_	_	_	_	_	_	_
-42	,	,	PUNCT	PUNCT	_	_	_	_	_
-43	a	a	_	_	_	_	_	_	_
-44	pa	pa	_	_	_	_	_	_	_
-45	pawòl	pawòl	_	_	_	_	_	_	_
-46	palé	palé	_	_	_	_	_	_	_
-47	i	i	_	_	_	_	_	_	_
-48	ka	ka	_	_	_	_	_	_	_
-49	sèvi	sèvi	_	_	_	_	_	_	_
-50	,	,	PUNCT	PUNCT	_	_	_	_	_
-51	sé	sé	_	_	_	_	_	_	_
-52	pawòl	pawòl	_	_	_	_	_	_	_
-53	maké	maké	_	_	_	_	_	_	_
-54	ki	ki	_	_	_	_	_	_	_
-55	palé	palé	_	_	_	_	_	_	_
-56	i	i	_	_	_	_	_	_	_
-57	ka	ka	_	_	_	_	_	_	_
-58	sèvi	sèvi	_	_	_	_	_	_	_
-59	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 141
+# sent_id = 158
+# text = Enben, lè ou vwè on jounalis ka fè jounal radyo oben jounal télévizé a-y, lè on prèt oben on pastè ka fè sèrmon a-y, lè on pwofésè ka fè montray (cours) a-y, a pa pawòl palé i ka sèvi, sé pawòl maké ki palé i ka sèvi. 
+1	Enben	Enben	_	_	_	_	_	_	_
+2	,	,	PUNCT	PUNCT	_	_	_	_	_
+3	lè	lè	_	_	_	_	_	_	_
+4	ou	ou	_	_	_	_	_	_	_
+5	vwè	vwè	_	_	_	_	_	_	_
+6	on	on	_	_	_	_	_	_	_
+7	jounalis	jounalis	_	_	_	_	_	_	_
+8	ka	ka	_	_	_	_	_	_	_
+9	fè	fè	_	_	_	_	_	_	_
+10	jounal	jounal	_	_	_	_	_	_	_
+11	radyo	radyo	_	_	_	_	_	_	_
+12	oben	oben	_	_	_	_	_	_	_
+13	jounal	jounal	_	_	_	_	_	_	_
+14	télévizé	télévizé	_	_	_	_	_	_	_
+15	a-y	a-y	_	_	_	_	_	_	_
+16	,	,	PUNCT	PUNCT	_	_	_	_	_
+17	lè	lè	_	_	_	_	_	_	_
+18	on	on	_	_	_	_	_	_	_
+19	prèt	prèt	_	_	_	_	_	_	_
+20	oben	oben	_	_	_	_	_	_	_
+21	on	on	_	_	_	_	_	_	_
+22	pastè	pastè	_	_	_	_	_	_	_
+23	ka	ka	_	_	_	_	_	_	_
+24	fè	fè	_	_	_	_	_	_	_
+25	sèrmon	sèrmon	_	_	_	_	_	_	_
+26	a-y	a-y	_	_	_	_	_	_	_
+27	,	,	PUNCT	PUNCT	_	_	_	_	_
+28	lè	lè	_	_	_	_	_	_	_
+29	on	on	_	_	_	_	_	_	_
+30	pwofésè	pwofésè	_	_	_	_	_	_	_
+31	ka	ka	_	_	_	_	_	_	_
+32	fè	fè	_	_	_	_	_	_	_
+33	montray	montray	_	_	_	_	_	_	_
+34	(	(	PUNCT	PUNCT	_	_	_	_	_
+35	cours	cours	_	_	_	_	_	_	_
+36	)	)	PUNCT	PUNCT	_	_	_	_	_
+37	a-y	a-y	_	_	_	_	_	_	_
+38	,	,	PUNCT	PUNCT	_	_	_	_	_
+39	a	a	_	_	_	_	_	_	_
+40	pa	pa	_	_	_	_	_	_	_
+41	pawòl	pawòl	_	_	_	_	_	_	_
+42	palé	palé	_	_	_	_	_	_	_
+43	i	i	_	_	_	_	_	_	_
+44	ka	ka	_	_	_	_	_	_	_
+45	sèvi	sèvi	_	_	_	_	_	_	_
+46	,	,	PUNCT	PUNCT	_	_	_	_	_
+47	sé	sé	_	_	_	_	_	_	_
+48	pawòl	pawòl	_	_	_	_	_	_	_
+49	maké	maké	_	_	_	_	_	_	_
+50	ki	ki	_	_	_	_	_	_	_
+51	palé	palé	_	_	_	_	_	_	_
+52	i	i	_	_	_	_	_	_	_
+53	ka	ka	_	_	_	_	_	_	_
+54	sèvi	sèvi	_	_	_	_	_	_	_
+55	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# sent_id = 159
 # text = Jounalis-la tini fèy papyé douvanʼy oben, adan sé gran péyi-la, ni on aparèy yo ka kriyé “pwonptè” ki ka défilé douvan zyé a-y é ki i ka li. 
 1	Jounalis-la	Jounalis-la	_	_	_	_	_	_	_
 2	tini	tini	_	_	_	_	_	_	_
@@ -4247,7 +4301,7 @@
 32	li	li	_	_	_	_	_	_	_
 33	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 142
+# sent_id = 160
 # text = Pastè-la oben prèt-la ka jété on zyé tanzantan, kon pwofésè-la li-menm, asi Bib a-y oben nòt a-y, kivédi sé on pawòl maké i ka oralizé. 
 1	Pastè-la	Pastè-la	_	_	_	_	_	_	_
 2	oben	oben	_	_	_	_	_	_	_
@@ -4279,7 +4333,7 @@
 28	oralizé	oralizé	_	_	_	_	_	_	_
 29	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 143
+# sent_id = 161
 # text = E pawòl maké oralizé la-sa ni tout karaktè a pawòl maké. 
 1	E	E	_	_	_	_	_	_	_
 2	pawòl	pawòl	_	_	_	_	_	_	_
@@ -4294,7 +4348,7 @@
 11	maké	maké	_	_	_	_	_	_	_
 12	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 144
+# sent_id = 162
 # text = Sé poukwa lè on moun ka palé byen, yo ka di i ka palé kon an liv ki chiré. 
 1	Sé	Sé	_	_	_	_	_	_	_
 2	poukwa	poukwa	_	_	_	_	_	_	_
@@ -4318,7 +4372,7 @@
 20	chiré	chiré	_	_	_	_	_	_	_
 21	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 145
+# sent_id = 163
 # text = Pawôl maké oralizé sé on biten ki rèd pou fè: tout moun pa bon jounalis, tout moun pa bon pastè oben pwofésè. 
 1	Pawôl	Pawôl	_	_	_	_	_	_	_
 2	maké	maké	_	_	_	_	_	_	_
@@ -4346,7 +4400,7 @@
 24	pwofésè	pwofésè	_	_	_	_	_	_	_
 25	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 146
+# sent_id = 164
 # text = Sé on èkzèrsis ka mandé onlo travay pou apwann li on jan obidjoul (convenable). 
 1	Sé	Sé	_	_	_	_	_	_	_
 2	on	on	_	_	_	_	_	_	_
@@ -4366,8 +4420,8 @@
 16	)	)	PUNCT	PUNCT	_	_	_	_	_
 17	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 147
-# text = Poukwa radyo kréyòl an nou mové? Poukwa kréyòl a yo mové? Sé davwa sé jounalis kréyolopal (créolophone) an nou la pa konpwann fo yo maké tèks a yo avan yo difizéʼy. 
+# sent_id = 165
+# text = Poukwa radyo kréyòl an nou mové? 
 1	Poukwa	Poukwa	_	_	_	_	_	_	_
 2	radyo	radyo	_	_	_	_	_	_	_
 3	kréyòl	kréyòl	_	_	_	_	_	_	_
@@ -4375,37 +4429,43 @@
 5	nou	nou	_	_	_	_	_	_	_
 6	mové	mové	_	_	_	_	_	_	_
 7	?	?	PUNCT	PUNCT	_	_	_	_	_
-8	Poukwa	Poukwa	_	_	_	_	_	_	_
-9	kréyòl	kréyòl	_	_	_	_	_	_	_
-10	a	a	_	_	_	_	_	_	_
-11	yo	yo	_	_	_	_	_	_	_
-12	mové	mové	_	_	_	_	_	_	_
-13	?	?	PUNCT	PUNCT	_	_	_	_	_
-14	Sé	Sé	_	_	_	_	_	_	_
-15	davwa	davwa	_	_	_	_	_	_	_
-16	sé	sé	_	_	_	_	_	_	_
-17	jounalis	jounalis	_	_	_	_	_	_	_
-18	kréyolopal	kréyolopal	_	_	_	_	_	_	_
-19	(	(	PUNCT	PUNCT	_	_	_	_	_
-20	créolophone	créolophone	_	_	_	_	_	_	_
-21	)	)	PUNCT	PUNCT	_	_	_	_	_
-22	an	an	_	_	_	_	_	_	_
-23	nou	nou	_	_	_	_	_	_	_
-24	la	la	_	_	_	_	_	_	_
-25	pa	pa	_	_	_	_	_	_	_
-26	konpwann	konpwann	_	_	_	_	_	_	_
-27	fo	fo	_	_	_	_	_	_	_
-28	yo	yo	_	_	_	_	_	_	_
-29	maké	maké	_	_	_	_	_	_	_
-30	tèks	tèks	_	_	_	_	_	_	_
-31	a	a	_	_	_	_	_	_	_
-32	yo	yo	_	_	_	_	_	_	_
-33	avan	avan	_	_	_	_	_	_	_
-34	yo	yo	_	_	_	_	_	_	_
-35	difizéʼy	difizéʼy	_	_	_	_	_	_	_
-36	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 148
+# sent_id = 166
+# text = Poukwa kréyòl a yo mové? 
+1	Poukwa	Poukwa	_	_	_	_	_	_	_
+2	kréyòl	kréyòl	_	_	_	_	_	_	_
+3	a	a	_	_	_	_	_	_	_
+4	yo	yo	_	_	_	_	_	_	_
+5	mové	mové	_	_	_	_	_	_	_
+6	?	?	PUNCT	PUNCT	_	_	_	_	_
+
+# sent_id = 167
+# text = Sé davwa sé jounalis kréyolopal (créolophone) an nou la pa konpwann fo yo maké tèks a yo avan yo difizéʼy. 
+1	Sé	Sé	_	_	_	_	_	_	_
+2	davwa	davwa	_	_	_	_	_	_	_
+3	sé	sé	_	_	_	_	_	_	_
+4	jounalis	jounalis	_	_	_	_	_	_	_
+5	kréyolopal	kréyolopal	_	_	_	_	_	_	_
+6	(	(	PUNCT	PUNCT	_	_	_	_	_
+7	créolophone	créolophone	_	_	_	_	_	_	_
+8	)	)	PUNCT	PUNCT	_	_	_	_	_
+9	an	an	_	_	_	_	_	_	_
+10	nou	nou	_	_	_	_	_	_	_
+11	la	la	_	_	_	_	_	_	_
+12	pa	pa	_	_	_	_	_	_	_
+13	konpwann	konpwann	_	_	_	_	_	_	_
+14	fo	fo	_	_	_	_	_	_	_
+15	yo	yo	_	_	_	_	_	_	_
+16	maké	maké	_	_	_	_	_	_	_
+17	tèks	tèks	_	_	_	_	_	_	_
+18	a	a	_	_	_	_	_	_	_
+19	yo	yo	_	_	_	_	_	_	_
+20	avan	avan	_	_	_	_	_	_	_
+21	yo	yo	_	_	_	_	_	_	_
+22	difizéʼy	difizéʼy	_	_	_	_	_	_	_
+23	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# sent_id = 168
 # text = Yo ka enki vin èvè on tèks fwansé an men a yo é yo ka enki traduiʼy an kréyôl san fè pon éfò a nivo kalité kréyòl-la yo ka sèvi la.
 1	Yo	Yo	_	_	_	_	_	_	_
 2	ka	ka	_	_	_	_	_	_	_
@@ -4440,7 +4500,7 @@
 31	la	la	_	_	_	_	_	_	_
 32	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 149
+# sent_id = 169
 # text = Jòd-la kréyòl-la ka touvéʼy ant étap 2-la é étap 3-la. 
 1	Jòd-la	Jòd-la	_	_	_	_	_	_	_
 2	kréyòl-la	kréyòl-la	_	_	_	_	_	_	_
@@ -4454,7 +4514,7 @@
 10	3-la	3-la	_	_	_	_	_	_	_
 11	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 150
+# sent_id = 170
 # text = I pòkò atenn toutafètman étap- 3-la. 
 1	I	I	_	_	_	_	_	_	_
 2	pòkò	pòkò	_	_	_	_	_	_	_
@@ -4464,7 +4524,7 @@
 6	3-la	3-la	_	_	_	_	_	_	_
 7	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 151
+# sent_id = 171
 # text = Sé enki lè i ké antré on jan séryé adan lékòl èvè linivèsité, kivédi lè on pakèt moun ké koumansé ékriʼy adan lavi tou lé jou a yo, nou ké vwè lang-la pwan balan. 
 1	Sé	Sé	_	_	_	_	_	_	_
 2	enki	enki	_	_	_	_	_	_	_
@@ -4504,7 +4564,7 @@
 36	balan	balan	_	_	_	_	_	_	_
 37	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 152
+# sent_id = 172
 # text = Pou alè, sé pito adan domèn a litérati é chanté, nou ka maké kréyòl-la mé sa pa sifizan. 
 1	Pou	Pou	_	_	_	_	_	_	_
 2	alè	alè	_	_	_	_	_	_	_
@@ -4528,7 +4588,7 @@
 20	sifizan	sifizan	_	_	_	_	_	_	_
 21	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 153
+# sent_id = 173
 # text = Fo ay pi douvan ankò é chaché mèt kréyòl maké la adan dé koté i pa té jen antré kon non a lari, dokiman administratif, liv lékòl adan domèn kon jéyografi, istwa, botanik kisasayésa…
 1	Fo	Fo	_	_	_	_	_	_	_
 2	ay	ay	_	_	_	_	_	_	_
@@ -4570,7 +4630,7 @@
 38	kisasayésa	kisasayésa	_	_	_	_	_	_	_
 39	…	…	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 154
+# sent_id = 174
 # text = Pétet lidé-tala pa janmen fè siyak nan lespri-zot davwè Pon-tala sitelman bidjoul. 
 1	Pétet	Pétet	_	_	_	_	_	_	_
 2	lidé-tala	lidé-tala	_	_	_	_	_	_	_
@@ -4586,7 +4646,7 @@
 12	bidjoul	bidjoul	_	_	_	_	_	_	_
 13	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 155
+# sent_id = 175
 # text = Zafè i kon an dimi-won an ka fèʼy sanm anpil bagay : an lakansiel, an pwel-zié, an kwasan lalin oben ankò bat-zel vitman présé an foufou (zot sav, ti zwézo-a ki ka bat zel-li pli vit ki an vantilatè).
 1	Zafè	Zafè	_	_	_	_	_	_	_
 2	i	i	_	_	_	_	_	_	_
@@ -4634,7 +4694,7 @@
 44	)	)	PUNCT	PUNCT	_	_	_	_	_
 45	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 156
+# sent_id = 176
 # text =      Sa vré ki Pon Gédon bidjoul kité bidjoul ka alé.
 1	Sa	Sa	_	_	_	_	_	_	_
 2	vré	vré	_	_	_	_	_	_	_
@@ -4648,8 +4708,8 @@
 10	alé	alé	_	_	_	_	_	_	_
 11	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 157
-# text =    Asiparé yo fèʼy lanmanniè-tala pou sa pèmet gonmié rimonté kannal-la (éti tit-li sé "lariviè Madanm"), men lè nou ka fè tan gadé pli ba ek pli anwo, sa nou ka rimatjé ? Ki pon-an ki pli ba-a, Pon Labatwè a, plat kité plat ka alé, sitelman ki ni an lawout ka pasé anlèʼy. 
+# sent_id = 177
+# text =    Asiparé yo fèʼy lanmanniè-tala pou sa pèmet gonmié rimonté kannal-la (éti tit-li sé "lariviè Madanm"), men lè nou ka fè tan gadé pli ba ek pli anwo, sa nou ka rimatjé ? 
 1	Asiparé	Asiparé	_	_	_	_	_	_	_
 2	yo	yo	_	_	_	_	_	_	_
 3	fèʼy	fèʼy	_	_	_	_	_	_	_
@@ -4688,34 +4748,37 @@
 36	ka	ka	_	_	_	_	_	_	_
 37	rimatjé	rimatjé	_	_	_	_	_	_	_
 38	?	?	PUNCT	PUNCT	_	_	_	_	_
-39	Ki	Ki	_	_	_	_	_	_	_
-40	pon-an	pon-an	_	_	_	_	_	_	_
-41	ki	ki	_	_	_	_	_	_	_
-42	pli	pli	_	_	_	_	_	_	_
-43	ba-a	ba-a	_	_	_	_	_	_	_
-44	,	,	PUNCT	PUNCT	_	_	_	_	_
-45	Pon	Pon	PROPN	PROPN	_	_	_	_	_
-46	Labatwè	Labatwè	PROPN	PROPN	_	_	_	_	_
-47	a	a	_	_	_	_	_	_	_
-48	,	,	PUNCT	PUNCT	_	_	_	_	_
-49	plat	plat	_	_	_	_	_	_	_
-50	kité	kité	_	_	_	_	_	_	_
-51	plat	plat	_	_	_	_	_	_	_
-52	ka	ka	_	_	_	_	_	_	_
-53	alé	alé	_	_	_	_	_	_	_
-54	,	,	PUNCT	PUNCT	_	_	_	_	_
-55	sitelman	sitelman	_	_	_	_	_	_	_
-56	ki	ki	_	_	_	_	_	_	_
-57	ni	ni	_	_	_	_	_	_	_
-58	an	an	_	_	_	_	_	_	_
-59	lawout	lawout	_	_	_	_	_	_	_
-60	ka	ka	_	_	_	_	_	_	_
-61	pasé	pasé	_	_	_	_	_	_	_
-62	anlèʼy	anlèʼy	_	_	_	_	_	_	_
-63	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 158
-# text = I pa ka opozé gonmié travèsé kannal Lèvasò a ! Lè nou ka déviré tet ek nou ka gadé pli anwo, nou ka wè an lot pon ki plat tou ek ki ni an lawout anlè doʼy tou. 
+# sent_id = 178
+# text = Ki pon-an ki pli ba-a, Pon Labatwè a, plat kité plat ka alé, sitelman ki ni an lawout ka pasé anlèʼy. 
+1	Ki	Ki	_	_	_	_	_	_	_
+2	pon-an	pon-an	_	_	_	_	_	_	_
+3	ki	ki	_	_	_	_	_	_	_
+4	pli	pli	_	_	_	_	_	_	_
+5	ba-a	ba-a	_	_	_	_	_	_	_
+6	,	,	PUNCT	PUNCT	_	_	_	_	_
+7	Pon	Pon	PROPN	PROPN	_	_	_	_	_
+8	Labatwè	Labatwè	PROPN	PROPN	_	_	_	_	_
+9	a	a	_	_	_	_	_	_	_
+10	,	,	PUNCT	PUNCT	_	_	_	_	_
+11	plat	plat	_	_	_	_	_	_	_
+12	kité	kité	_	_	_	_	_	_	_
+13	plat	plat	_	_	_	_	_	_	_
+14	ka	ka	_	_	_	_	_	_	_
+15	alé	alé	_	_	_	_	_	_	_
+16	,	,	PUNCT	PUNCT	_	_	_	_	_
+17	sitelman	sitelman	_	_	_	_	_	_	_
+18	ki	ki	_	_	_	_	_	_	_
+19	ni	ni	_	_	_	_	_	_	_
+20	an	an	_	_	_	_	_	_	_
+21	lawout	lawout	_	_	_	_	_	_	_
+22	ka	ka	_	_	_	_	_	_	_
+23	pasé	pasé	_	_	_	_	_	_	_
+24	anlèʼy	anlèʼy	_	_	_	_	_	_	_
+25	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# sent_id = 179
+# text = I pa ka opozé gonmié travèsé kannal Lèvasò a ! 
 1	I	I	_	_	_	_	_	_	_
 2	pa	pa	_	_	_	_	_	_	_
 3	ka	ka	_	_	_	_	_	_	_
@@ -4726,38 +4789,41 @@
 8	Lèvasò	Lèvasò	PROPN	PROPN	_	_	_	_	_
 9	a	a	_	_	_	_	_	_	_
 10	!	!	PUNCT	PUNCT	_	_	_	_	_
-11	Lè	Lè	_	_	_	_	_	_	_
-12	nou	nou	_	_	_	_	_	_	_
-13	ka	ka	_	_	_	_	_	_	_
-14	déviré	déviré	_	_	_	_	_	_	_
-15	tet	tet	_	_	_	_	_	_	_
-16	ek	ek	_	_	_	_	_	_	_
-17	nou	nou	_	_	_	_	_	_	_
-18	ka	ka	_	_	_	_	_	_	_
-19	gadé	gadé	_	_	_	_	_	_	_
-20	pli	pli	_	_	_	_	_	_	_
-21	anwo	anwo	_	_	_	_	_	_	_
-22	,	,	PUNCT	PUNCT	_	_	_	_	_
-23	nou	nou	_	_	_	_	_	_	_
-24	ka	ka	_	_	_	_	_	_	_
-25	wè	wè	_	_	_	_	_	_	_
-26	an	an	_	_	_	_	_	_	_
-27	lot	lot	_	_	_	_	_	_	_
-28	pon	pon	_	_	_	_	_	_	_
-29	ki	ki	_	_	_	_	_	_	_
-30	plat	plat	_	_	_	_	_	_	_
-31	tou	tou	_	_	_	_	_	_	_
-32	ek	ek	_	_	_	_	_	_	_
-33	ki	ki	_	_	_	_	_	_	_
-34	ni	ni	_	_	_	_	_	_	_
-35	an	an	_	_	_	_	_	_	_
-36	lawout	lawout	_	_	_	_	_	_	_
-37	anlè	anlè	_	_	_	_	_	_	_
-38	doʼy	doʼy	_	_	_	_	_	_	_
-39	tou	tou	_	_	_	_	_	_	_
-40	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 159
+# sent_id = 180
+# text = Lè nou ka déviré tet ek nou ka gadé pli anwo, nou ka wè an lot pon ki plat tou ek ki ni an lawout anlè doʼy tou. 
+1	Lè	Lè	_	_	_	_	_	_	_
+2	nou	nou	_	_	_	_	_	_	_
+3	ka	ka	_	_	_	_	_	_	_
+4	déviré	déviré	_	_	_	_	_	_	_
+5	tet	tet	_	_	_	_	_	_	_
+6	ek	ek	_	_	_	_	_	_	_
+7	nou	nou	_	_	_	_	_	_	_
+8	ka	ka	_	_	_	_	_	_	_
+9	gadé	gadé	_	_	_	_	_	_	_
+10	pli	pli	_	_	_	_	_	_	_
+11	anwo	anwo	_	_	_	_	_	_	_
+12	,	,	PUNCT	PUNCT	_	_	_	_	_
+13	nou	nou	_	_	_	_	_	_	_
+14	ka	ka	_	_	_	_	_	_	_
+15	wè	wè	_	_	_	_	_	_	_
+16	an	an	_	_	_	_	_	_	_
+17	lot	lot	_	_	_	_	_	_	_
+18	pon	pon	_	_	_	_	_	_	_
+19	ki	ki	_	_	_	_	_	_	_
+20	plat	plat	_	_	_	_	_	_	_
+21	tou	tou	_	_	_	_	_	_	_
+22	ek	ek	_	_	_	_	_	_	_
+23	ki	ki	_	_	_	_	_	_	_
+24	ni	ni	_	_	_	_	_	_	_
+25	an	an	_	_	_	_	_	_	_
+26	lawout	lawout	_	_	_	_	_	_	_
+27	anlè	anlè	_	_	_	_	_	_	_
+28	doʼy	doʼy	_	_	_	_	_	_	_
+29	tou	tou	_	_	_	_	_	_	_
+30	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# sent_id = 181
 # text = Sé pon-on ki ka mennen asou marché-a ki kolé épi Pak Floral la. 
 1	Sé	Sé	_	_	_	_	_	_	_
 2	pon-on	pon-on	_	_	_	_	_	_	_
@@ -4774,7 +4840,7 @@
 13	la	la	_	_	_	_	_	_	_
 14	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 160
+# sent_id = 182
 # text = Li non pli pa ka baré chimen gonmié !
 1	Li	Li	_	_	_	_	_	_	_
 2	non	non	_	_	_	_	_	_	_
@@ -4786,7 +4852,7 @@
 8	gonmié	gonmié	_	_	_	_	_	_	_
 9	!	!	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 161
+# sent_id = 183
 # text =     Kidonk poutji sé dé pon-tala plat ek Pon Gédon won ? 
 1	Kidonk	Kidonk	_	_	_	_	_	_	_
 2	poutji	poutji	_	_	_	_	_	_	_
@@ -4800,8 +4866,8 @@
 10	won	won	_	_	_	_	_	_	_
 11	?	?	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 162
-# text =    Sé davwè pon-tala sé pwel-zié Foyal ! I ka fè konsidiré i ka brennen titak, i ka flitijé, adan limiè gwo lajounen-an, bagay ki ka chayé-vini an kalté dousè ki ka anni trapé pa kolé moun ki ka pasé anlèʼy. 
+# sent_id = 184
+# text =    Sé davwè pon-tala sé pwel-zié Foyal ! 
 1	Sé	Sé	_	_	_	_	_	_	_
 2	davwè	davwè	_	_	_	_	_	_	_
 3	pon-tala	pon-tala	_	_	_	_	_	_	_
@@ -4809,45 +4875,48 @@
 5	pwel-zié	pwel-zié	_	_	_	_	_	_	_
 6	Foyal	Foyal	PROPN	PROPN	_	_	_	_	_
 7	!	!	PUNCT	PUNCT	_	_	_	_	_
-8	I	I	_	_	_	_	_	_	_
-9	ka	ka	_	_	_	_	_	_	_
-10	fè	fè	_	_	_	_	_	_	_
-11	konsidiré	konsidiré	_	_	_	_	_	_	_
-12	i	i	_	_	_	_	_	_	_
-13	ka	ka	_	_	_	_	_	_	_
-14	brennen	brennen	_	_	_	_	_	_	_
-15	titak	titak	_	_	_	_	_	_	_
-16	,	,	PUNCT	PUNCT	_	_	_	_	_
-17	i	i	_	_	_	_	_	_	_
-18	ka	ka	_	_	_	_	_	_	_
-19	flitijé	flitijé	_	_	_	_	_	_	_
-20	,	,	PUNCT	PUNCT	_	_	_	_	_
-21	adan	adan	_	_	_	_	_	_	_
-22	limiè	limiè	_	_	_	_	_	_	_
-23	gwo	gwo	_	_	_	_	_	_	_
-24	lajounen-an	lajounen-an	_	_	_	_	_	_	_
-25	,	,	PUNCT	PUNCT	_	_	_	_	_
-26	bagay	bagay	_	_	_	_	_	_	_
-27	ki	ki	_	_	_	_	_	_	_
-28	ka	ka	_	_	_	_	_	_	_
-29	chayé-vini	chayé-vini	_	_	_	_	_	_	_
-30	an	an	_	_	_	_	_	_	_
-31	kalté	kalté	_	_	_	_	_	_	_
-32	dousè	dousè	_	_	_	_	_	_	_
+
+# sent_id = 185
+# text = I ka fè konsidiré i ka brennen titak, i ka flitijé, adan limiè gwo lajounen-an, bagay ki ka chayé-vini an kalté dousè ki ka anni trapé pa kolé moun ki ka pasé anlèʼy. 
+1	I	I	_	_	_	_	_	_	_
+2	ka	ka	_	_	_	_	_	_	_
+3	fè	fè	_	_	_	_	_	_	_
+4	konsidiré	konsidiré	_	_	_	_	_	_	_
+5	i	i	_	_	_	_	_	_	_
+6	ka	ka	_	_	_	_	_	_	_
+7	brennen	brennen	_	_	_	_	_	_	_
+8	titak	titak	_	_	_	_	_	_	_
+9	,	,	PUNCT	PUNCT	_	_	_	_	_
+10	i	i	_	_	_	_	_	_	_
+11	ka	ka	_	_	_	_	_	_	_
+12	flitijé	flitijé	_	_	_	_	_	_	_
+13	,	,	PUNCT	PUNCT	_	_	_	_	_
+14	adan	adan	_	_	_	_	_	_	_
+15	limiè	limiè	_	_	_	_	_	_	_
+16	gwo	gwo	_	_	_	_	_	_	_
+17	lajounen-an	lajounen-an	_	_	_	_	_	_	_
+18	,	,	PUNCT	PUNCT	_	_	_	_	_
+19	bagay	bagay	_	_	_	_	_	_	_
+20	ki	ki	_	_	_	_	_	_	_
+21	ka	ka	_	_	_	_	_	_	_
+22	chayé-vini	chayé-vini	_	_	_	_	_	_	_
+23	an	an	_	_	_	_	_	_	_
+24	kalté	kalté	_	_	_	_	_	_	_
+25	dousè	dousè	_	_	_	_	_	_	_
+26	ki	ki	_	_	_	_	_	_	_
+27	ka	ka	_	_	_	_	_	_	_
+28	anni	anni	_	_	_	_	_	_	_
+29	trapé	trapé	_	_	_	_	_	_	_
+30	pa	pa	_	_	_	_	_	_	_
+31	kolé	kolé	_	_	_	_	_	_	_
+32	moun	moun	_	_	_	_	_	_	_
 33	ki	ki	_	_	_	_	_	_	_
 34	ka	ka	_	_	_	_	_	_	_
-35	anni	anni	_	_	_	_	_	_	_
-36	trapé	trapé	_	_	_	_	_	_	_
-37	pa	pa	_	_	_	_	_	_	_
-38	kolé	kolé	_	_	_	_	_	_	_
-39	moun	moun	_	_	_	_	_	_	_
-40	ki	ki	_	_	_	_	_	_	_
-41	ka	ka	_	_	_	_	_	_	_
-42	pasé	pasé	_	_	_	_	_	_	_
-43	anlèʼy	anlèʼy	_	_	_	_	_	_	_
-44	.	.	PUNCT	PUNCT	_	_	_	_	_
+35	pasé	pasé	_	_	_	_	_	_	_
+36	anlèʼy	anlèʼy	_	_	_	_	_	_	_
+37	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 163
+# sent_id = 186
 # text = Sé poutji ou pa ka maché anlè Pon Gédon kon asou nenpot ki pon. 
 1	Sé	Sé	_	_	_	_	_	_	_
 2	poutji	poutji	_	_	_	_	_	_	_
@@ -4865,7 +4934,7 @@
 14	pon	pon	_	_	_	_	_	_	_
 15	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 164
+# sent_id = 187
 # text = Ou ka vansé pianmpianm, ou ka sispann palé oben ri épi ou ka anni kité do won pon-an fèʼy monté-désann-rimonté-ridésann jik tan ou rivé lòt bò kannal-la. 
 1	Ou	Ou	_	_	_	_	_	_	_
 2	ka	ka	_	_	_	_	_	_	_
@@ -4897,7 +4966,7 @@
 28	kannal-la	kannal-la	_	_	_	_	_	_	_
 29	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 165
+# sent_id = 188
 # text = Sé bagay ki ka fet adan an ti zizing tan, men sa blijé sansléʼw toubannman. 
 1	Sé	Sé	_	_	_	_	_	_	_
 2	bagay	bagay	_	_	_	_	_	_	_
@@ -4917,7 +4986,7 @@
 16	toubannman	toubannman	_	_	_	_	_	_	_
 17	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 166
+# sent_id = 189
 # text = Ou ka vini kon an plim ka floté, kon an rev ka fifinen nan bon mitan chalè lajounen-an. 
 1	Ou	Ou	_	_	_	_	_	_	_
 2	ka	ka	_	_	_	_	_	_	_
@@ -4940,7 +5009,7 @@
 19	lajounen-an	lajounen-an	_	_	_	_	_	_	_
 20	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 167
+# sent_id = 190
 # text =    Pon Gédon pa dot ki nanm sigré Foyal toukon La-Savann sé nanm ouvèʼy...
 1	Pon	Pon	_	_	_	_	_	_	_
 2	Gédon	Gédon	PROPN	PROPN	_	_	_	_	_
@@ -4959,7 +5028,7 @@
 15	.	.	PUNCT	PUNCT	_	_	_	_	_
 16	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 168
+# sent_id = 191
 # text = Sé jou-tala yo pa ka mantjé an boug ki ni labitid chaché ti-bet an tet patron éti pa ka respekté dwa travayè.
 1	Sé	Sé	_	_	_	_	_	_	_
 2	jou-tala	jou-tala	_	_	_	_	_	_	_
@@ -4985,7 +5054,7 @@
 22	travayè	travayè	_	_	_	_	_	_	_
 23	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 169
+# sent_id = 192
 # text = Es lè ou sendikalis ou mérité sa?
 1	Es	Es	_	_	_	_	_	_	_
 2	lè	lè	_	_	_	_	_	_	_
@@ -4996,7 +5065,7 @@
 7	sa	sa	_	_	_	_	_	_	_
 8	?	?	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 170
+# sent_id = 193
 # text = Déjà pandan kannaval-la yo pa té alé dous épiʼy, i jik palé di pòté plent kont x.
 1	Déjà	Déjà	_	_	_	_	_	_	_
 2	pandan	pandan	_	_	_	_	_	_	_
@@ -5018,7 +5087,7 @@
 18	x	x	_	_	_	_	_	_	_
 19	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 171
+# sent_id = 194
 # text = Adjilbè di mwen lot-jou:
 1	Adjilbè	Adjilbè	_	_	_	_	_	_	_
 2	di	di	_	_	_	_	_	_	_
@@ -5026,7 +5095,7 @@
 4	lot-jou	lot-jou	_	_	_	_	_	_	_
 5	:	:	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 172
+# sent_id = 195
 # text = — Pou tousa moun an kannaval-la ki manniè i ké fè?
 1	—	—	PUNCT	PUNCT	_	_	_	_	_
 2	Pou	Pou	_	_	_	_	_	_	_
@@ -5041,7 +5110,7 @@
 11	fè	fè	_	_	_	_	_	_	_
 12	?	?	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 173
+# sent_id = 196
 # text = S. sé pas i pa djè an tjè-koko épi la CTM, (pas sé pa menm parèy) yo ka zagaléʼy?
 1	S	S	_	_	_	_	_	_	_
 2	.	.	PUNCT	PUNCT	_	_	_	_	_
@@ -5068,7 +5137,7 @@
 23	zagaléʼy	zagaléʼy	_	_	_	_	_	_	_
 24	?	?	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 174
+# sent_id = 197
 # text = Antouléka, asiparé komkidiré i té ké lé pran rivanch-li épi an bidim lagrev pou Matinik sispann fè lafet épiʼy.
 1	Antouléka	Antouléka	_	_	_	_	_	_	_
 2	,	,	PUNCT	PUNCT	_	_	_	_	_
@@ -5092,7 +5161,7 @@
 20	épiʼy	épiʼy	_	_	_	_	_	_	_
 21	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 175
+# sent_id = 198
 # text = Nou adan an péyi éti moun pa ka djè respekté ayen ankò. 
 1	Nou	Nou	_	_	_	_	_	_	_
 2	adan	adan	_	_	_	_	_	_	_
@@ -5108,7 +5177,7 @@
 12	ankò	ankò	_	_	_	_	_	_	_
 13	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 176
+# sent_id = 199
 # text = Gran pa ka kouté piti, ajijéwè piti épi gran.
 1	Gran	Gran	_	_	_	_	_	_	_
 2	pa	pa	_	_	_	_	_	_	_
@@ -5122,7 +5191,7 @@
 10	gran	gran	_	_	_	_	_	_	_
 11	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 177
+# sent_id = 200
 # text = Es fo pa nou respekté kò-nou pou yo respekté nou?
 1	Es	Es	_	_	_	_	_	_	_
 2	fo	fo	_	_	_	_	_	_	_
@@ -5136,14 +5205,14 @@
 10	nou	nou	_	_	_	_	_	_	_
 11	?	?	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 178
+# sent_id = 201
 # text = Adjilbè di mwen:
 1	Adjilbè	Adjilbè	_	_	_	_	_	_	_
 2	di	di	_	_	_	_	_	_	_
 3	mwen	mwen	_	_	_	_	_	_	_
 4	:	:	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 179
+# sent_id = 202
 # text = — Sé pa mwen ké dérespekté an sendikalis, menmsi man pa toujou dakò épi kanmanʼy. 
 1	—	—	PUNCT	PUNCT	_	_	_	_	_
 2	Sé	Sé	_	_	_	_	_	_	_
@@ -5163,7 +5232,7 @@
 16	kanmanʼy	kanmanʼy	_	_	_	_	_	_	_
 17	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 180
+# sent_id = 203
 # text = Travayè toujou bizwen sendika pou défann koz-li.
 1	Travayè	Travayè	_	_	_	_	_	_	_
 2	toujou	toujou	_	_	_	_	_	_	_
@@ -5174,7 +5243,7 @@
 7	koz-li	koz-li	_	_	_	_	_	_	_
 8	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 181
+# sent_id = 204
 # text = Mi sé jou-tala yo ka palé di fini épi zafè «congé bonifié» moun isi ka viv an Frans.
 1	Mi	Mi	_	_	_	_	_	_	_
 2	sé	sé	_	_	_	_	_	_	_
@@ -5198,7 +5267,7 @@
 20	Frans	Frans	PROPN	PROPN	_	_	_	_	_
 21	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 182
+# sent_id = 205
 # text = Es fok pa ni sendika pou défann yo?
 1	Es	Es	_	_	_	_	_	_	_
 2	fok	fok	_	_	_	_	_	_	_
@@ -5210,7 +5279,7 @@
 8	yo	yo	_	_	_	_	_	_	_
 9	?	?	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 183
+# sent_id = 206
 # text = Lot jou Ti-Mano di sé pa klordékòn ka ba moun krab-la isi-a. 
 1	Lot	Lot	_	_	_	_	_	_	_
 2	jou	jou	_	_	_	_	_	_	_
@@ -5226,7 +5295,7 @@
 12	isi-a	isi-a	_	_	_	_	_	_	_
 13	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 184
+# sent_id = 207
 # text = Magré kansè lapostat ka esplozé an péyi-nou ek ka mété fanmiy an banbanm.
 1	Magré	Magré	_	_	_	_	_	_	_
 2	kansè	kansè	_	_	_	_	_	_	_
@@ -5243,7 +5312,7 @@
 13	banbanm	banbanm	_	_	_	_	_	_	_
 14	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 185
+# sent_id = 208
 # text = Es nou pé ké bizwen an sendika pou dénonsé sa?
 1	Es	Es	_	_	_	_	_	_	_
 2	nou	nou	_	_	_	_	_	_	_
@@ -5257,7 +5326,7 @@
 10	sa	sa	_	_	_	_	_	_	_
 11	?	?	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 186
+# sent_id = 209
 # text = Manmay sé pas nou pa dakò épi métod an sendikalis, pou chaché dénigré tout sendika. 
 1	Manmay	Manmay	_	_	_	_	_	_	_
 2	sé	sé	_	_	_	_	_	_	_
@@ -5277,7 +5346,7 @@
 16	sendika	sendika	_	_	_	_	_	_	_
 17	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 187
+# sent_id = 210
 # text = Dwa nou ni jòdi, (sékité sosial, karant pou san, 22 mé..) sé gras a mobilizasion sendika.
 1	Dwa	Dwa	_	_	_	_	_	_	_
 2	nou	nou	_	_	_	_	_	_	_
@@ -5304,7 +5373,7 @@
 23	sendika	sendika	_	_	_	_	_	_	_
 24	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 188
+# sent_id = 211
 # text = Epi akondi pawol-la yo pa ka vréyé woch an pié-mango vid, ek sé pa an mango pouwi ki pou gaté an panyen.
 1	Epi	Epi	_	_	_	_	_	_	_
 2	akondi	akondi	_	_	_	_	_	_	_
@@ -5331,7 +5400,7 @@
 23	panyen	panyen	_	_	_	_	_	_	_
 24	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 189
+# sent_id = 212
 # text = Lè ou rivé nan vil Miami ek dayè adan pliziè dot koté adan léta Florid, ou ka anni wè etsétéra panno ki matjé adan 3 lang : anglé--panyol--kréyol. 
 1	Lè	Lè	_	_	_	_	_	_	_
 2	ou	ou	_	_	_	_	_	_	_
@@ -5364,7 +5433,7 @@
 29	anglé--panyol--kréyol	anglé--panyol--kréyol	_	_	_	_	_	_	_
 30	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 190
+# sent_id = 213
 # text = Kivédi sé Méritjen-an ka ba zépon natirel nou, lang kréyol la, lonnè-a ek respé-a i mérité a.
 1	Kivédi	Kivédi	_	_	_	_	_	_	_
 2	sé	sé	_	_	_	_	_	_	_
@@ -5387,8 +5456,8 @@
 19	a	a	_	_	_	_	_	_	_
 20	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 191
-# text =   Man lè ou fè tan gadé Matinik, ki sa ou ka wè ? Anlo bann initil asou Entènet ka dépotjolé kréyol la oben ka sèviʼy anni ki pou jouré oben fè djendjen. 
+# sent_id = 214
+# text =   Man lè ou fè tan gadé Matinik, ki sa ou ka wè ? 
 1	Man	Man	_	_	_	_	_	_	_
 2	lè	lè	_	_	_	_	_	_	_
 3	ou	ou	_	_	_	_	_	_	_
@@ -5403,29 +5472,32 @@
 12	ka	ka	_	_	_	_	_	_	_
 13	wè	wè	_	_	_	_	_	_	_
 14	?	?	PUNCT	PUNCT	_	_	_	_	_
-15	Anlo	Anlo	_	_	_	_	_	_	_
-16	bann	bann	_	_	_	_	_	_	_
-17	initil	initil	_	_	_	_	_	_	_
-18	asou	asou	_	_	_	_	_	_	_
-19	Entènet	Entènet	PROPN	PROPN	_	_	_	_	_
-20	ka	ka	_	_	_	_	_	_	_
-21	dépotjolé	dépotjolé	_	_	_	_	_	_	_
-22	kréyol	kréyol	_	_	_	_	_	_	_
-23	la	la	_	_	_	_	_	_	_
-24	oben	oben	_	_	_	_	_	_	_
-25	ka	ka	_	_	_	_	_	_	_
-26	sèviʼy	sèviʼy	_	_	_	_	_	_	_
-27	anni	anni	_	_	_	_	_	_	_
-28	ki	ki	_	_	_	_	_	_	_
-29	pou	pou	_	_	_	_	_	_	_
-30	jouré	jouré	_	_	_	_	_	_	_
-31	oben	oben	_	_	_	_	_	_	_
-32	fè	fè	_	_	_	_	_	_	_
-33	djendjen	djendjen	_	_	_	_	_	_	_
-34	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 192
-# text = Kantapou sé sit-web la, pa menm palé ! Ba sé moun-tala, kréyol-la sé an tòchon-pié toubannman. 
+# sent_id = 215
+# text = Anlo bann initil asou Entènet ka dépotjolé kréyol la oben ka sèviʼy anni ki pou jouré oben fè djendjen. 
+1	Anlo	Anlo	_	_	_	_	_	_	_
+2	bann	bann	_	_	_	_	_	_	_
+3	initil	initil	_	_	_	_	_	_	_
+4	asou	asou	_	_	_	_	_	_	_
+5	Entènet	Entènet	PROPN	PROPN	_	_	_	_	_
+6	ka	ka	_	_	_	_	_	_	_
+7	dépotjolé	dépotjolé	_	_	_	_	_	_	_
+8	kréyol	kréyol	_	_	_	_	_	_	_
+9	la	la	_	_	_	_	_	_	_
+10	oben	oben	_	_	_	_	_	_	_
+11	ka	ka	_	_	_	_	_	_	_
+12	sèviʼy	sèviʼy	_	_	_	_	_	_	_
+13	anni	anni	_	_	_	_	_	_	_
+14	ki	ki	_	_	_	_	_	_	_
+15	pou	pou	_	_	_	_	_	_	_
+16	jouré	jouré	_	_	_	_	_	_	_
+17	oben	oben	_	_	_	_	_	_	_
+18	fè	fè	_	_	_	_	_	_	_
+19	djendjen	djendjen	_	_	_	_	_	_	_
+20	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# sent_id = 216
+# text = Kantapou sé sit-web la, pa menm palé ! 
 1	Kantapou	Kantapou	_	_	_	_	_	_	_
 2	sé	sé	_	_	_	_	_	_	_
 3	sit-web	sit-web	_	_	_	_	_	_	_
@@ -5435,18 +5507,21 @@
 7	menm	menm	_	_	_	_	_	_	_
 8	palé	palé	_	_	_	_	_	_	_
 9	!	!	PUNCT	PUNCT	_	_	_	_	_
-10	Ba	Ba	_	_	_	_	_	_	_
-11	sé	sé	_	_	_	_	_	_	_
-12	moun-tala	moun-tala	_	_	_	_	_	_	_
-13	,	,	PUNCT	PUNCT	_	_	_	_	_
-14	kréyol-la	kréyol-la	_	_	_	_	_	_	_
-15	sé	sé	_	_	_	_	_	_	_
-16	an	an	_	_	_	_	_	_	_
-17	tòchon-pié	tòchon-pié	_	_	_	_	_	_	_
-18	toubannman	toubannman	_	_	_	_	_	_	_
-19	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 193
+# sent_id = 217
+# text = Ba sé moun-tala, kréyol-la sé an tòchon-pié toubannman. 
+1	Ba	Ba	_	_	_	_	_	_	_
+2	sé	sé	_	_	_	_	_	_	_
+3	moun-tala	moun-tala	_	_	_	_	_	_	_
+4	,	,	PUNCT	PUNCT	_	_	_	_	_
+5	kréyol-la	kréyol-la	_	_	_	_	_	_	_
+6	sé	sé	_	_	_	_	_	_	_
+7	an	an	_	_	_	_	_	_	_
+8	tòchon-pié	tòchon-pié	_	_	_	_	_	_	_
+9	toubannman	toubannman	_	_	_	_	_	_	_
+10	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# sent_id = 218
 # text = Pi souvan ki rarman, yo ka mété an tit ki an kréyol, men tout lèrestan artik-la matjé an fwansé. 
 1	Pi	Pi	_	_	_	_	_	_	_
 2	souvan	souvan	_	_	_	_	_	_	_
@@ -5471,7 +5546,7 @@
 21	fwansé	fwansé	_	_	_	_	_	_	_
 22	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 194
+# sent_id = 219
 # text = Bann mal-mouton ki zot yé ! 
 1	Bann	Bann	_	_	_	_	_	_	_
 2	mal-mouton	mal-mouton	_	_	_	_	_	_	_
@@ -5480,7 +5555,7 @@
 5	yé	yé	_	_	_	_	_	_	_
 6	!	!	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 195
+# sent_id = 220
 # text =    Lè ou ladjé sé mal-mouton blogè a pou gadé sa ka fet a nivo politik, sé menm bankoulélé-a ki ka woulé pa rapot a kréyol : ki yo adwet ki yo agoch ki yo an mitan, sé menm bet-menm pwel. 
 1	Lè	Lè	_	_	_	_	_	_	_
 2	ou	ou	_	_	_	_	_	_	_
@@ -5526,7 +5601,7 @@
 42	pwel	pwel	_	_	_	_	_	_	_
 43	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 196
+# sent_id = 221
 # text = Kréyol-la pa ka ekzisté ba sé mésié ek sé madanm-tala, sof lè ni kanpay élektoral ek yo bizwen trapé votman TI SONSON.
 1	Kréyol-la	Kréyol-la	_	_	_	_	_	_	_
 2	pa	pa	_	_	_	_	_	_	_
@@ -5553,7 +5628,7 @@
 23	SONSON	SONSON	PROPN	PROPN	_	_	_	_	_
 24	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 197
+# sent_id = 222
 # text =    Yo tout-la, ki jounalis, ki blogè, ki politisien, ki grangrek, ki matjè liv kisasayésa..., sé adan lang fwansé a yo ka anni lolé bomaten-an-midi-oswè épi apré yo ké vini kalé gwo djol épé yo pou vini paléʼw di "l'esclavage", "l'Egypte noire", "Le monde khémite" oben di kankan politik Matinik ki pa ka entérésé pèsonn, di lavi tel politisien oben tel chantè ka fè makak ba Blan.  
 1	Yo	Yo	_	_	_	_	_	_	_
 2	tout-la	tout-la	_	_	_	_	_	_	_
@@ -5645,7 +5720,7 @@
 88	Blan	Blan	PROPN	PROPN	_	_	_	_	_
 89	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 198
+# sent_id = 223
 # text =    Mi fè, ti tet zépenng Matinik tala, fout !...
 1	Mi	Mi	_	_	_	_	_	_	_
 2	fè	fè	_	_	_	_	_	_	_
@@ -5662,7 +5737,7 @@
 13	.	.	PUNCT	PUNCT	_	_	_	_	_
 14	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 199
+# sent_id = 224
 # text = Adjilbè trapé trapé an bel bok lasimenm pasé adan jounen 8 mas-la.
 1	Adjilbè	Adjilbè	_	_	_	_	_	_	_
 2	trapé	trapé	_	_	_	_	_	_	_
@@ -5678,7 +5753,7 @@
 12	mas-la	mas-la	_	_	_	_	_	_	_
 13	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 200
+# sent_id = 225
 # text = Kom pouʼy sé té lajounen fanm, misié kouri genyen an bel boutjé woz ba madanm-li. 
 1	Kom	Kom	_	_	_	_	_	_	_
 2	pouʼy	pouʼy	_	_	_	_	_	_	_
@@ -5698,7 +5773,7 @@
 16	madanm-li	madanm-li	_	_	_	_	_	_	_
 17	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 201
+# sent_id = 226
 # text = Dapréʼy, pouʼy té fèʼy plézi. 
 1	Dapréʼy	Dapréʼy	_	_	_	_	_	_	_
 2	,	,	PUNCT	PUNCT	_	_	_	_	_
@@ -5708,7 +5783,7 @@
 6	plézi	plézi	_	_	_	_	_	_	_
 7	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 202
+# sent_id = 227
 # text = An plis misié fè malè di madanm-li:
 1	An	An	_	_	_	_	_	_	_
 2	plis	plis	_	_	_	_	_	_	_
@@ -5719,7 +5794,7 @@
 7	madanm-li	madanm-li	_	_	_	_	_	_	_
 8	:	:	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 203
+# sent_id = 228
 # text =  — Kom ou sé an potomitan an kilti Matinik, man lé matjé jou-a!
 1	—	—	PUNCT	PUNCT	_	_	_	_	_
 2	Kom	Kom	_	_	_	_	_	_	_
@@ -5737,7 +5812,7 @@
 14	jou-a	jou-a	_	_	_	_	_	_	_
 15	!	!	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 204
+# sent_id = 229
 # text = Ében madanm-lan ranmaséʼy (man pa ka di zot sa i diʼy, mé man pé asiré zot sa pa té djè janti janti). 
 1	Ében	Ében	_	_	_	_	_	_	_
 2	madanm-lan	madanm-lan	_	_	_	_	_	_	_
@@ -5766,7 +5841,7 @@
 25	)	)	PUNCT	PUNCT	_	_	_	_	_
 26	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 205
+# sent_id = 230
 # text = Madanm-lan koumansé pa diʼy:
 1	Madanm-lan	Madanm-lan	_	_	_	_	_	_	_
 2	koumansé	koumansé	_	_	_	_	_	_	_
@@ -5774,7 +5849,7 @@
 4	diʼy	diʼy	_	_	_	_	_	_	_
 5	:	:	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 206
+# sent_id = 231
 # text = — Boutjéʼw-la ou pé pòtéʼy ba anlot fanm. 
 1	—	—	PUNCT	PUNCT	_	_	_	_	_
 2	Boutjéʼw-la	Boutjéʼw-la	_	_	_	_	_	_	_
@@ -5786,7 +5861,7 @@
 8	fanm	fanm	_	_	_	_	_	_	_
 9	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 207
+# sent_id = 232
 # text = Epi zafè potomitan-an, man pa anlè sa pies toubannman!
 1	Epi	Epi	_	_	_	_	_	_	_
 2	zafè	zafè	_	_	_	_	_	_	_
@@ -5800,7 +5875,7 @@
 10	toubannman	toubannman	_	_	_	_	_	_	_
 11	!	!	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 208
+# sent_id = 233
 # text = Antouléka, misié aprann jou-tala sé pa «Lajounen lafam» mé «Lajounen Entènasional pou dwa fanm».
 1	Antouléka	Antouléka	_	_	_	_	_	_	_
 2	,	,	PUNCT	PUNCT	_	_	_	_	_
@@ -5823,7 +5898,7 @@
 19	»	»	PUNCT	PUNCT	_	_	_	_	_
 20	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 209
+# sent_id = 234
 # text = Lè misié gadé bien alantouʼy i wè té ni anlo manifestasion fanm ka fè tibren kon sé nonm politik-la. 
 1	Lè	Lè	_	_	_	_	_	_	_
 2	misié	misié	_	_	_	_	_	_	_
@@ -5846,7 +5921,7 @@
 19	politik-la	politik-la	_	_	_	_	_	_	_
 20	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 210
+# sent_id = 235
 # text = Yo chak-la ka fè zafè yo an gou-yo.
 1	Yo	Yo	_	_	_	_	_	_	_
 2	chak-la	chak-la	_	_	_	_	_	_	_
@@ -5858,7 +5933,7 @@
 8	gou-yo	gou-yo	_	_	_	_	_	_	_
 9	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 211
+# sent_id = 236
 # text = Fok di tou ni yonndé ki désidé kréyé an kolektif 8 mas éti anlo asosiasion kolé tet, kolé zépol pou yo mété kò-yo ansanm. 
 1	Fok	Fok	_	_	_	_	_	_	_
 2	di	di	_	_	_	_	_	_	_
@@ -5887,7 +5962,7 @@
 25	ansanm	ansanm	_	_	_	_	_	_	_
 26	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 212
+# sent_id = 237
 # text = Sé fanm-tala sav sé lonyon ka fè lasos. 
 1	Sé	Sé	_	_	_	_	_	_	_
 2	fanm-tala	fanm-tala	_	_	_	_	_	_	_
@@ -5899,7 +5974,7 @@
 8	lasos	lasos	_	_	_	_	_	_	_
 9	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 213
+# sent_id = 238
 # text = Pa koté Baspwent ni yonndé fanm épi nonm-tou té ka sipòté man limè, asiré yo té kontan an landimen 8 mas. 
 1	Pa	Pa	_	_	_	_	_	_	_
 2	koté	koté	_	_	_	_	_	_	_
@@ -5925,7 +6000,7 @@
 22	mas	mas	_	_	_	_	_	_	_
 23	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 214
+# sent_id = 239
 # text = Pas yo pé bat lestonmak yo, yo sé déziem komin Matinik apré Mònwouj ki ni an mè yo ka kriyé Man limè. 
 1	Pas	Pas	_	_	_	_	_	_	_
 2	yo	yo	_	_	_	_	_	_	_
@@ -5952,7 +6027,7 @@
 23	limè	limè	_	_	_	_	_	_	_
 24	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 215
+# sent_id = 240
 # text = Antouléka madanm-lan té bien kontan, i pa rifizé sé lo boutjéʼ-a yo pòté baʼy-la.
 1	Antouléka	Antouléka	_	_	_	_	_	_	_
 2	madanm-lan	madanm-lan	_	_	_	_	_	_	_
@@ -5971,7 +6046,7 @@
 15	baʼy-la	baʼy-la	_	_	_	_	_	_	_
 16	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 216
+# sent_id = 241
 # text = Tout moun té ka atann dimanch pou té wè vaval. 
 1	Tout	Tout	_	_	_	_	_	_	_
 2	moun	moun	_	_	_	_	_	_	_
@@ -5985,7 +6060,7 @@
 10	vaval	vaval	_	_	_	_	_	_	_
 11	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 217
+# sent_id = 242
 # text = Mé dé jou avan kannaval-la an té ja ni an polémik. 
 1	Mé	Mé	_	_	_	_	_	_	_
 2	dé	dé	_	_	_	_	_	_	_
@@ -6000,7 +6075,7 @@
 11	polémik	polémik	_	_	_	_	_	_	_
 12	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 218
+# sent_id = 243
 # text = Dapré komkidiré sèten moun, yo té wè Vaval anlè watsap épi an drapo wouj, vè épi nwè. 
 1	Dapré	Dapré	_	_	_	_	_	_	_
 2	komkidiré	komkidiré	_	_	_	_	_	_	_
@@ -6023,7 +6098,7 @@
 19	nwè	nwè	_	_	_	_	_	_	_
 20	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 219
+# sent_id = 244
 # text = Antouléka Vaval vini épi jilé wouj-li, pas sa ja ka fè dizan moun Matinik té mobilizé san jilé jòn mé épi triko wouj. 
 1	Antouléka	Antouléka	_	_	_	_	_	_	_
 2	Vaval	Vaval	PROPN	PROPN	_	_	_	_	_
@@ -6051,7 +6126,7 @@
 24	wouj	wouj	_	_	_	_	_	_	_
 25	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 220
+# sent_id = 245
 # text = Sé pou laviktwa yo té lé alé.
 1	Sé	Sé	_	_	_	_	_	_	_
 2	pou	pou	_	_	_	_	_	_	_
@@ -6062,7 +6137,7 @@
 7	alé	alé	_	_	_	_	_	_	_
 8	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 221
+# sent_id = 246
 # text = Té ni tout kalté mas ka suiv épi zotes TCSP ka espéré dépi an lanné yo anboché yo. 
 1	Té	Té	_	_	_	_	_	_	_
 2	ni	ni	_	_	_	_	_	_	_
@@ -6084,7 +6159,7 @@
 18	yo	yo	_	_	_	_	_	_	_
 19	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 222
+# sent_id = 247
 # text = Epi lamaji kannaval-la sé pa Pavila mé Pavinila ki pasé yonndé kout tjok zn djol anlè an CRS.
 1	Epi	Epi	_	_	_	_	_	_	_
 2	lamaji	lamaji	_	_	_	_	_	_	_
@@ -6106,7 +6181,7 @@
 18	CRS	CRS	PROPN	PROPN	_	_	_	_	_
 19	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 223
+# sent_id = 248
 # text = Bon mariyàn lapofig mani tjé pri difé anba chalè-tala. 
 1	Bon	Bon	_	_	_	_	_	_	_
 2	mariyàn	mariyàn	_	_	_	_	_	_	_
@@ -6119,7 +6194,7 @@
 9	chalè-tala	chalè-tala	_	_	_	_	_	_	_
 10	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 224
+# sent_id = 249
 # text = Man té an tjè vidé-a épi ATV mé Adilbè di mwen:
 1	Man	Man	_	_	_	_	_	_	_
 2	té	té	_	_	_	_	_	_	_
@@ -6134,7 +6209,7 @@
 11	mwen	mwen	_	_	_	_	_	_	_
 12	:	:	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 225
+# sent_id = 250
 # text = — Sé épi Martinik 1er man ka maché pas sé sa man ni kom télé bò kay-mwen!
 1	—	—	PUNCT	PUNCT	_	_	_	_	_
 2	Sé	Sé	_	_	_	_	_	_	_
@@ -6155,7 +6230,7 @@
 17	kay-mwen	kay-mwen	_	_	_	_	_	_	_
 18	!	!	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 226
+# sent_id = 251
 # text = Lè Adjilbè wè boutèy chanpay-la an lanmen Vaval limenm di i pa ké kité boutè wonm li pou sa.
 1	Lè	Lè	_	_	_	_	_	_	_
 2	Adjilbè	Adjilbè	PROPN	PROPN	_	_	_	_	_
@@ -6178,7 +6253,7 @@
 19	sa	sa	_	_	_	_	_	_	_
 20	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 227
+# sent_id = 252
 # text = Anlo jennfi de bòn famiy té ka chanté koté yo mé andidan bordel-la sé pa toutafetman sa ou té ka tann. 
 1	Anlo	Anlo	_	_	_	_	_	_	_
 2	jennfi	jennfi	_	_	_	_	_	_	_
@@ -6203,7 +6278,7 @@
 21	tann	tann	_	_	_	_	_	_	_
 22	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 228
+# sent_id = 253
 # text = Yo té ka résité jé kopié ti a kopi il a kopié…
 1	Yo	Yo	_	_	_	_	_	_	_
 2	té	té	_	_	_	_	_	_	_
@@ -6219,7 +6294,7 @@
 12	kopié	kopié	_	_	_	_	_	_	_
 13	…	…	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 229
+# sent_id = 254
 # text = Antouléka kannaval-la bien pati dimanch, pas Vaval ouvè bakannal-la.
 1	Antouléka	Antouléka	_	_	_	_	_	_	_
 2	kannaval-la	kannaval-la	_	_	_	_	_	_	_
@@ -6233,13 +6308,13 @@
 10	bakannal-la	bakannal-la	_	_	_	_	_	_	_
 11	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 230
+# sent_id = 255
 # text = Naw flouz. 
 1	Naw	Naw	_	_	_	_	_	_	_
 2	flouz	flouz	_	_	_	_	_	_	_
 3	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 231
+# sent_id = 256
 # text = Vidé-a woulé ti-kòʼy nawflouz.
 1	Vidé-a	Vidé-a	_	_	_	_	_	_	_
 2	woulé	woulé	_	_	_	_	_	_	_
@@ -6247,7 +6322,7 @@
 4	nawflouz	nawflouz	_	_	_	_	_	_	_
 5	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 232
+# sent_id = 257
 # text = Boul moun-lan dwet té alé gadé mas pasé an komin. 
 1	Boul	Boul	_	_	_	_	_	_	_
 2	moun-lan	moun-lan	_	_	_	_	_	_	_
@@ -6261,7 +6336,7 @@
 10	komin	komin	_	_	_	_	_	_	_
 11	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 233
+# sent_id = 258
 # text = Kidonk, manmay, lavil-la té ta-nou épi ta tou sa ki désann fété mariaj vaval jodi-a.
 1	Kidonk	Kidonk	_	_	_	_	_	_	_
 2	,	,	PUNCT	PUNCT	_	_	_	_	_
@@ -6282,7 +6357,7 @@
 17	jodi-a	jodi-a	_	_	_	_	_	_	_
 18	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 234
+# sent_id = 259
 # text = Si lanméri ka kontinié fè djendjen épi vaval-la, chak lanné ni polémik, ni adan pawmi sé group-la ki ka fè zafè-yo épi anpil limajinasion... Anni gadé...
 1	Si	Si	_	_	_	_	_	_	_
 2	lanméri	lanméri	_	_	_	_	_	_	_
@@ -6319,7 +6394,7 @@
 33	.	.	PUNCT	PUNCT	_	_	_	_	_
 34	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 235
+# sent_id = 260
 # text = Toupandan zélev pati an vakans kannaval penteng alantou kannaval ka alé ovantatè. 
 1	Toupandan	Toupandan	_	_	_	_	_	_	_
 2	zélev	zélev	_	_	_	_	_	_	_
@@ -6335,7 +6410,7 @@
 12	ovantatè	ovantatè	_	_	_	_	_	_	_
 13	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 236
+# sent_id = 261
 # text = Sé konsa Gwanaval dépi pasé tjenzan rifé la «BètaféParad». 
 1	Sé	Sé	_	_	_	_	_	_	_
 2	konsa	konsa	_	_	_	_	_	_	_
@@ -6350,7 +6425,7 @@
 11	»	»	PUNCT	PUNCT	_	_	_	_	_
 12	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 237
+# sent_id = 262
 # text = Asiré la pa té ni rad kabann, mé bel kostim ka limen sanmdi oswè. 
 1	Asiré	Asiré	_	_	_	_	_	_	_
 2	la	la	_	_	_	_	_	_	_
@@ -6369,7 +6444,7 @@
 15	oswè	oswè	_	_	_	_	_	_	_
 16	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 238
+# sent_id = 263
 # text = Vréman, vréman limajinasion té an pwent épi sé kostim lan. 
 1	Vréman	Vréman	_	_	_	_	_	_	_
 2	,	,	PUNCT	PUNCT	_	_	_	_	_
@@ -6384,7 +6459,7 @@
 11	lan	lan	_	_	_	_	_	_	_
 12	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 239
+# sent_id = 264
 # text = Toupatou anvil té ni an véritab ti-limiè ka klinoté akondi bètafé.
 1	Toupatou	Toupatou	_	_	_	_	_	_	_
 2	anvil	anvil	_	_	_	_	_	_	_
@@ -6399,7 +6474,7 @@
 11	bètafé	bètafé	_	_	_	_	_	_	_
 12	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 240
+# sent_id = 265
 # text = Dimanch sé Loren difé té ka pri san zalimet. 
 1	Dimanch	Dimanch	_	_	_	_	_	_	_
 2	sé	sé	_	_	_	_	_	_	_
@@ -6412,7 +6487,7 @@
 9	zalimet	zalimet	_	_	_	_	_	_	_
 10	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 241
+# sent_id = 266
 # text = Fok di tou épi sé gran vantilatè Gran-Riviè-a atjelman moun linò ké pé ni kouran alezkò-yo. 
 1	Fok	Fok	_	_	_	_	_	_	_
 2	di	di	_	_	_	_	_	_	_
@@ -6432,7 +6507,7 @@
 16	alezkò-yo	alezkò-yo	_	_	_	_	_	_	_
 17	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 242
+# sent_id = 267
 # text = Yo jik fè an group Gwadloup fè an won.
 1	Yo	Yo	_	_	_	_	_	_	_
 2	jik	jik	_	_	_	_	_	_	_
@@ -6445,7 +6520,7 @@
 9	won	won	_	_	_	_	_	_	_
 10	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 243
+# sent_id = 268
 # text = Sé jou-tala, sa cho dan linò toubannman. 
 1	Sé	Sé	_	_	_	_	_	_	_
 2	jou-tala	jou-tala	_	_	_	_	_	_	_
@@ -6457,7 +6532,7 @@
 8	toubannman	toubannman	_	_	_	_	_	_	_
 9	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 244
+# sent_id = 269
 # text = Sé pa palakoz karenm-lan mé pou éleksion mè ki pou fet dan tjenz jou. 
 1	Sé	Sé	_	_	_	_	_	_	_
 2	pa	pa	_	_	_	_	_	_	_
@@ -6475,7 +6550,7 @@
 14	jou	jou	_	_	_	_	_	_	_
 15	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 245
+# sent_id = 270
 # text = Ansien adjwen-an fè lis, i lé fè an kout mè tou. 
 1	Ansien	Ansien	_	_	_	_	_	_	_
 2	adjwen-an	adjwen-an	_	_	_	_	_	_	_
@@ -6491,7 +6566,7 @@
 12	tou	tou	_	_	_	_	_	_	_
 13	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 246
+# sent_id = 271
 # text = Asiparé i lé tout moun Baspwent mété kò yo an menm bonnet. 
 1	Asiparé	Asiparé	_	_	_	_	_	_	_
 2	i	i	_	_	_	_	_	_	_
@@ -6507,7 +6582,7 @@
 12	bonnet	bonnet	_	_	_	_	_	_	_
 13	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 247
+# sent_id = 272
 # text = I fè an lis «Ensemble Pour Réussir Basse-Pointe». 
 1	I	I	_	_	_	_	_	_	_
 2	fè	fè	_	_	_	_	_	_	_
@@ -6521,7 +6596,7 @@
 10	»	»	PUNCT	PUNCT	_	_	_	_	_
 11	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 248
+# sent_id = 273
 # text = Kantapou mè-a ki té jala-a i fidjiré épi «Dynamique Pointoise».
 1	Kantapou	Kantapou	_	_	_	_	_	_	_
 2	mè-a	mè-a	_	_	_	_	_	_	_
@@ -6537,7 +6612,7 @@
 12	»	»	PUNCT	PUNCT	_	_	_	_	_
 13	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 249
+# sent_id = 274
 # text = Sé dan tjenz jou nou ké sav réyelman asou kiles yo ké fè an bwabwa es sé ké anlè Patik oben Mari-Térez.
 1	Sé	Sé	_	_	_	_	_	_	_
 2	dan	dan	_	_	_	_	_	_	_
@@ -6563,7 +6638,7 @@
 22	Mari-Térez	Mari-Térez	PROPN	PROPN	_	_	_	_	_
 23	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 250
+# sent_id = 275
 # text = Tout sé jou-tala sé kannaval, mé pengad lè nou ka alé bò lanmè pou nou pa mété fanmiy dan lapenn kon sa ki fet pakoté Préchè.
 1	Tout	Tout	_	_	_	_	_	_	_
 2	sé	sé	_	_	_	_	_	_	_
@@ -6594,7 +6669,7 @@
 27	Préchè	Préchè	PROPN	PROPN	_	_	_	_	_
 28	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 251
+# sent_id = 276
 # text = Ni lontan pa té ni sitelman moun Anvil ka kouri vidé épi ka gadé mas pasé. 
 1	Ni	Ni	_	_	_	_	_	_	_
 2	lontan	lontan	_	_	_	_	_	_	_
@@ -6614,7 +6689,7 @@
 16	pasé	pasé	_	_	_	_	_	_	_
 17	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 252
+# sent_id = 277
 # text = Anbouteyaj… vidé jilé jòn kon neg gwo siwo, toupatou nan sé lari-a. 
 1	Anbouteyaj	Anbouteyaj	_	_	_	_	_	_	_
 2	…	…	PUNCT	PUNCT	_	_	_	_	_
@@ -6632,7 +6707,7 @@
 14	lari-a	lari-a	_	_	_	_	_	_	_
 15	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 253
+# sent_id = 278
 # text = Pabò sétè, lapli-a vini grennen mouvman-an mé sa té bel.
 1	Pabò	Pabò	_	_	_	_	_	_	_
 2	sétè	sétè	_	_	_	_	_	_	_
@@ -6647,7 +6722,7 @@
 11	bel	bel	_	_	_	_	_	_	_
 12	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 254
+# sent_id = 279
 # text = An tan lontan, falé ou té mété bel gran fwansé kravaté-lennté déwò pou pep-la té voté baʼw. 
 1	An	An	_	_	_	_	_	_	_
 2	tan	tan	_	_	_	_	_	_	_
@@ -6669,7 +6744,7 @@
 18	baʼw	baʼw	_	_	_	_	_	_	_
 19	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 255
+# sent_id = 280
 # text = Menm lè pep-la pa té djè konnet menyen fwansé, falé ou té fè djez douvanʼy pou i té wèʼw kon an grankrek oben an mapipi.
 1	Menm	Menm	_	_	_	_	_	_	_
 2	lè	lè	_	_	_	_	_	_	_
@@ -6698,7 +6773,7 @@
 25	mapipi	mapipi	_	_	_	_	_	_	_
 26	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 256
+# sent_id = 281
 # text =    Sé kon sa, adan sé lanné 1960 la, an kandida pou lanméri komin Lowen, ki pa té ni lestrad, té monté asou an gwo woch pou fè plodariʼy ek i té vréyé bel fwansé désann anlè moun :
 1	Sé	Sé	_	_	_	_	_	_	_
 2	kon	kon	_	_	_	_	_	_	_
@@ -6743,7 +6818,7 @@
 41	moun	moun	_	_	_	_	_	_	_
 42	:	:	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 257
+# sent_id = 282
 # text =    "Si je prends la peine de monter sur ce rocher de roche, ce n'est pas pour vous dire des couillonaderies, mais pou vous dire la franche vérité...".
 1	"	"	PUNCT	PUNCT	_	_	_	_	_
 2	Si	Si	_	_	_	_	_	_	_
@@ -6783,7 +6858,7 @@
 36	"	"	PUNCT	PUNCT	_	_	_	_	_
 37	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 258
+# sent_id = 283
 # text =    Aimé CESAIRE, li-menm, té ka fè moun tonbé léta lè zot wè i té ka fè an plodari élektoral. 
 1	Aimé	Aimé	_	_	_	_	_	_	_
 2	CESAIRE	CESAIRE	PROPN	PROPN	_	_	_	_	_
@@ -6808,7 +6883,7 @@
 21	élektoral	élektoral	_	_	_	_	_	_	_
 22	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 259
+# sent_id = 284
 # text = Kon jou-a éti i ladjé ( fok té kriyé lanbilans ba dé sèten madanm) :
 1	Kon	Kon	_	_	_	_	_	_	_
 2	jou-a	jou-a	_	_	_	_	_	_	_
@@ -6827,7 +6902,7 @@
 15	)	)	PUNCT	PUNCT	_	_	_	_	_
 16	:	:	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 260
+# sent_id = 285
 # text =    "Les thuriféraires stipendiés du gouvernement devraient se taire."
 1	"	"	PUNCT	PUNCT	_	_	_	_	_
 2	Les	Les	_	_	_	_	_	_	_
@@ -6841,7 +6916,7 @@
 10	.	.	PUNCT	PUNCT	_	_	_	_	_
 11	"	"	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 261
+# sent_id = 286
 # text =    Epi, akonté di sé lanné 1970 la, ni a  bon krey manmay ki koumansé goumen pou vréyé lang kréyol nou an monté. 
 1	Epi	Epi	_	_	_	_	_	_	_
 2	,	,	PUNCT	PUNCT	_	_	_	_	_
@@ -6869,7 +6944,7 @@
 24	monté	monté	_	_	_	_	_	_	_
 25	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 262
+# sent_id = 287
 # text = Pou baʼy respektasion i mérité soutou ! Kisiswa dé grangrek kon Jean BERNABE, dé matjè kon MONCHOACHI, Joby BERNABE, Térez LEOTN, Georges-HENRI LEOTIN, Raphaël CONFIANT, Serge RESTOG, dé chantè kon MONA, KALI, dé met-téyat kon José ALPHA, dé animatè kiltirel kon Yv-Mari SERALINE, dé animatè-radio kon MANO kisasayésa..., tout sé moun-tala pa janmen sispann défann sa moun lontan té ka kriyé "zépon natirel nou".
 1	Pou	Pou	_	_	_	_	_	_	_
 2	baʼy	baʼy	_	_	_	_	_	_	_
@@ -6953,7 +7028,7 @@
 80	"	"	PUNCT	PUNCT	_	_	_	_	_
 81	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 263
+# sent_id = 288
 # text =    Kifè, anmizi-anmizi, moun ki té rayi kréyol ek té ka kriyéʼy "patwa", vini bokanté lidé.
 1	Kifè	Kifè	_	_	_	_	_	_	_
 2	,	,	PUNCT	PUNCT	_	_	_	_	_
@@ -6977,7 +7052,7 @@
 20	lidé	lidé	_	_	_	_	_	_	_
 21	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 264
+# sent_id = 289
 # text =    Akonté di sé lanné 1980 an, politisien vini ka sèvi kréyol toulong adan sanblaj élektoral yo. 
 1	Akonté	Akonté	_	_	_	_	_	_	_
 2	di	di	_	_	_	_	_	_	_
@@ -6998,7 +7073,7 @@
 17	yo	yo	_	_	_	_	_	_	_
 18	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 265
+# sent_id = 290
 # text = Mété déwò bel gran fwansé pa té sifizan ankò pou sa konvenk élektè voté baʼw. 
 1	Mété	Mété	_	_	_	_	_	_	_
 2	déwò	déwò	_	_	_	_	_	_	_
@@ -7017,7 +7092,7 @@
 15	baʼw	baʼw	_	_	_	_	_	_	_
 16	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 266
+# sent_id = 291
 # text = Primié politisien ki fè sa, sé Alfred MARIE-JEANNE épi Garcin MALSA, dé met-a-manyok adan lang kréyol la. 
 1	Primié	Primié	_	_	_	_	_	_	_
 2	politisien	politisien	_	_	_	_	_	_	_
@@ -7040,7 +7115,7 @@
 19	la	la	_	_	_	_	_	_	_
 20	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 267
+# sent_id = 292
 # text = Epi, apré yo, pres tout politisien, menm ta Ladwet atjelman, pa pè fè plodari an kréyol. 
 1	Epi	Epi	_	_	_	_	_	_	_
 2	,	,	PUNCT	PUNCT	_	_	_	_	_
@@ -7064,7 +7139,7 @@
 20	kréyol	kréyol	_	_	_	_	_	_	_
 21	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 268
+# sent_id = 293
 # text = Sa vini konsidiré sé an bagay ki toutafetman natirel.
 1	Sa	Sa	_	_	_	_	_	_	_
 2	vini	vini	_	_	_	_	_	_	_
@@ -7077,7 +7152,7 @@
 9	natirel	natirel	_	_	_	_	_	_	_
 10	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 269
+# sent_id = 294
 # text =    Anni gadé rèpòtaj Cécile MARRE la (MATINIQUE 1è) asou lafet Mòn-dé-Zes, nan komin Sent-Mari ! Pèsonn lan pa ka palé fwansé !...
 1	Anni	Anni	_	_	_	_	_	_	_
 2	gadé	gadé	_	_	_	_	_	_	_
@@ -7108,7 +7183,7 @@
 27	.	.	PUNCT	PUNCT	_	_	_	_	_
 28	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 270
+# sent_id = 295
 # text = Ni dé sèten moun Matinik ki ka vréyé labou davwè pep fwansé ka lévé gawoulé dépi pasé 3 mwa ek pep aljérien an ka soukwé jouk-la ki anlè kabech-li a dépi yon simenn toupannan pep matinitjé a ka viv kòʼy adan kannaval kivédi bankoulélé.
 1	Ni	Ni	_	_	_	_	_	_	_
 2	dé	dé	_	_	_	_	_	_	_
@@ -7155,7 +7230,7 @@
 43	bankoulélé	bankoulélé	_	_	_	_	_	_	_
 44	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 271
+# sent_id = 296
 # text =    Sé moun-tala pa sav oben ka fè wol pa sav ki chak pep asou latè ka suiv pwop chimenʼy. 
 1	Sé	Sé	_	_	_	_	_	_	_
 2	moun-tala	moun-tala	_	_	_	_	_	_	_
@@ -7178,14 +7253,14 @@
 19	chimenʼy	chimenʼy	_	_	_	_	_	_	_
 20	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 272
+# sent_id = 297
 # text = Ek pwop balanʼy !
 1	Ek	Ek	_	_	_	_	_	_	_
 2	pwop	pwop	_	_	_	_	_	_	_
 3	balanʼy	balanʼy	_	_	_	_	_	_	_
 4	!	!	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 273
+# sent_id = 298
 # text =    Nou abo fwansé, nou abo éwopéyen, ni 7.000 tjilomet lanmè ka séparé Matinik di l'Ewop ek sé pa davwè ni Entènet, Watsap oben Twitè jòdi-jou, ki sa ké chanjé an bagay. 
 1	Nou	Nou	_	_	_	_	_	_	_
 2	abo	abo	_	_	_	_	_	_	_
@@ -7228,7 +7303,7 @@
 39	bagay	bagay	_	_	_	_	_	_	_
 40	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 274
+# sent_id = 299
 # text = Sa vré ki atjelman nou ka rivé trapé nov ki fré asou tout péyi oliwon latè, menm sa ki nan vitjoumakwenn kontel la Risi oben l'Endonézi. 
 1	Sa	Sa	_	_	_	_	_	_	_
 2	vré	vré	_	_	_	_	_	_	_
@@ -7261,7 +7336,7 @@
 29	Endonézi	Endonézi	PROPN	PROPN	_	_	_	_	_
 30	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 275
+# sent_id = 300
 # text = Sa vré ki nou ka wè pòtré tout lidè politik, nou ka wè mouvman-yo, nou ka tann pawol-yo ek nou pé pa di an pies kalté manniè ki sé pa zak-nou. 
 1	Sa	Sa	_	_	_	_	_	_	_
 2	vré	vré	_	_	_	_	_	_	_
@@ -7298,7 +7373,7 @@
 33	zak-nou	zak-nou	_	_	_	_	_	_	_
 34	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 276
+# sent_id = 301
 # text = Si zot wè lé Zéta-Zini séyé maté gouvelman Nicolas MADURO a, atè Bénézwel, ek ki sé Ris-la désidé entèvienn, konmva Matinik a 1h avion selman di Karakas, sa pé pa na ni répèkision asou nou.
 1	Si	Si	_	_	_	_	_	_	_
 2	zot	zot	_	_	_	_	_	_	_
@@ -7341,7 +7416,7 @@
 39	nou	nou	_	_	_	_	_	_	_
 40	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 277
+# sent_id = 302
 # text =    Men sa ki nan fondok lespri ek boyo an pep, sé taʼy !
 1	Men	Men	_	_	_	_	_	_	_
 2	sa	sa	_	_	_	_	_	_	_
@@ -7358,7 +7433,7 @@
 13	taʼy	taʼy	_	_	_	_	_	_	_
 14	!	!	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 278
+# sent_id = 303
 # text =    Ek pies kalté sosiolog, politolog oben jounalis pé pa prédi sa ki ké fet : pèsonn pa té prévwè lagrev jénéral févriyé 2009 la ki diré pasé yon mwa, pa plis ki pèsonn pa prévwè gawoulé fwansé a ek gawoulé aljérien an. Kivédi pep Matinik la pé ka sanm sa ki adan an kalté langoudi, konsidiré yo baʼy bwè tjek dlo-landòmi, men sa pa lé di ayen. 
 1	Ek	Ek	_	_	_	_	_	_	_
 2	pies	pies	_	_	_	_	_	_	_
@@ -7434,7 +7509,7 @@
 72	ayen	ayen	_	_	_	_	_	_	_
 73	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 279
+# sent_id = 304
 # text = Sa pa lé di ki nan fonfonn tjè pep la pa ni an kolè ki ka bouyi ek ki pé tijé a  nenpot ki lè.
 1	Sa	Sa	_	_	_	_	_	_	_
 2	pa	pa	_	_	_	_	_	_	_
@@ -7463,7 +7538,7 @@
 25	lè	lè	_	_	_	_	_	_	_
 26	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 280
+# sent_id = 305
 # text =    Matinik two an banbanm, ni twop moun ki pa ka djoubaké, twop madjendjen ka mandé chien pen, twop fanm ka élivé yich-yo yo yonn, twop ladwog ka sirkilé nan péyi-a kisasayésa...pou an jou, san pèsonn konpwann poutji, an bidim lévé-doubout ka anni pété. 
 1	Matinik	Matinik	_	_	_	_	_	_	_
 2	two	two	_	_	_	_	_	_	_
@@ -7520,7 +7595,7 @@
 53	pété	pété	_	_	_	_	_	_	_
 54	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 281
+# sent_id = 306
 # text = Bétjé ek gwo-tjap neg konpwann ti zafè -yo bel, ki lavi-a ka woulé nawflaw, men sé vèglé yo ka vèglé kò-yo. 
 1	Bétjé	Bétjé	_	_	_	_	_	_	_
 2	ek	ek	_	_	_	_	_	_	_
@@ -7547,7 +7622,7 @@
 23	kò-yo	kò-yo	_	_	_	_	_	_	_
 24	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 282
+# sent_id = 307
 # text = Fok yo sav ki an kalté laraj anba-fey pé sòti déwò ek anni volkannizé sosiété nou an toubannman. 
 1	Fok	Fok	_	_	_	_	_	_	_
 2	yo	yo	_	_	_	_	_	_	_
@@ -7568,7 +7643,7 @@
 17	toubannman	toubannman	_	_	_	_	_	_	_
 18	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 283
+# sent_id = 308
 # text = Ek sa pé fet adan an bat-zié !
 1	Ek	Ek	_	_	_	_	_	_	_
 2	sa	sa	_	_	_	_	_	_	_
@@ -7579,7 +7654,7 @@
 7	bat-zié	bat-zié	_	_	_	_	_	_	_
 8	!	!	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 284
+# sent_id = 309
 # text =    Kidonk, kon ti pawol-la ka di : tjenbon tiré !...
 1	Kidonk	Kidonk	_	_	_	_	_	_	_
 2	,	,	PUNCT	PUNCT	_	_	_	_	_
@@ -7596,7 +7671,7 @@
 13	.	.	PUNCT	PUNCT	_	_	_	_	_
 14	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 285
+# sent_id = 310
 # text = Kisiswa moun-la, kisiswa pep-la, an tan-lontan toujou ka paret pli bel ki jòdi-jou. 
 1	Kisiswa	Kisiswa	_	_	_	_	_	_	_
 2	moun-la	moun-la	_	_	_	_	_	_	_
@@ -7615,7 +7690,7 @@
 15	jòdi-jou	jòdi-jou	_	_	_	_	_	_	_
 16	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 286
+# sent_id = 311
 # text = An moun toujou ka rigrété lè i té timanmay oben jenn tibray ek i ni lenprésion i té ka viv adan plis lérezté. 
 1	An	An	_	_	_	_	_	_	_
 2	moun	moun	_	_	_	_	_	_	_
@@ -7642,7 +7717,7 @@
 23	lérezté	lérezté	_	_	_	_	_	_	_
 24	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 287
+# sent_id = 312
 # text = Sé pou sa pliziè poet déklaré konmkwa lépok timanmay sé an kalté paradi.
 1	Sé	Sé	_	_	_	_	_	_	_
 2	pou	pou	_	_	_	_	_	_	_
@@ -7659,7 +7734,7 @@
 13	paradi	paradi	_	_	_	_	_	_	_
 14	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 288
+# sent_id = 313
 # text =      Nou, Matinitjé, nou pa pé chonjé lépok lestravay davwè i two lwen dèyè nou. 
 1	Nou	Nou	_	_	_	_	_	_	_
 2	,	,	PUNCT	PUNCT	_	_	_	_	_
@@ -7679,7 +7754,7 @@
 16	nou	nou	_	_	_	_	_	_	_
 17	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 289
+# sent_id = 314
 # text = Sa nou konnet asouʼy, sé sa nou fè tan apwann adan liv oben flim. 
 1	Sa	Sa	_	_	_	_	_	_	_
 2	nou	nou	_	_	_	_	_	_	_
@@ -7698,7 +7773,7 @@
 15	flim	flim	_	_	_	_	_	_	_
 16	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 290
+# sent_id = 315
 # text = Dayè, sé pou sa nou pa menm sav ki dé sèten konpowtasion nou ni lianné direktiman épiʼy : kontel rilasion ant nonm épi fanm. 
 1	Dayè	Dayè	_	_	_	_	_	_	_
 2	,	,	PUNCT	PUNCT	_	_	_	_	_
@@ -7727,7 +7802,7 @@
 25	fanm	fanm	_	_	_	_	_	_	_
 26	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 291
+# sent_id = 316
 # text =    Lépok-la éti nou ka chonjé a ek nou ka gloriyé a, sé tala ki ka koumansé apré labolision lestravay. 
 1	Lépok-la	Lépok-la	_	_	_	_	_	_	_
 2	éti	éti	_	_	_	_	_	_	_
@@ -7751,7 +7826,7 @@
 20	lestravay	lestravay	_	_	_	_	_	_	_
 21	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 292
+# sent_id = 317
 # text = Sa tibwen nowmal pis sé a lè-tala, nou koumansé vréman wouvè zel-nou ek kilti-nou rivé pwan an bel balan. 
 1	Sa	Sa	_	_	_	_	_	_	_
 2	tibwen	tibwen	_	_	_	_	_	_	_
@@ -7775,7 +7850,7 @@
 20	balan	balan	_	_	_	_	_	_	_
 21	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 293
+# sent_id = 318
 # text = Sa vré ki sé dépi an tan lestravay zanset nou goumen red-é-dri pou mété doubout latjuizin kréyol, lapotitjè kréyol, lang kréyol, mizik kréyol oben jaden kréyol, men sé lè yo pa té ni chenn nan pié-yo ankò ki yo palantjé kilti-tala.
 1	Sa	Sa	_	_	_	_	_	_	_
 2	vré	vré	_	_	_	_	_	_	_
@@ -7824,7 +7899,7 @@
 45	kilti-tala	kilti-tala	_	_	_	_	_	_	_
 46	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 294
+# sent_id = 319
 # text =    Ant 1848 ek apochan 1960, zanset-nou érisi dévlopé pwop kilti-yo. 
 1	Ant	Ant	_	_	_	_	_	_	_
 2	1848	1848	NUM	NUM	_	_	_	_	_
@@ -7839,7 +7914,7 @@
 11	kilti-yo	kilti-yo	_	_	_	_	_	_	_
 12	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 295
+# sent_id = 320
 # text = Fanm té ka pòté pwop rad-yo, nou té ka manjé bagay ki sòti adan pwop latè-nou, sé kréyol ki té lang natif-natal laplipa moun, nou té ka konté kont adan lavéyé moun-mò ek chanté bèlè ek bidjin. 
 1	Fanm	Fanm	_	_	_	_	_	_	_
 2	té	té	_	_	_	_	_	_	_
@@ -7883,7 +7958,7 @@
 40	bidjin	bidjin	_	_	_	_	_	_	_
 41	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 296
+# sent_id = 321
 # text = Nou té anba lakolonizasion fwansé men konmva poko té ni radio, télévizion ek Entènet, kilti fwansé a té lwen nou. 
 1	Nou	Nou	_	_	_	_	_	_	_
 2	té	té	_	_	_	_	_	_	_
@@ -7909,7 +7984,7 @@
 22	nou	nou	_	_	_	_	_	_	_
 23	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 297
+# sent_id = 322
 # text = Sé anni adan lékol nou té ka apwann li. 
 1	Sé	Sé	_	_	_	_	_	_	_
 2	anni	anni	_	_	_	_	_	_	_
@@ -7922,7 +7997,7 @@
 9	li	li	_	_	_	_	_	_	_
 10	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 298
+# sent_id = 323
 # text = Epi apré sé lanné-la, sitirasion-an anni kalptaté : nou batjé adan lasimilasion. 
 1	Epi	Epi	_	_	_	_	_	_	_
 2	apré	apré	_	_	_	_	_	_	_
@@ -7939,7 +8014,7 @@
 13	lasimilasion	lasimilasion	_	_	_	_	_	_	_
 14	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 299
+# sent_id = 324
 # text = Kivédi kolonizasion + lasimilasion. 
 1	Kivédi	Kivédi	_	_	_	_	_	_	_
 2	kolonizasion	kolonizasion	_	_	_	_	_	_	_
@@ -7947,7 +8022,7 @@
 4	lasimilasion	lasimilasion	_	_	_	_	_	_	_
 5	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 300
+# sent_id = 325
 # text = Avan, nou té ka soufè di yon sel mapianm (kolonizasion), men nou vini ka soufè di dé mapianm (kolonizasion + asimilasion).
 1	Avan	Avan	_	_	_	_	_	_	_
 2	,	,	PUNCT	PUNCT	_	_	_	_	_
@@ -7978,7 +8053,7 @@
 27	)	)	PUNCT	PUNCT	_	_	_	_	_
 28	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 301
+# sent_id = 326
 # text =    Adan an bat-zié, kilti ek lang kréyol nou an anni kalpaté, anni maté tjou-pou-tet ek anmizi-anmizi i vini pli flo, pli flègèdè. 
 1	Adan	Adan	_	_	_	_	_	_	_
 2	an	an	_	_	_	_	_	_	_
@@ -8007,7 +8082,7 @@
 25	flègèdè	flègèdè	_	_	_	_	_	_	_
 26	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 302
+# sent_id = 327
 # text = A lè-tala, nou koumansé ka manjé bagay ki sòti andéwò, nou ladjé rad kréyol la pou rad fwansé, nou mété lang kréyol la asou koté pou batjé adan lang fwansé a abo nan fondok tjè-nou nou té sav sé té an chimen ki mové pis nou té ka mété adjendjen moun ki asimilé titak twop : nou té ka di yo té "asou milé". 
 1	A	A	_	_	_	_	_	_	_
 2	lè-tala	lè-tala	_	_	_	_	_	_	_
@@ -8079,7 +8154,7 @@
 68	"	"	PUNCT	PUNCT	_	_	_	_	_
 69	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 303
+# sent_id = 328
 # text =     Nou vini ped lakat, ped larel-nou. 
 1	Nou	Nou	_	_	_	_	_	_	_
 2	vini	vini	_	_	_	_	_	_	_
@@ -8090,7 +8165,7 @@
 7	larel-nou	larel-nou	_	_	_	_	_	_	_
 8	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 304
+# sent_id = 329
 # text =    Epi mi anvwala 21è siek-la rivé anlè nou ek nou pa sav sa nou yé ankò. 
 1	Epi	Epi	_	_	_	_	_	_	_
 2	mi	mi	_	_	_	_	_	_	_
@@ -8110,7 +8185,7 @@
 16	ankò	ankò	_	_	_	_	_	_	_
 17	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 305
+# sent_id = 330
 # text = Nou pa sav koté nou ka alé. 
 1	Nou	Nou	_	_	_	_	_	_	_
 2	pa	pa	_	_	_	_	_	_	_
@@ -8121,7 +8196,7 @@
 7	alé	alé	_	_	_	_	_	_	_
 8	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 306
+# sent_id = 331
 # text = Kifè nou ka fè débouya pou sové lèrestan kilti kréyol nou an menmsi nou plis ki sav two ta za baré nou. 
 1	Kifè	Kifè	_	_	_	_	_	_	_
 2	nou	nou	_	_	_	_	_	_	_
@@ -8147,7 +8222,7 @@
 22	nou	nou	_	_	_	_	_	_	_
 23	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 307
+# sent_id = 332
 # text = Nou vini ka rigrété lépok-la éti lasimilasion poko té ka migannen nou akwèdi fouyapen dou. 
 1	Nou	Nou	_	_	_	_	_	_	_
 2	vini	vini	_	_	_	_	_	_	_
@@ -8166,7 +8241,7 @@
 15	dou	dou	_	_	_	_	_	_	_
 16	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 308
+# sent_id = 333
 # text = Alò, sé pou sa lè kannaval ka rivé, nou ka mété sé éléman kiltirel tala déwò : wob kréyol ek madras, taksi-péyi, chodo (ki nou té ka bwè adan lavéyé) ek tinen-lanmori, gwo kréyol kisasayésa...
 1	Alò	Alò	_	_	_	_	_	_	_
 2	,	,	PUNCT	PUNCT	_	_	_	_	_
@@ -8213,7 +8288,7 @@
 43	.	.	PUNCT	PUNCT	_	_	_	_	_
 44	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 309
+# sent_id = 334
 # text =    Nou vini ka fè lakonmédi sa nou té yé an tan-lontan...
 1	Nou	Nou	_	_	_	_	_	_	_
 2	vini	vini	_	_	_	_	_	_	_
@@ -8230,7 +8305,7 @@
 13	.	.	PUNCT	PUNCT	_	_	_	_	_
 14	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 310
+# sent_id = 335
 # text = Sé jou-tala nou ka jété an koutzié asou lanati, sirtou asou kot karayib-la, dépi Kaz-Pilot jik Préchè, sé an sel koulè jòn ou ka wè.
 1	Sé	Sé	_	_	_	_	_	_	_
 2	jou-tala	jou-tala	_	_	_	_	_	_	_
@@ -8262,7 +8337,7 @@
 28	wè	wè	_	_	_	_	_	_	_
 29	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 311
+# sent_id = 336
 # text = Sa vé di karenm lan ja bien la, menmsi Kannaval poko toutafetman rivé. 
 1	Sa	Sa	_	_	_	_	_	_	_
 2	vé	vé	_	_	_	_	_	_	_
@@ -8280,7 +8355,7 @@
 14	rivé	rivé	_	_	_	_	_	_	_
 15	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 312
+# sent_id = 337
 # text = Sé ki ni tan karenm lanati ek karenm légliz. 
 1	Sé	Sé	_	_	_	_	_	_	_
 2	ki	ki	_	_	_	_	_	_	_
@@ -8293,7 +8368,7 @@
 9	légliz	légliz	_	_	_	_	_	_	_
 10	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 313
+# sent_id = 338
 # text = Délè yo ka maché kantékant, mé biendélè chak-la ka fè zafè yo an gou yo. 
 1	Délè	Délè	_	_	_	_	_	_	_
 2	yo	yo	_	_	_	_	_	_	_
@@ -8313,7 +8388,7 @@
 16	yo	yo	_	_	_	_	_	_	_
 17	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 314
+# sent_id = 339
 # text = Kivédi dlo-a vini ra kon zé bourik. 
 1	Kivédi	Kivédi	_	_	_	_	_	_	_
 2	dlo-a	dlo-a	_	_	_	_	_	_	_
@@ -8324,7 +8399,7 @@
 7	bourik	bourik	_	_	_	_	_	_	_
 8	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 315
+# sent_id = 340
 # text = Kantapou zafè sitron-an pa menm palé.
 1	Kantapou	Kantapou	_	_	_	_	_	_	_
 2	zafè	zafè	_	_	_	_	_	_	_
@@ -8334,7 +8409,7 @@
 6	palé	palé	_	_	_	_	_	_	_
 7	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 316
+# sent_id = 341
 # text = Adjilbè palé mwen di an vwazenʼy, Jiltéyis. 
 1	Adjilbè	Adjilbè	_	_	_	_	_	_	_
 2	palé	palé	_	_	_	_	_	_	_
@@ -8346,7 +8421,7 @@
 8	Jiltéyis	Jiltéyis	PROPN	PROPN	_	_	_	_	_
 9	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 317
+# sent_id = 342
 # text = Misié bien sanfoupamal préfé-a mandé pa fè gaspiyaj dlo. 
 1	Misié	Misié	_	_	_	_	_	_	_
 2	bien	bien	_	_	_	_	_	_	_
@@ -8359,7 +8434,7 @@
 9	dlo	dlo	_	_	_	_	_	_	_
 10	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 318
+# sent_id = 343
 # text = Sa pa ka opozéʼy wouzé gazonʼy, menmsi i pa menm ni an piman planté. 
 1	Sa	Sa	_	_	_	_	_	_	_
 2	pa	pa	_	_	_	_	_	_	_
@@ -8378,7 +8453,7 @@
 15	planté	planté	_	_	_	_	_	_	_
 16	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 319
+# sent_id = 344
 # text = Mé pli potalan-an pou misié, sé Mercédes li-a. 
 1	Mé	Mé	_	_	_	_	_	_	_
 2	pli	pli	_	_	_	_	_	_	_
@@ -8391,7 +8466,7 @@
 9	li-a	li-a	_	_	_	_	_	_	_
 10	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 320
+# sent_id = 345
 # text = Pa ni zafè loto misié ni an ti-grenn lapousiè. 
 1	Pa	Pa	_	_	_	_	_	_	_
 2	ni	ni	_	_	_	_	_	_	_
@@ -8404,7 +8479,7 @@
 9	lapousiè	lapousiè	_	_	_	_	_	_	_
 10	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 321
+# sent_id = 346
 # text = I ka pran sifonʼy toulématen ek i ka vréyé bon dlo asou lotoʼy-la.
 1	I	I	_	_	_	_	_	_	_
 2	ka	ka	_	_	_	_	_	_	_
@@ -8421,7 +8496,7 @@
 13	lotoʼy-la	lotoʼy-la	_	_	_	_	_	_	_
 14	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 322
+# sent_id = 347
 # text = Adjilbè di mwen bouch anba bra:
 1	Adjilbè	Adjilbè	_	_	_	_	_	_	_
 2	di	di	_	_	_	_	_	_	_
@@ -8431,7 +8506,7 @@
 6	bra	bra	_	_	_	_	_	_	_
 7	:	:	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 323
+# sent_id = 348
 # text = — Misié pa djè ékolojik, ek i bien égoyis!
 1	—	—	PUNCT	PUNCT	_	_	_	_	_
 2	Misié	Misié	_	_	_	_	_	_	_
@@ -8445,7 +8520,7 @@
 10	égoyis	égoyis	_	_	_	_	_	_	_
 11	!	!	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 324
+# sent_id = 349
 # text = Man pa sav si sé Jiltéyis selman ki konsa, mé fok sonjé moun éti pa ni pies dlo pou nou pa gaspiyé.
 1	Man	Man	_	_	_	_	_	_	_
 2	pa	pa	_	_	_	_	_	_	_
@@ -8472,7 +8547,7 @@
 23	gaspiyé	gaspiyé	_	_	_	_	_	_	_
 24	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 325
+# sent_id = 350
 # text = Es agrikiltè ké pé wouzé jaden-yo ki baz travay-yo?
 1	Es	Es	_	_	_	_	_	_	_
 2	agrikiltè	agrikiltè	_	_	_	_	_	_	_
@@ -8485,7 +8560,7 @@
 9	travay-yo	travay-yo	_	_	_	_	_	_	_
 10	?	?	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 326
+# sent_id = 351
 # text = Es fok pan ou owganizé kò nou an period livènaj pou pare bon dlo ek météʼy adan sitèn pou nous a trouvéʼy an karenm-lan?
 1	Es	Es	_	_	_	_	_	_	_
 2	fok	fok	_	_	_	_	_	_	_
@@ -8513,7 +8588,7 @@
 24	karenm-lan	karenm-lan	_	_	_	_	_	_	_
 25	?	?	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 327
+# sent_id = 352
 # text = Annou pa fè kon chien-an, sé chak lè lapli ka tonbé i ka di i ké fè kay-li. 
 1	Annou	Annou	_	_	_	_	_	_	_
 2	pa	pa	_	_	_	_	_	_	_
@@ -8536,7 +8611,7 @@
 19	kay-li	kay-li	_	_	_	_	_	_	_
 20	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 328
+# sent_id = 353
 # text = Tousa pa ka opozé lé djabsoud kannaval alé Lanmanten. 
 1	Tousa	Tousa	_	_	_	_	_	_	_
 2	pa	pa	_	_	_	_	_	_	_
@@ -8549,7 +8624,7 @@
 9	Lanmanten	Lanmanten	PROPN	PROPN	_	_	_	_	_
 10	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 329
+# sent_id = 354
 # text = Yo jik fè premié Kalbas cho. 
 1	Yo	Yo	_	_	_	_	_	_	_
 2	jik	jik	_	_	_	_	_	_	_
@@ -8559,7 +8634,7 @@
 6	cho	cho	_	_	_	_	_	_	_
 7	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 330
+# sent_id = 355
 # text = (Sé pa té Kalbasié mé atè Plas Mahault, pas Mao pas la pa djè rété kominis) Pa koté Chelchè sé té épi la Carnival Run moun kouri anba solèy bien avan sé jou gra-a. 
 1	(	(	PUNCT	PUNCT	_	_	_	_	_
 2	Sé	Sé	_	_	_	_	_	_	_
@@ -8600,7 +8675,7 @@
 37	gra-a	gra-a	_	_	_	_	_	_	_
 38	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 331
+# sent_id = 356
 # text = Pa ni dlo an robiné mé ni an libsèvis.
 1	Pa	Pa	_	_	_	_	_	_	_
 2	ni	ni	_	_	_	_	_	_	_
@@ -8613,7 +8688,7 @@
 9	libsèvis	libsèvis	_	_	_	_	_	_	_
 10	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 332
+# sent_id = 357
 # text = Apré twa lanné yo pa té la, Mònwouj viré balansé MIGAN CHO PARADISE. 
 1	Apré	Apré	_	_	_	_	_	_	_
 2	twa	twa	_	_	_	_	_	_	_
@@ -8631,7 +8706,7 @@
 14	PARADISE	PARADISE	PROPN	PROPN	_	_	_	_	_
 15	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 333
+# sent_id = 358
 # text = Es yo ba moun bon migan?
 1	Es	Es	_	_	_	_	_	_	_
 2	yo	yo	_	_	_	_	_	_	_
@@ -8641,7 +8716,7 @@
 6	migan	migan	_	_	_	_	_	_	_
 7	?	?	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 334
+# sent_id = 359
 # text = Sa ki té la asiparé komkidiré, yo pa djè jwenn bon migan pou manjé. 
 1	Sa	Sa	_	_	_	_	_	_	_
 2	ki	ki	_	_	_	_	_	_	_
@@ -8660,7 +8735,7 @@
 15	manjé	manjé	_	_	_	_	_	_	_
 16	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 335
+# sent_id = 360
 # text = Mé la té ni bon group mélanjé an tout sos. 
 1	Mé	Mé	_	_	_	_	_	_	_
 2	la	la	_	_	_	_	_	_	_
@@ -8674,7 +8749,7 @@
 10	sos	sos	_	_	_	_	_	_	_
 11	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 336
+# sent_id = 361
 # text = NOU PA SAV si LES HOMMES DʼARGILE fè BRASS COULE mé SA KI FET FET fè zafè yo.
 1	NOU	NOU	_	_	_	_	_	_	_
 2	PA	PA	PROPN	PROPN	_	_	_	_	_
@@ -8696,7 +8771,7 @@
 18	yo	yo	_	_	_	_	_	_	_
 19	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 337
+# sent_id = 362
 # text = Dan lisid, dépi sanmdi pa koté Laviè-Pilot té ni parad gwo lannuit épi an tjenzèn group. 
 1	Dan	Dan	_	_	_	_	_	_	_
 2	lisid	lisid	_	_	_	_	_	_	_
@@ -8717,7 +8792,7 @@
 17	group	group	_	_	_	_	_	_	_
 18	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 338
+# sent_id = 363
 # text = Jik té ni an gwoup Gwadloup envité, lé PIROULI BAND.
 1	Jik	Jik	_	_	_	_	_	_	_
 2	té	té	_	_	_	_	_	_	_
@@ -8732,7 +8807,7 @@
 11	BAND	BAND	PROPN	PROPN	_	_	_	_	_
 12	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 339
+# sent_id = 364
 # text = DIFE NAN PAY té la tou, épi DYNAMIC CARNAVAL. 
 1	DIFE	DIFE	_	_	_	_	_	_	_
 2	NAN	NAN	PROPN	PROPN	_	_	_	_	_
@@ -8746,7 +8821,7 @@
 10	CARNAVAL	CARNAVAL	PROPN	PROPN	_	_	_	_	_
 11	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 340
+# sent_id = 365
 # text = Kon nou ka wè, kannaval ka pri dan lisid kon dan linò.
 1	Kon	Kon	_	_	_	_	_	_	_
 2	nou	nou	_	_	_	_	_	_	_
@@ -8763,7 +8838,7 @@
 13	linò	linò	_	_	_	_	_	_	_
 14	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 341
+# sent_id = 366
 # text = Nou wè yonndé personaj kontel Makawon épi Jil é Jòn té la tou. 
 1	Nou	Nou	_	_	_	_	_	_	_
 2	wè	wè	_	_	_	_	_	_	_
@@ -8780,7 +8855,7 @@
 13	tou	tou	_	_	_	_	_	_	_
 14	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 342
+# sent_id = 367
 # text = Asirépapétet nou ké jwenn yo sé tan prochen-an dan dot manifestation kannaval.
 1	Asirépapétet	Asirépapétet	_	_	_	_	_	_	_
 2	nou	nou	_	_	_	_	_	_	_
@@ -8796,7 +8871,7 @@
 12	kannaval	kannaval	_	_	_	_	_	_	_
 13	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 343
+# sent_id = 368
 # text = Toupandan moun ka vréyé kò yo monté, sargas-la envité kòʼy pas i ni lentansion fè kannaval-li tou. 
 1	Toupandan	Toupandan	_	_	_	_	_	_	_
 2	moun	moun	_	_	_	_	_	_	_
@@ -8818,7 +8893,7 @@
 18	tou	tou	_	_	_	_	_	_	_
 19	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 344
+# sent_id = 369
 # text = Pa koté Marigo moun ka kriyé anmwé pas lodè zé pouri-a ka graté nen yo, délè menm ka pété frisi mol yo. 
 1	Pa	Pa	_	_	_	_	_	_	_
 2	koté	koté	_	_	_	_	_	_	_
@@ -8845,7 +8920,7 @@
 23	yo	yo	_	_	_	_	_	_	_
 24	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 345
+# sent_id = 370
 # text = Menm pou alé anlè Tombolo-a, té ni wawet ka fè chien.
 1	Menm	Menm	_	_	_	_	_	_	_
 2	pou	pou	_	_	_	_	_	_	_
@@ -8861,7 +8936,7 @@
 12	chien	chien	_	_	_	_	_	_	_
 13	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 346
+# sent_id = 371
 # text = Toutan nou pa pran dispozision pou péché sargas-la dépi andéwò asiré nou ké nèy.
 1	Toutan	Toutan	_	_	_	_	_	_	_
 2	nou	nou	_	_	_	_	_	_	_
@@ -8879,14 +8954,14 @@
 14	nèy	nèy	_	_	_	_	_	_	_
 15	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 347
+# sent_id = 372
 # text =     1 Kandida douvan douvan
 1	1	1	NUM	NUM	_	_	_	_	_
 2	Kandida	Kandida	_	_	_	_	_	_	_
 3	douvan	douvan	_	_	_	_	_	_	_
 4	douvan	douvan	_	_	_	_	_	_	_
 
-# sent_id = 348
+# sent_id = 373
 # text = Pandan moun ka fè kannaval oben ka goumen kont sargas, ni yonndé kandida ki pa ka ped lakat. 
 1	Pandan	Pandan	_	_	_	_	_	_	_
 2	moun	moun	_	_	_	_	_	_	_
@@ -8909,7 +8984,7 @@
 19	lakat	lakat	_	_	_	_	_	_	_
 20	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 349
+# sent_id = 374
 # text = Si ja ni dé kandida pa koté Baspwent, dot koté kontel Diaman, ja ni dé déklaré. 
 1	Si	Si	_	_	_	_	_	_	_
 2	ja	ja	_	_	_	_	_	_	_
@@ -8931,7 +9006,7 @@
 18	déklaré	déklaré	_	_	_	_	_	_	_
 19	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 350
+# sent_id = 375
 # text = Lamanniè sa ka alé la-a, menmsi sé lanné prochenn anlo kandida ja ka filé zépon yo. 
 1	Lamanniè	Lamanniè	_	_	_	_	_	_	_
 2	sa	sa	_	_	_	_	_	_	_
@@ -8952,7 +9027,7 @@
 17	yo	yo	_	_	_	_	_	_	_
 18	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 351
+# sent_id = 376
 # text = Anlo sav «bef douvan brè dlo klè», mé fok yo sav tou, «sé pa tou di kouri, sé savwaw séré» ka konté.
 1	Anlo	Anlo	_	_	_	_	_	_	_
 2	sav	sav	_	_	_	_	_	_	_
@@ -8985,7 +9060,7 @@
 29	konté	konté	_	_	_	_	_	_	_
 30	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 352
+# sent_id = 377
 # text = Asiré manniè sa ka alé la-a, moun Matinik pé ké pè alé voté plis an mas, san mas, pas sé jou-tala sé pa parti politik ki mantjé.
 1	Asiré	Asiré	_	_	_	_	_	_	_
 2	manniè	manniè	_	_	_	_	_	_	_
@@ -9019,7 +9094,7 @@
 30	mantjé	mantjé	_	_	_	_	_	_	_
 31	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 353
+# sent_id = 378
 # text = Eleksion Léwop ka vini sé tan prochen-an, nou ké wè si ké ni plis moun ka alé dépozé bilten an bwet-lin.
 1	Eleksion	Eleksion	_	_	_	_	_	_	_
 2	Léwop	Léwop	PROPN	PROPN	_	_	_	_	_
@@ -9045,14 +9120,14 @@
 22	bwet-lin	bwet-lin	_	_	_	_	_	_	_
 23	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 354
+# sent_id = 379
 # text =     2 An vié lafet
 1	2	2	NUM	NUM	_	_	_	_	_
 2	An	An	_	_	_	_	_	_	_
 3	vié	vié	_	_	_	_	_	_	_
 4	lafet	lafet	_	_	_	_	_	_	_
 
-# sent_id = 355
+# sent_id = 380
 # text = Toupandan le MIM ka fété an vié lafet 40 lanné, lé fraksionis mandé an asanblé jénéral jik atjelman poko rivé fet. 
 1	Toupandan	Toupandan	_	_	_	_	_	_	_
 2	le	le	_	_	_	_	_	_	_
@@ -9078,8 +9153,8 @@
 22	fet	fet	_	_	_	_	_	_	_
 23	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 356
-# text = Lot jou Chaben té di pa té ké ni asanblé jénéral es tribinal bay rézon? Sa dwé red ba Chaben éti oblijé alé mandé tribinal Lafrans, mété lod adan an parti pou lendépandans Matinik.
+# sent_id = 381
+# text = Lot jou Chaben té di pa té ké ni asanblé jénéral es tribinal bay rézon? 
 1	Lot	Lot	_	_	_	_	_	_	_
 2	jou	jou	_	_	_	_	_	_	_
 3	Chaben	Chaben	PROPN	PROPN	_	_	_	_	_
@@ -9096,35 +9171,38 @@
 14	bay	bay	_	_	_	_	_	_	_
 15	rézon	rézon	_	_	_	_	_	_	_
 16	?	?	PUNCT	PUNCT	_	_	_	_	_
-17	Sa	Sa	_	_	_	_	_	_	_
-18	dwé	dwé	_	_	_	_	_	_	_
-19	red	red	_	_	_	_	_	_	_
-20	ba	ba	_	_	_	_	_	_	_
-21	Chaben	Chaben	PROPN	PROPN	_	_	_	_	_
-22	éti	éti	_	_	_	_	_	_	_
-23	oblijé	oblijé	_	_	_	_	_	_	_
-24	alé	alé	_	_	_	_	_	_	_
-25	mandé	mandé	_	_	_	_	_	_	_
-26	tribinal	tribinal	_	_	_	_	_	_	_
-27	Lafrans	Lafrans	PROPN	PROPN	_	_	_	_	_
-28	,	,	PUNCT	PUNCT	_	_	_	_	_
-29	mété	mété	_	_	_	_	_	_	_
-30	lod	lod	_	_	_	_	_	_	_
-31	adan	adan	_	_	_	_	_	_	_
-32	an	an	_	_	_	_	_	_	_
-33	parti	parti	_	_	_	_	_	_	_
-34	pou	pou	_	_	_	_	_	_	_
-35	lendépandans	lendépandans	_	_	_	_	_	_	_
-36	Matinik	Matinik	PROPN	PROPN	_	_	_	_	_
-37	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 357
+# sent_id = 382
+# text = Sa dwé red ba Chaben éti oblijé alé mandé tribinal Lafrans, mété lod adan an parti pou lendépandans Matinik.
+1	Sa	Sa	_	_	_	_	_	_	_
+2	dwé	dwé	_	_	_	_	_	_	_
+3	red	red	_	_	_	_	_	_	_
+4	ba	ba	_	_	_	_	_	_	_
+5	Chaben	Chaben	PROPN	PROPN	_	_	_	_	_
+6	éti	éti	_	_	_	_	_	_	_
+7	oblijé	oblijé	_	_	_	_	_	_	_
+8	alé	alé	_	_	_	_	_	_	_
+9	mandé	mandé	_	_	_	_	_	_	_
+10	tribinal	tribinal	_	_	_	_	_	_	_
+11	Lafrans	Lafrans	PROPN	PROPN	_	_	_	_	_
+12	,	,	PUNCT	PUNCT	_	_	_	_	_
+13	mété	mété	_	_	_	_	_	_	_
+14	lod	lod	_	_	_	_	_	_	_
+15	adan	adan	_	_	_	_	_	_	_
+16	an	an	_	_	_	_	_	_	_
+17	parti	parti	_	_	_	_	_	_	_
+18	pou	pou	_	_	_	_	_	_	_
+19	lendépandans	lendépandans	_	_	_	_	_	_	_
+20	Matinik	Matinik	PROPN	PROPN	_	_	_	_	_
+21	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# sent_id = 383
 # text =     3 Eleksion Léwop
 1	3	3	NUM	NUM	_	_	_	_	_
 2	Eleksion	Eleksion	_	_	_	_	_	_	_
 3	Léwop	Léwop	PROPN	PROPN	_	_	_	_	_
 
-# sent_id = 358
+# sent_id = 384
 # text = Nou a wè dan préparasion éleksion ka vini.
 1	Nou	Nou	_	_	_	_	_	_	_
 2	a	a	_	_	_	_	_	_	_
@@ -9136,7 +9214,7 @@
 8	vini	vini	_	_	_	_	_	_	_
 9	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 359
+# sent_id = 385
 # text = Dan yonndé mwa ké ni éleksion Léwop. 
 1	Dan	Dan	_	_	_	_	_	_	_
 2	yonndé	yonndé	_	_	_	_	_	_	_
@@ -9147,7 +9225,7 @@
 7	Léwop	Léwop	PROPN	PROPN	_	_	_	_	_
 8	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 360
+# sent_id = 386
 # text = Lwijo ja di i pé ké viré pozé kandidaʼy pas i lé alé pozé kòʼy, kon Liset fè pa koté Lagwadloup. 
 1	Lwijo	Lwijo	_	_	_	_	_	_	_
 2	ja	ja	_	_	_	_	_	_	_
@@ -9173,7 +9251,7 @@
 22	Lagwadloup	Lagwadloup	PROPN	PROPN	_	_	_	_	_
 23	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 361
+# sent_id = 387
 # text = I éti mété kòʼy «how di pit».
 1	I	I	_	_	_	_	_	_	_
 2	éti	éti	_	_	_	_	_	_	_
@@ -9186,7 +9264,7 @@
 9	»	»	PUNCT	PUNCT	_	_	_	_	_
 10	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 362
+# sent_id = 388
 # text = Nou an févriyé menmsi nou ka bliyé 1900 Ofanswa, 74 Chalvé, nou oblijé chonjé 5 févriyé 2009. 
 1	Nou	Nou	_	_	_	_	_	_	_
 2	an	an	_	_	_	_	_	_	_
@@ -9209,7 +9287,7 @@
 19	2009	2009	NUM	NUM	_	_	_	_	_
 20	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 363
+# sent_id = 389
 # text = Ni sendika ki envité moun Lanmézon lé sendika mardi, nou ké wè !
 1	Ni	Ni	_	_	_	_	_	_	_
 2	sendika	sendika	_	_	_	_	_	_	_
@@ -9226,7 +9304,7 @@
 13	wè 	wè 	_	_	_	_	_	_	_
 14	!	!	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 364
+# sent_id = 390
 # text = Tout sé jou-tala lèʼw bien gadé adan sé komin-lan, ou ka bien santi tout moun-lan pa anlè kannaval selman. 
 1	Tout	Tout	_	_	_	_	_	_	_
 2	sé	sé	_	_	_	_	_	_	_
@@ -9250,7 +9328,7 @@
 20	selman	selman	_	_	_	_	_	_	_
 21	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 365
+# sent_id = 391
 # text = Anlo adan yo ka préparé vidé (pa déboulé) pas yo poko boulé. 
 1	Anlo	Anlo	_	_	_	_	_	_	_
 2	adan	adan	_	_	_	_	_	_	_
@@ -9268,7 +9346,7 @@
 14	boulé	boulé	_	_	_	_	_	_	_
 15	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 366
+# sent_id = 392
 # text = Sa ki ja mè, ka chaché manniè rété la. 
 1	Sa	Sa	_	_	_	_	_	_	_
 2	ki	ki	_	_	_	_	_	_	_
@@ -9282,7 +9360,7 @@
 10	la	la	_	_	_	_	_	_	_
 11	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 367
+# sent_id = 393
 # text = Sa ki anvi mè (ni anlo) ka chaché wè ki manniè pozisioné kò-yo pou fè yo wè yo toupatou. 
 1	Sa	Sa	_	_	_	_	_	_	_
 2	ki	ki	_	_	_	_	_	_	_
@@ -9307,7 +9385,7 @@
 21	toupatou	toupatou	_	_	_	_	_	_	_
 22	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 368
+# sent_id = 394
 # text = An lantèman, an batenm, an lafet…
 1	An	An	_	_	_	_	_	_	_
 2	lantèman	lantèman	_	_	_	_	_	_	_
@@ -9319,7 +9397,7 @@
 8	lafet	lafet	_	_	_	_	_	_	_
 9	…	…	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 369
+# sent_id = 395
 # text = Kontel pa koté Ofanswa, épi Karin ka mousé toubannman pas an 2018 le CMT (pa la CTM-an) wè an milion pasajé ki vizité Matinik.
 1	Kontel	Kontel	_	_	_	_	_	_	_
 2	pa	pa	_	_	_	_	_	_	_
@@ -9350,7 +9428,7 @@
 27	Matinik	Matinik	PROPN	PROPN	_	_	_	_	_
 28	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 370
+# sent_id = 396
 # text = Eben pa koté Wobè nou pé mandé: Es Malen ki ni lò épi Jan-Filip?
 1	Eben	Eben	_	_	_	_	_	_	_
 2	pa	pa	_	_	_	_	_	_	_
@@ -9368,7 +9446,7 @@
 14	Jan-Filip	Jan-Filip	PROPN	PROPN	_	_	_	_	_
 15	?	?	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 371
+# sent_id = 397
 # text = Es Péyi-a chwézi drapoʼy?
 1	Es	Es	_	_	_	_	_	_	_
 2	Péyi-a	Péyi-a	PROPN	PROPN	_	_	_	_	_
@@ -9376,7 +9454,7 @@
 4	drapoʼy	drapoʼy	_	_	_	_	_	_	_
 5	?	?	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 372
+# sent_id = 398
 # text = Toupandan la CTM fè an tiraj pou oplibel drapo, nouvo parti doublevé doublevé-a chwézi wouj, vè épi nwè. 
 1	Toupandan	Toupandan	_	_	_	_	_	_	_
 2	la	la	_	_	_	_	_	_	_
@@ -9400,7 +9478,7 @@
 20	nwè	nwè	_	_	_	_	_	_	_
 21	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 373
+# sent_id = 399
 # text = Matinitjé ké ni kont parti yo pou éleksion ka vini ant: BPAC (Ba Péyi An Chans) CNCP, Combat Ouvrier, FMP, ansien Fon Nasional,  MODEMAS, NOU PEP LA, PC, PKLS, PS, RDM, Répibliken atjelman Péyi A.
 1	Matinitjé	Matinitjé	_	_	_	_	_	_	_
 2	ké	ké	_	_	_	_	_	_	_
@@ -9452,7 +9530,7 @@
 48	A	A	PROPN	PROPN	_	_	_	_	_
 49	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 374
+# sent_id = 400
 # text = Dan Eleksion lachanm lagrikilti ni otan pou défann lakiltiv Matinik, LʼOPAM, COORDINATION RURALE épi kisasayésa…
 1	Dan	Dan	_	_	_	_	_	_	_
 2	Eleksion	Eleksion	PROPN	PROPN	_	_	_	_	_
@@ -9473,7 +9551,7 @@
 17	kisasayésa	kisasayésa	_	_	_	_	_	_	_
 18	…	…	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 375
+# sent_id = 401
 # text = Toupandan parti ka fléri Matinik, Makawon pofité di épi anpil toupé atè an Frans dan an bokantaj: i pa sèten ni an rilasion ant krab-la épi klordékòn. 
 1	Toupandan	Toupandan	_	_	_	_	_	_	_
 2	parti	parti	_	_	_	_	_	_	_
@@ -9506,7 +9584,7 @@
 29	klordékòn	klordékòn	_	_	_	_	_	_	_
 30	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 376
+# sent_id = 402
 # text = Antouléka kansè lapostat ka esplozé toubannman. 
 1	Antouléka	Antouléka	_	_	_	_	_	_	_
 2	kansè	kansè	_	_	_	_	_	_	_
@@ -9516,7 +9594,7 @@
 6	toubannman	toubannman	_	_	_	_	_	_	_
 7	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 377
+# sent_id = 403
 # text = Vréman, vréman ou sé di sé jilé jòn-lan an sout jiléʼy ka fèʼy dékoné, ou si zot lé, fèʼy di bétiz. 
 1	Vréman	Vréman	_	_	_	_	_	_	_
 2	,	,	PUNCT	PUNCT	_	_	_	_	_
@@ -9544,7 +9622,7 @@
 24	bétiz	bétiz	_	_	_	_	_	_	_
 25	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 378
+# sent_id = 404
 # text = I di i ké défann yol-la, si sé pou kon Lamontàn Pelé, nou ja brè luil!
 1	I	I	_	_	_	_	_	_	_
 2	di	di	_	_	_	_	_	_	_
@@ -9566,7 +9644,7 @@
 18	luil	luil	_	_	_	_	_	_	_
 19	!	!	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 379
+# sent_id = 405
 # text = Es nou ké alé voté alez kon blez épi tousa parti politik?
 1	Es	Es	_	_	_	_	_	_	_
 2	nou	nou	_	_	_	_	_	_	_
@@ -9582,7 +9660,7 @@
 12	politik	politik	_	_	_	_	_	_	_
 13	?	?	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 380
+# sent_id = 406
 # text = Antouléka nou pé ké pé di nou pa ni moun pou défann Matinik. 
 1	Antouléka	Antouléka	_	_	_	_	_	_	_
 2	nou	nou	_	_	_	_	_	_	_
@@ -9599,7 +9677,7 @@
 13	Matinik	Matinik	PROPN	PROPN	_	_	_	_	_
 14	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 381
+# sent_id = 407
 # text = Yo tout ka di sa!
 1	Yo	Yo	_	_	_	_	_	_	_
 2	tout	tout	_	_	_	_	_	_	_
@@ -9608,7 +9686,7 @@
 5	sa	sa	_	_	_	_	_	_	_
 6	!	!	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 382
+# sent_id = 408
 # text = Toupandan an lanmè sargas ka désann ovantatè anlè Matinik, nou ka mandé es yo lé vréman otjipé di sa.
 1	Toupandan	Toupandan	_	_	_	_	_	_	_
 2	an	an	_	_	_	_	_	_	_
@@ -9632,7 +9710,7 @@
 20	sa	sa	_	_	_	_	_	_	_
 21	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 383
+# sent_id = 409
 # text = Ni pasé twazan ann antrèprènè kréyé an drag pou ranmasé wawet-la, i ja las mandé kisiswa la CTM, Léta, Léwop pou bay an pal, jik jòdi yo ka vréyéʼy bèkalo.
 1	Ni	Ni	_	_	_	_	_	_	_
 2	pasé	pasé	_	_	_	_	_	_	_
@@ -9670,13 +9748,13 @@
 34	bèkalo	bèkalo	_	_	_	_	_	_	_
 35	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 384
+# sent_id = 410
 # text =     4 Direktè lʼARS
 1	4	4	NUM	NUM	_	_	_	_	_
 2	Direktè	Direktè	_	_	_	_	_	_	_
 3	lʼARS	lʼARS	_	_	_	_	_	_	_
 
-# sent_id = 385
+# sent_id = 411
 # text = An nouvo direktè lʼARS débatjé doublèvé doublèvé. 
 1	An	An	_	_	_	_	_	_	_
 2	nouvo	nouvo	_	_	_	_	_	_	_
@@ -9687,7 +9765,7 @@
 7	doublèvé	doublèvé	_	_	_	_	_	_	_
 8	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 386
+# sent_id = 412
 # text = Kom sé an doktè nou lé kwè i ké pé otjipé titak pli bien di malad ki klordékoné. 
 1	Kom	Kom	_	_	_	_	_	_	_
 2	sé	sé	_	_	_	_	_	_	_
@@ -9709,7 +9787,7 @@
 18	klordékoné	klordékoné	_	_	_	_	_	_	_
 19	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 387
+# sent_id = 413
 # text = Pas ou sé di, gouvelman limenm ka dékoné. 
 1	Pas	Pas	_	_	_	_	_	_	_
 2	ou	ou	_	_	_	_	_	_	_
@@ -9722,7 +9800,7 @@
 9	dékoné	dékoné	_	_	_	_	_	_	_
 10	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 388
+# sent_id = 414
 # text = Yo désidé klordékòn poulemonman pa an priorité pou Matinik. 
 1	Yo	Yo	_	_	_	_	_	_	_
 2	désidé	désidé	_	_	_	_	_	_	_
@@ -9735,7 +9813,7 @@
 9	Matinik	Matinik	PROPN	PROPN	_	_	_	_	_
 10	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 389
+# sent_id = 415
 # text = Magré liv Loulou épi Afarel matjé dépi lontan pou mandé otjipé di fè moun ki travay an bannann pasé an tes. 
 1	Magré	Magré	_	_	_	_	_	_	_
 2	liv	liv	_	_	_	_	_	_	_
@@ -9760,7 +9838,7 @@
 21	tes	tes	_	_	_	_	_	_	_
 22	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 390
+# sent_id = 416
 # text = Magré Makawon limenm té di Senpiè fok Léta otjipé di sa é i ké véyé sa. 
 1	Magré	Magré	_	_	_	_	_	_	_
 2	Makawon	Makawon	PROPN	PROPN	_	_	_	_	_
@@ -9780,7 +9858,7 @@
 16	sa	sa	_	_	_	_	_	_	_
 17	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 391
+# sent_id = 417
 # text = Nou ka bien konstaté akondi pawol-la «tout kouyon mò Senpiè».
 1	Nou	Nou	_	_	_	_	_	_	_
 2	ka	ka	_	_	_	_	_	_	_
@@ -9796,13 +9874,13 @@
 12	»	»	PUNCT	PUNCT	_	_	_	_	_
 13	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 392
+# sent_id = 418
 # text =     5 Kannaval toupatou
 1	5	5	NUM	NUM	_	_	_	_	_
 2	Kannaval	Kannaval	_	_	_	_	_	_	_
 3	toupatou	toupatou	_	_	_	_	_	_	_
 
-# sent_id = 393
+# sent_id = 419
 # text = Antouléka, sé jou-tala jilé jòn ek jilé wouj ka défilé an Frans, mé Matinik sé mas ek group ka défilé an lari. 
 1	Antouléka	Antouléka	_	_	_	_	_	_	_
 2	,	,	PUNCT	PUNCT	_	_	_	_	_
@@ -9830,7 +9908,7 @@
 24	lari	lari	_	_	_	_	_	_	_
 25	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 394
+# sent_id = 420
 # text = Carnaval Foyal ja envité moun vini bokanté jédi lanméri Fodfrans alantou an kanman: «Le carnaval dans la société martiniquaise». 
 1	Carnaval	Carnaval	_	_	_	_	_	_	_
 2	Foyal	Foyal	PROPN	PROPN	_	_	_	_	_
@@ -9856,7 +9934,7 @@
 22	»	»	PUNCT	PUNCT	_	_	_	_	_
 23	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 395
+# sent_id = 421
 # text = Dot koté pa ka dòmi, kontel pa konté Sent-Lis, té ni éleksion rèn ek pabò Sent-Espri sé té mini-rèn.
 1	Dot	Dot	_	_	_	_	_	_	_
 2	koté	koté	_	_	_	_	_	_	_
@@ -9881,7 +9959,7 @@
 21	mini-rèn	mini-rèn	_	_	_	_	_	_	_
 22	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 396
+# sent_id = 422
 # text = Asiré sé jou-tala ou sé di magré sa tibren red épi zafè lenpo anlè fich pèy pou anlo moun, sé kannaval yo ka chonjé. 
 1	Asiré	Asiré	_	_	_	_	_	_	_
 2	sé	sé	_	_	_	_	_	_	_
@@ -9910,7 +9988,7 @@
 25	chonjé	chonjé	_	_	_	_	_	_	_
 26	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 397
+# sent_id = 423
 # text = An konpè Adjilbè diʼy:
 1	An	An	_	_	_	_	_	_	_
 2	konpè	konpè	_	_	_	_	_	_	_
@@ -9918,7 +9996,7 @@
 4	diʼy	diʼy	_	_	_	_	_	_	_
 5	:	:	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 398
+# sent_id = 424
 # text = — Sé jou-tala sé épi Labann a Pipo man ka wayné!
 1	—	—	PUNCT	PUNCT	_	_	_	_	_
 2	Sé	Sé	_	_	_	_	_	_	_
@@ -9933,7 +10011,7 @@
 11	wayné	wayné	_	_	_	_	_	_	_
 12	!	!	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 399
+# sent_id = 425
 # text = Man pa djè sav sa sa vé di, mé asiré sé pa réfléchi misié ka réfléchi asou dizan févriyé 2009.
 1	Man	Man	_	_	_	_	_	_	_
 2	pa	pa	_	_	_	_	_	_	_
@@ -9958,7 +10036,7 @@
 21	2009	2009	NUM	NUM	_	_	_	_	_
 22	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 400
+# sent_id = 426
 # text = Es sé pou oubliyé, oben sé pas i simié fè wol pa ni poblem?
 1	Es	Es	_	_	_	_	_	_	_
 2	sé	sé	_	_	_	_	_	_	_
@@ -9977,7 +10055,7 @@
 15	poblem	poblem	_	_	_	_	_	_	_
 16	?	?	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 401
+# sent_id = 427
 # text = Si zot sav, fè di mwen!
 1	Si	Si	_	_	_	_	_	_	_
 2	zot	zot	_	_	_	_	_	_	_
@@ -9988,7 +10066,7 @@
 7	mwen	mwen	_	_	_	_	_	_	_
 8	!	!	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 402
+# sent_id = 428
 # text = Yo tou lé dé a monté an Galilé menm jou-a. 
 1	Yo	Yo	_	_	_	_	_	_	_
 2	tou	tou	_	_	_	_	_	_	_
@@ -10001,37 +10079,40 @@
 9	jou-a	jou-a	_	_	_	_	_	_	_
 10	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 403
-# text = Yo té dé bofrè ! Yonn mò lè 3 févriyé 2008, sé té Marc PULVAR, an vayan konbatan pou lendépandans Matinik ek dwa travayè. 
+# sent_id = 429
+# text = Yo té dé bofrè ! 
 1	Yo	Yo	_	_	_	_	_	_	_
 2	té	té	_	_	_	_	_	_	_
 3	dé	dé	_	_	_	_	_	_	_
 4	bofrè	bofrè	_	_	_	_	_	_	_
 5	!	!	PUNCT	PUNCT	_	_	_	_	_
-6	Yonn	Yonn	_	_	_	_	_	_	_
-7	mò	mò	_	_	_	_	_	_	_
-8	lè	lè	_	_	_	_	_	_	_
-9	3	3	NUM	NUM	_	_	_	_	_
-10	févriyé	févriyé	NOUN	NOUN	_	_	_	_	_
-11	2008	2008	NUM	NUM	_	_	_	_	_
-12	,	,	PUNCT	PUNCT	_	_	_	_	_
-13	sé	sé	_	_	_	_	_	_	_
-14	té	té	_	_	_	_	_	_	_
-15	Marc	Marc	PROPN	PROPN	_	_	_	_	_
-16	PULVAR	PULVAR	PROPN	PROPN	_	_	_	_	_
-17	,	,	PUNCT	PUNCT	_	_	_	_	_
-18	an	an	_	_	_	_	_	_	_
-19	vayan	vayan	_	_	_	_	_	_	_
-20	konbatan	konbatan	_	_	_	_	_	_	_
-21	pou	pou	_	_	_	_	_	_	_
-22	lendépandans	lendépandans	_	_	_	_	_	_	_
-23	Matinik	Matinik	PROPN	PROPN	_	_	_	_	_
-24	ek	ek	_	_	_	_	_	_	_
-25	dwa	dwa	_	_	_	_	_	_	_
-26	travayè	travayè	_	_	_	_	_	_	_
-27	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 404
+# sent_id = 430
+# text = Yonn mò lè 3 févriyé 2008, sé té Marc PULVAR, an vayan konbatan pou lendépandans Matinik ek dwa travayè. 
+1	Yonn	Yonn	_	_	_	_	_	_	_
+2	mò	mò	_	_	_	_	_	_	_
+3	lè	lè	_	_	_	_	_	_	_
+4	3	3	NUM	NUM	_	_	_	_	_
+5	févriyé	févriyé	NOUN	NOUN	_	_	_	_	_
+6	2008	2008	NUM	NUM	_	_	_	_	_
+7	,	,	PUNCT	PUNCT	_	_	_	_	_
+8	sé	sé	_	_	_	_	_	_	_
+9	té	té	_	_	_	_	_	_	_
+10	Marc	Marc	PROPN	PROPN	_	_	_	_	_
+11	PULVAR	PULVAR	PROPN	PROPN	_	_	_	_	_
+12	,	,	PUNCT	PUNCT	_	_	_	_	_
+13	an	an	_	_	_	_	_	_	_
+14	vayan	vayan	_	_	_	_	_	_	_
+15	konbatan	konbatan	_	_	_	_	_	_	_
+16	pou	pou	_	_	_	_	_	_	_
+17	lendépandans	lendépandans	_	_	_	_	_	_	_
+18	Matinik	Matinik	PROPN	PROPN	_	_	_	_	_
+19	ek	ek	_	_	_	_	_	_	_
+20	dwa	dwa	_	_	_	_	_	_	_
+21	travayè	travayè	_	_	_	_	_	_	_
+22	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# sent_id = 431
 # text = Lot-la mò lè 3 févriyé 2011 ek sé yonn adan pli gran matjè Matinik, sé té Edouard GLISSANT.
 1	Lot-la	Lot-la	_	_	_	_	_	_	_
 2	mò	mò	_	_	_	_	_	_	_
@@ -10054,7 +10135,7 @@
 19	GLISSANT	GLISSANT	PROPN	PROPN	_	_	_	_	_
 20	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 405
+# sent_id = 432
 # text =   Marc PULVAR, ki tout moun té ka kriyé "Loulou", té manb l'OJAM (1958), an krey jenn étidian ki té kolé an afich toupatou Matinik pou mandé Léta fwansé sispann vakabonnajri kolonialis li. 
 1	Marc	Marc	_	_	_	_	_	_	_
 2	PULVAR	PULVAR	PROPN	PROPN	_	_	_	_	_
@@ -10099,7 +10180,7 @@
 41	li	li	_	_	_	_	_	_	_
 42	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 406
+# sent_id = 433
 # text = Landimen jou-a yo té mété afich-la, jandam vini, yo maré an dizenn adan sé jenn militan-tala ek yo vréyé yo adan an lajol an Fwans. 
 1	Landimen	Landimen	_	_	_	_	_	_	_
 2	jou-a	jou-a	_	_	_	_	_	_	_
@@ -10129,7 +10210,7 @@
 26	Fwans	Fwans	PROPN	PROPN	_	_	_	_	_
 27	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 407
+# sent_id = 434
 # text = Yo té rété PULVAR tou mé yo té kitéʼy lajol Matinik épi dot jenn manmay.
 1	Yo	Yo	_	_	_	_	_	_	_
 2	té	té	_	_	_	_	_	_	_
@@ -10148,7 +10229,7 @@
 15	manmay	manmay	_	_	_	_	_	_	_
 16	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 408
+# sent_id = 435
 # text =     Marc PULVAR té an pwofésè matématik, an boug ki té mapipi adan matiè-tala. 
 1	Marc	Marc	_	_	_	_	_	_	_
 2	PULVAR	PULVAR	PROPN	PROPN	_	_	_	_	_
@@ -10166,7 +10247,7 @@
 14	matiè-tala	matiè-tala	_	_	_	_	_	_	_
 15	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 409
+# sent_id = 436
 # text = I toujou rifizé travay adan Lédikasion nasional fwansé a ek i té ka ba lison lakay-li pou sa viv. 
 1	I	I	_	_	_	_	_	_	_
 2	toujou	toujou	_	_	_	_	_	_	_
@@ -10189,7 +10270,7 @@
 19	viv	viv	_	_	_	_	_	_	_
 20	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 410
+# sent_id = 437
 # text = Sé li épi moun kon Daniel MARIE-SAINTE ki mété doubout, nan finisman sé lanné 70 la, bidim sendika-a ki la CSTM la. 
 1	Sé	Sé	_	_	_	_	_	_	_
 2	li	li	_	_	_	_	_	_	_
@@ -10217,7 +10298,7 @@
 24	la	la	_	_	_	_	_	_	_
 25	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 411
+# sent_id = 438
 # text = Dépi lépok-tala, LOULOU fè an travay sendikal estwòdinè pou défann kanmiyonnè, bòn, travayè agrikol, chofè lotobis kisasayésa...Sé patwon-an, soutou sé Bétjé-a, toukon Léta fwansé li-menm, té vini pèʼy ek an jou, asou pò Fodfwans pliziè dog baréʼy pou té sa tjwéʼy. 
 1	Dépi	Dépi	_	_	_	_	_	_	_
 2	lépok-tala	lépok-tala	_	_	_	_	_	_	_
@@ -10274,7 +10355,7 @@
 53	tjwéʼy	tjwéʼy	_	_	_	_	_	_	_
 54	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 412
+# sent_id = 439
 # text = Malè pou yo Marc PULVAR tiré an révolvè nan poch-li ek i fè yo pwan lavol. 
 1	Malè	Malè	_	_	_	_	_	_	_
 2	pou	pou	_	_	_	_	_	_	_
@@ -10294,7 +10375,7 @@
 16	lavol	lavol	_	_	_	_	_	_	_
 17	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 413
+# sent_id = 440
 # text = Davwè i té blésé yonn anpami sé dog-tala, i fè lajol an dézienm kou.
 1	Davwè	Davwè	_	_	_	_	_	_	_
 2	i	i	_	_	_	_	_	_	_
@@ -10313,7 +10394,7 @@
 15	kou	kou	_	_	_	_	_	_	_
 16	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 414
+# sent_id = 441
 # text =    Toupannan i té ka mennen la-CSTM, i mété doubout épi Alfred MARIE-JEANNE ek dot kanmarad an mouvman politik endépandantis yo té ka kriyé "LA PAROLE AU PEUPLE". 
 1	Toupannan	Toupannan	_	_	_	_	_	_	_
 2	i	i	_	_	_	_	_	_	_
@@ -10347,7 +10428,7 @@
 30	"	"	PUNCT	PUNCT	_	_	_	_	_
 31	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 415
+# sent_id = 442
 # text = Sé mouvman-tala ki té pou vini, yonndé lanné apré lè MM (Mouvement Indépendantiste Martiniquais). 
 1	Sé	Sé	_	_	_	_	_	_	_
 2	mouvman-tala	mouvman-tala	_	_	_	_	_	_	_
@@ -10368,7 +10449,7 @@
 17	)	)	PUNCT	PUNCT	_	_	_	_	_
 18	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 416
+# sent_id = 443
 # text = Pannan lanné LOULOU goumen pou fè vansé lidé lendépandans ek i pa janmen bat dèyè ni déviré larel. 
 1	Pannan	Pannan	_	_	_	_	_	_	_
 2	lanné	lanné	_	_	_	_	_	_	_
@@ -10390,7 +10471,7 @@
 18	larel	larel	_	_	_	_	_	_	_
 19	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 417
+# sent_id = 444
 # text = I té kont zafè ay adan éleksion fwansé ek sé pou sa i kaskod épi sé kanmarad politik li a anmizi-anmizi.
 1	I	I	_	_	_	_	_	_	_
 2	té	té	_	_	_	_	_	_	_
@@ -10415,7 +10496,7 @@
 21	anmizi-anmizi	anmizi-anmizi	_	_	_	_	_	_	_
 22	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 418
+# sent_id = 445
 # text =     Malè pouʼy, maladi tonbé anlèʼy ek i fini pa monté nan Galilé an 2008, men mémwèʼy pa disparet. 
 1	Malè	Malè	_	_	_	_	_	_	_
 2	pouʼy	pouʼy	_	_	_	_	_	_	_
@@ -10439,7 +10520,7 @@
 20	disparet	disparet	_	_	_	_	_	_	_
 21	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 419
+# sent_id = 446
 # text = Mémwèʼy pé ké janmen disparet. 
 1	Mémwèʼy	Mémwèʼy	_	_	_	_	_	_	_
 2	pé	pé	_	_	_	_	_	_	_
@@ -10448,7 +10529,7 @@
 5	disparet	disparet	_	_	_	_	_	_	_
 6	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 420
+# sent_id = 447
 # text = Jou dimanch 3 févriyé 2019 tala, an patjé moun té sanblé nan senmitiè Lawviè-Salé pou sa gloriyéʼy...
 1	Jou	Jou	_	_	_	_	_	_	_
 2	dimanch	dimanch	_	_	_	_	_	_	_
@@ -10472,14 +10553,14 @@
 20	.	.	PUNCT	PUNCT	_	_	_	_	_
 21	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 421
+# sent_id = 448
 # text =     6 Kannaval ka chofé
 1	6	6	NUM	NUM	_	_	_	_	_
 2	Kannaval	Kannaval	_	_	_	_	_	_	_
 3	ka	ka	_	_	_	_	_	_	_
 4	chofé	chofé	_	_	_	_	_	_	_
 
-# sent_id = 422
+# sent_id = 449
 # text = Piti a piti, kannaval ka pran plas-li an koumansman lanné-a 2019-la. 
 1	Piti	Piti	_	_	_	_	_	_	_
 2	a	a	_	_	_	_	_	_	_
@@ -10495,7 +10576,7 @@
 12	2019-la	2019-la	_	_	_	_	_	_	_
 13	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 423
+# sent_id = 450
 # text = Menmsi sé jou gra-a prévi pou mwaʼd mas, toupatou moun ka antréné.
 1	Menmsi	Menmsi	_	_	_	_	_	_	_
 2	sé	sé	_	_	_	_	_	_	_
@@ -10512,7 +10593,7 @@
 13	antréné	antréné	_	_	_	_	_	_	_
 14	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 424
+# sent_id = 451
 # text = Lasimenn pasé sé té Kaval Brennzeng Festival pa koté Fwéyal. 
 1	Lasimenn	Lasimenn	_	_	_	_	_	_	_
 2	pasé	pasé	_	_	_	_	_	_	_
@@ -10526,7 +10607,7 @@
 10	Fwéyal	Fwéyal	PROPN	PROPN	_	_	_	_	_
 11	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 425
+# sent_id = 452
 # text = Simenn-tala sé dan lisid sa té ka pasé. 
 1	Simenn-tala	Simenn-tala	_	_	_	_	_	_	_
 2	sé	sé	_	_	_	_	_	_	_
@@ -10538,7 +10619,7 @@
 8	pasé	pasé	_	_	_	_	_	_	_
 9	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 426
+# sent_id = 453
 # text = Sé la tout lé fanatik group a pié té pran randévou. 
 1	Sé	Sé	_	_	_	_	_	_	_
 2	la	la	_	_	_	_	_	_	_
@@ -10553,7 +10634,7 @@
 11	randévou	randévou	_	_	_	_	_	_	_
 12	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 427
+# sent_id = 454
 # text = Sé group-la pa limen limiè selman mé yo mété difé toubannman afos sa té cho pa koté Twa-Zilé.
 1	Sé	Sé	_	_	_	_	_	_	_
 2	group-la	group-la	_	_	_	_	_	_	_
@@ -10575,7 +10656,7 @@
 18	Twa-Zilé	Twa-Zilé	PROPN	PROPN	_	_	_	_	_
 19	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 428
+# sent_id = 455
 # text = Sé konsa DYNAMIK CARNAVAL éti pa ni labitid dòmi, pa fè mizik selman pou kò yo, mé i di bien fò pou tout moun tann: SE POU YO. 
 1	Sé	Sé	_	_	_	_	_	_	_
 2	konsa	konsa	_	_	_	_	_	_	_
@@ -10610,7 +10691,7 @@
 31	YO	YO	PROPN	PROPN	_	_	_	_	_
 32	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 429
+# sent_id = 456
 # text = Yo-tala sé té tout moun éti té vini wè VAK ‘BAND san vakabonajri.
 1	Yo-tala	Yo-tala	_	_	_	_	_	_	_
 2	sé	sé	_	_	_	_	_	_	_
@@ -10628,7 +10709,7 @@
 14	vakabonajri	vakabonajri	_	_	_	_	_	_	_
 15	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 430
+# sent_id = 457
 # text = Anlo moun apré yo bwè yonndé Despé té ka chanté SA KI FET FET. 
 1	Anlo	Anlo	_	_	_	_	_	_	_
 2	moun	moun	_	_	_	_	_	_	_
@@ -10646,7 +10727,7 @@
 14	FET	FET	PROPN	PROPN	_	_	_	_	_
 15	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 431
+# sent_id = 458
 # text = Mé Adjilbè di mwen:
 1	Mé	Mé	_	_	_	_	_	_	_
 2	Adjilbè	Adjilbè	PROPN	PROPN	_	_	_	_	_
@@ -10654,7 +10735,7 @@
 4	mwen	mwen	_	_	_	_	_	_	_
 5	:	:	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 432
+# sent_id = 459
 # text = — OU ZA KONNET dépi sé pou vréyé monté, ni anlo moun ka di tou fo: NOU PE FEY.
 1	—	—	PUNCT	PUNCT	_	_	_	_	_
 2	OU	OU	_	_	_	_	_	_	_
@@ -10679,7 +10760,7 @@
 21	FEY	FEY	PROPN	PROPN	_	_	_	_	_
 22	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 433
+# sent_id = 460
 # text = Antouléka, ni dé djab-lafet kannaval ki TOUJOU SOUPAPE épi MOOV, dépi an tan yo té étidian épi GWANAVAL ek kanmarad Gwadloup épi Matinik.
 1	Antouléka	Antouléka	_	_	_	_	_	_	_
 2	,	,	PUNCT	PUNCT	_	_	_	_	_
@@ -10708,7 +10789,7 @@
 25	Matinik	Matinik	PROPN	PROPN	_	_	_	_	_
 26	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 434
+# sent_id = 461
 # text = An sel bagay man kwè, zot rikonnet sé nef group-la éti limen limiè san zaliment ni lektrisité pou an twaziem fwa dan lisid.
 1	An	An	_	_	_	_	_	_	_
 2	sel	sel	_	_	_	_	_	_	_
@@ -10736,7 +10817,7 @@
 24	lisid	lisid	_	_	_	_	_	_	_
 25	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 435
+# sent_id = 462
 # text = Kannaval sé toupatou Matinik, asiré dan linò yo poko brennen, menmsi sa cho pa koté Baspwent. 
 1	Kannaval	Kannaval	_	_	_	_	_	_	_
 2	sé	sé	_	_	_	_	_	_	_
@@ -10758,7 +10839,7 @@
 18	Baspwent	Baspwent	PROPN	PROPN	_	_	_	_	_
 19	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 436
+# sent_id = 463
 # text = Mé pa otjipé kò zot, asiré sèten ké ni an bri, menmsi poulemoman préfé-a ja di yo pengad pas yo ké ni pito vié lodè épi sargas-la.
 1	Mé	Mé	_	_	_	_	_	_	_
 2	pa	pa	_	_	_	_	_	_	_
@@ -10791,7 +10872,7 @@
 29	sargas-la	sargas-la	_	_	_	_	_	_	_
 30	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 437
+# sent_id = 464
 # text =     7 Fodfrans pa lé rété dèyè
 1	7	7	NUM	NUM	_	_	_	_	_
 2	Fodfrans	Fodfrans	_	_	_	_	_	_	_
@@ -10800,7 +10881,7 @@
 5	rété	rété	_	_	_	_	_	_	_
 6	dèyè	dèyè	_	_	_	_	_	_	_
 
-# sent_id = 438
+# sent_id = 465
 # text = Lavil Fodfrans pa télé rété dèyè kon dé talon. 
 1	Lavil	Lavil	_	_	_	_	_	_	_
 2	Fodfrans	Fodfrans	PROPN	PROPN	_	_	_	_	_
@@ -10813,7 +10894,7 @@
 9	talon	talon	_	_	_	_	_	_	_
 10	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 439
+# sent_id = 466
 # text = Dimanch apré-midi i fè «La Foyal parade». 
 1	Dimanch	Dimanch	_	_	_	_	_	_	_
 2	apré-midi	apré-midi	_	_	_	_	_	_	_
@@ -10826,7 +10907,7 @@
 9	»	»	PUNCT	PUNCT	_	_	_	_	_
 10	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 440
+# sent_id = 467
 # text = Sé omwen 25 group éti té an lari Fodfrans pou montré belté kostim-yo ek mizik-yo.
 1	Sé	Sé	_	_	_	_	_	_	_
 2	omwen	omwen	_	_	_	_	_	_	_
@@ -10845,7 +10926,7 @@
 15	mizik-yo	mizik-yo	_	_	_	_	_	_	_
 16	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 441
+# sent_id = 468
 # text = Nou pé di bravman, kannaval-la bien pati. 
 1	Nou	Nou	_	_	_	_	_	_	_
 2	pé	pé	_	_	_	_	_	_	_
@@ -10857,7 +10938,7 @@
 8	pati	pati	_	_	_	_	_	_	_
 9	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 442
+# sent_id = 469
 # text = Menmsi sé jik an mwaʼd mas ké ni joug ra, asiré mas ja déwò an mitan mwa janvié-a.
 1	Menmsi	Menmsi	_	_	_	_	_	_	_
 2	sé	sé	_	_	_	_	_	_	_
@@ -10880,13 +10961,13 @@
 19	janvié-a	janvié-a	_	_	_	_	_	_	_
 20	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 443
+# sent_id = 470
 # text = Brennzeng Festival.
 1	Brennzeng	Brennzeng	_	_	_	_	_	_	_
 2	Festival	Festival	PROPN	PROPN	_	_	_	_	_
 3	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 444
+# sent_id = 471
 # text =  Nwel ek Joudlan poko bout ki moun Matinik za batjé adan kannaval. 
 1	Nwel	Nwel	_	_	_	_	_	_	_
 2	ek	ek	_	_	_	_	_	_	_
@@ -10902,7 +10983,7 @@
 12	kannaval	kannaval	_	_	_	_	_	_	_
 13	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 445
+# sent_id = 472
 # text = Sé kon sa péyi-a vini dépi yonndé lanné : an banboch ki ka woulé san rété ek san-manman tout londjè lanné-a. 
 1	Sé	Sé	_	_	_	_	_	_	_
 2	kon	kon	_	_	_	_	_	_	_
@@ -10927,7 +11008,7 @@
 21	lanné-a	lanné-a	_	_	_	_	_	_	_
 22	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 446
+# sent_id = 473
 # text = Pétet sé an manniè bliyé léta péyi-a ki an chinpontong épi klowdékòn, wawet, koripsion (CEREGMIA), ladwog, jenn nonm ka sazinen dot ek soutou chonmaj.
 1	Pétet	Pétet	_	_	_	_	_	_	_
 2	sé	sé	_	_	_	_	_	_	_
@@ -10961,7 +11042,7 @@
 30	chonmaj	chonmaj	_	_	_	_	_	_	_
 31	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 447
+# sent_id = 474
 # text =     Wi, péyi-a an chinpontong ki nou lé ki nou pa lé !
 1	Wi	Wi	_	_	_	_	_	_	_
 2	,	,	PUNCT	PUNCT	_	_	_	_	_
@@ -10977,7 +11058,7 @@
 12	lé	lé	_	_	_	_	_	_	_
 13	!	!	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 448
+# sent_id = 475
 # text =    Sa pa lé di ki an tjou-patat pa ka fet ek ki sé politisien-an sé an bann initil ek kabrit zié-loli. 
 1	Sa	Sa	_	_	_	_	_	_	_
 2	pa	pa	_	_	_	_	_	_	_
@@ -11002,7 +11083,7 @@
 21	zié-loli	zié-loli	_	_	_	_	_	_	_
 22	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 449
+# sent_id = 476
 # text = Okontrè, ni anchay bagay ka fet oben ka maché nawflaw : TCSP-a obidjoul, rikonstriksion Lisé Chelchè van-dan-vwel, kafé ek kako ka viré pwan balan, transpò pa lanmè ka dévlopé kisasayésa..., men sa pa sifizan pou démaré krab-la.
 1	Okontrè	Okontrè	_	_	_	_	_	_	_
 2	,	,	PUNCT	PUNCT	_	_	_	_	_
@@ -11051,7 +11132,7 @@
 45	krab-la	krab-la	_	_	_	_	_	_	_
 46	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 450
+# sent_id = 477
 # text =      Wi, krab-la maré !
 1	Wi	Wi	_	_	_	_	_	_	_
 2	,	,	PUNCT	PUNCT	_	_	_	_	_
@@ -11059,7 +11140,7 @@
 4	maré	maré	_	_	_	_	_	_	_
 5	!	!	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 451
+# sent_id = 478
 # text =    Sé dayè poutji moun Matinik, travayè matinitjé, pa batjé adan larel sé "Jilé jòn" fwansé a. 
 1	Sé	Sé	_	_	_	_	_	_	_
 2	dayè	dayè	_	_	_	_	_	_	_
@@ -11083,7 +11164,7 @@
 20	a	a	_	_	_	_	_	_	_
 21	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 452
+# sent_id = 479
 # text = Aloski an mwa févriyé 2009, apré la Gwadloup, yo té mété an papa lagrev atè ki diré pasé yon mwa, kou-tala, sé latélé yo ka gadé la Fwans ka pri difé chak sanmdi. 
 1	Aloski	Aloski	_	_	_	_	_	_	_
 2	an	an	_	_	_	_	_	_	_
@@ -11124,7 +11205,7 @@
 37	sanmdi	sanmdi	_	_	_	_	_	_	_
 38	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 453
+# sent_id = 480
 # text = Konsidiré la Fwans té an péyi ki sitelman lwen ki sa ki ka pasé la pa ka entérésé moun Matinik an pies kalté manniè. 
 1	Konsidiré	Konsidiré	_	_	_	_	_	_	_
 2	la	la	_	_	_	_	_	_	_
@@ -11152,7 +11233,7 @@
 24	manniè	manniè	_	_	_	_	_	_	_
 25	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 454
+# sent_id = 481
 # text = Men la Fwans pa l'Ostrali ek Matinik, ki i lé ki i pa lé, ka dépann di la Fwans. 
 1	Men	Men	_	_	_	_	_	_	_
 2	la	la	_	_	_	_	_	_	_
@@ -11179,7 +11260,7 @@
 23	Fwans	Fwans	PROPN	PROPN	_	_	_	_	_
 24	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 455
+# sent_id = 482
 # text = Si  zot wè difé-a mofwazé adan an révolision, sa pé pa pa ni konsékans asou Matinik. 
 1	Si 	Si 	_	_	_	_	_	_	_
 2	zot	zot	_	_	_	_	_	_	_
@@ -11200,7 +11281,7 @@
 17	Matinik	Matinik	PROPN	PROPN	_	_	_	_	_
 18	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 456
+# sent_id = 483
 # text =     Annatandan, sé adan vidé kannaval Matinitjé ka soutienn sé "Jilé jòn" la...
 1	Annatandan	Annatandan	_	_	_	_	_	_	_
 2	,	,	PUNCT	PUNCT	_	_	_	_	_
@@ -11221,7 +11302,7 @@
 17	.	.	PUNCT	PUNCT	_	_	_	_	_
 18	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 457
+# sent_id = 484
 # text = Sanmdi pasé, Kannaval Foyal démaré sé vidé-a Fodfrans. 
 1	Sanmdi	Sanmdi	_	_	_	_	_	_	_
 2	pasé	pasé	_	_	_	_	_	_	_
@@ -11234,7 +11315,7 @@
 9	Fodfrans	Fodfrans	PROPN	PROPN	_	_	_	_	_
 10	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 458
+# sent_id = 485
 # text = Mé sé organizatè-a mété chanté douvan, (pa chanté malélivé). 
 1	Mé	Mé	_	_	_	_	_	_	_
 2	sé	sé	_	_	_	_	_	_	_
@@ -11250,7 +11331,7 @@
 12	)	)	PUNCT	PUNCT	_	_	_	_	_
 13	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 459
+# sent_id = 486
 # text = Yo kriyé sa: Kaval Brennzeng Festival. 
 1	Yo	Yo	_	_	_	_	_	_	_
 2	kriyé	kriyé	_	_	_	_	_	_	_
@@ -11261,7 +11342,7 @@
 7	Festival	Festival	PROPN	PROPN	_	_	_	_	_
 8	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 460
+# sent_id = 487
 # text = Sé pa té bri selman mé an tiraj o pli bel lavwa kannaval. 
 1	Sé	Sé	_	_	_	_	_	_	_
 2	pa	pa	_	_	_	_	_	_	_
@@ -11278,7 +11359,7 @@
 13	kannaval	kannaval	_	_	_	_	_	_	_
 14	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 461
+# sent_id = 488
 # text = La té ni bon lavwa, menmsi anlo anpami yo konprann chanté sé kriyé anmwé.
 1	La	La	_	_	_	_	_	_	_
 2	té	té	_	_	_	_	_	_	_
@@ -11297,7 +11378,7 @@
 15	anmwé	anmwé	_	_	_	_	_	_	_
 16	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 462
+# sent_id = 489
 # text = a anlo moun pa sav, menm an kannaval, chanté sé pa bagay tout moun. 
 1	a	a	_	_	_	_	_	_	_
 2	anlo	anlo	_	_	_	_	_	_	_
@@ -11317,7 +11398,7 @@
 16	moun	moun	_	_	_	_	_	_	_
 17	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 463
+# sent_id = 490
 # text = Difé Nan Pay limen difé, mé chantéʼy la pa té toutafetman an gou jiri-a. 
 1	Difé	Difé	_	_	_	_	_	_	_
 2	Nan	Nan	PROPN	PROPN	_	_	_	_	_
@@ -11336,7 +11417,7 @@
 15	jiri-a	jiri-a	_	_	_	_	_	_	_
 16	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 464
+# sent_id = 491
 # text = Kantapou Gérikan Bass, sé organizatè-a trouvé té ni titak trop bri épi sé jérikàn plastik-la.
 1	Kantapou	Kantapou	_	_	_	_	_	_	_
 2	Gérikan	Gérikan	PROPN	PROPN	_	_	_	_	_
@@ -11356,12 +11437,12 @@
 16	plastik-la	plastik-la	_	_	_	_	_	_	_
 17	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 465
+# sent_id = 492
 # text =     8 Wélélé
 1	8	8	NUM	NUM	_	_	_	_	_
 2	Wélélé	Wélélé	_	_	_	_	_	_	_
 
-# sent_id = 466
+# sent_id = 493
 # text = Adan tout zafè-tala, sé Wélélé Bann ki an zafè wélélé-a, pa manchot pies. 
 1	Adan	Adan	_	_	_	_	_	_	_
 2	tout	tout	_	_	_	_	_	_	_
@@ -11380,7 +11461,7 @@
 15	pies	pies	_	_	_	_	_	_	_
 16	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 467
+# sent_id = 494
 # text = Nou pé menm di i an zafèʼy. 
 1	Nou	Nou	_	_	_	_	_	_	_
 2	pé	pé	_	_	_	_	_	_	_
@@ -11391,7 +11472,7 @@
 7	zafèʼy	zafèʼy	_	_	_	_	_	_	_
 8	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 468
+# sent_id = 495
 # text = Kidonk sé Twa-Zilé ki rivé douvan sé group Wobè-a.
 1	Kidonk	Kidonk	_	_	_	_	_	_	_
 2	sé	sé	_	_	_	_	_	_	_
@@ -11404,7 +11485,7 @@
 9	Wobè-a	Wobè-a	PROPN	PROPN	_	_	_	_	_
 10	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 469
+# sent_id = 496
 # text = Toupandan Wélélé Bann té ka genyen, sé jilé jòn té ka kontinié manifesté an tout lari Lafrans. 
 1	Toupandan	Toupandan	_	_	_	_	_	_	_
 2	Wélélé	Wélélé	PROPN	PROPN	_	_	_	_	_
@@ -11426,7 +11507,7 @@
 18	Lafrans	Lafrans	PROPN	PROPN	_	_	_	_	_
 19	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 470
+# sent_id = 497
 # text = Ni dé jilé jòn Matinik ki alé lanméri Trinité pou té mandé an kayé doléyans. 
 1	Ni	Ni	_	_	_	_	_	_	_
 2	dé	dé	_	_	_	_	_	_	_
@@ -11445,7 +11526,7 @@
 15	doléyans	doléyans	_	_	_	_	_	_	_
 16	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 471
+# sent_id = 498
 # text = Yo pito ba yo an kayé kondoléyans, pas pa djè ni moun ki vini réklamé ayen.
 1	Yo	Yo	_	_	_	_	_	_	_
 2	pito	pito	_	_	_	_	_	_	_
@@ -11466,7 +11547,7 @@
 17	ayen	ayen	_	_	_	_	_	_	_
 18	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 472
+# sent_id = 499
 # text = Es sé pas yo pa palé fè TCSP-a woulé san lagrev?
 1	Es	Es	_	_	_	_	_	_	_
 2	sé	sé	_	_	_	_	_	_	_
@@ -11481,7 +11562,7 @@
 11	lagrev	lagrev	_	_	_	_	_	_	_
 12	?	?	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 473
+# sent_id = 500
 # text = Antouléka sé jilé jòn nou an adan an fè wouj. 
 1	Antouléka	Antouléka	_	_	_	_	_	_	_
 2	sé	sé	_	_	_	_	_	_	_
@@ -11495,7 +11576,7 @@
 10	wouj	wouj	_	_	_	_	_	_	_
 11	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 474
+# sent_id = 501
 # text = Poulemoman yo sirplas ek frennen a livié. 
 1	Poulemoman	Poulemoman	_	_	_	_	_	_	_
 2	yo	yo	_	_	_	_	_	_	_
@@ -11506,7 +11587,7 @@
 7	livié	livié	_	_	_	_	_	_	_
 8	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 475
+# sent_id = 502
 # text = Pétet yo ka espéré mwa prochen, pas ké ni dizan févriyé 2009 anlo moun té défilé kont lavi chè. 
 1	Pétet	Pétet	_	_	_	_	_	_	_
 2	yo	yo	_	_	_	_	_	_	_
@@ -11530,7 +11611,7 @@
 20	chè	chè	_	_	_	_	_	_	_
 21	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 476
+# sent_id = 503
 # text = Es sé pas lavi-a vini mwen chè jòdi-a?
 1	Es	Es	_	_	_	_	_	_	_
 2	sé	sé	_	_	_	_	_	_	_
@@ -11542,7 +11623,7 @@
 8	jòdi-a	jòdi-a	_	_	_	_	_	_	_
 9	?	?	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 477
+# sent_id = 504
 # text = Antouléka anlo préféré pa menm chonjé sa, menmsi Makawon vréyé an let  pou yo katjilé, yo simié mété tet yo asou Kaval Brennzeng Festival.
 1	Antouléka	Antouléka	_	_	_	_	_	_	_
 2	anlo	anlo	_	_	_	_	_	_	_
@@ -11572,7 +11653,7 @@
 26	Festival	Festival	PROPN	PROPN	_	_	_	_	_
 27	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 478
+# sent_id = 505
 # text = Tout sé jou-tala, sé mè-a ka choyé lé gran élektè. 
 1	Tout	Tout	_	_	_	_	_	_	_
 2	sé	sé	_	_	_	_	_	_	_
@@ -11587,7 +11668,7 @@
 11	élektè	élektè	_	_	_	_	_	_	_
 12	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 479
+# sent_id = 506
 # text = Sé pa votman pou sènatè mé yo tout ka envité tout gran-moun ki ja ni swasanndis an montan.
 1	Sé	Sé	_	_	_	_	_	_	_
 2	pa	pa	_	_	_	_	_	_	_
@@ -11609,7 +11690,7 @@
 18	montan	montan	_	_	_	_	_	_	_
 19	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 480
+# sent_id = 507
 # text = Es pas démil ven, sé lanné prochenn ek ni votman pou éleksion mè?
 1	Es	Es	_	_	_	_	_	_	_
 2	pas	pas	_	_	_	_	_	_	_
@@ -11627,7 +11708,7 @@
 14	mè	mè	_	_	_	_	_	_	_
 15	?	?	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 481
+# sent_id = 508
 # text = Sa nou pé konstaté, sé gran-moun lan pé ké pé di, menmsi lajan laritret-la kout kon latjé krapo, misi limè pa chonjé yo.
 1	Sa	Sa	_	_	_	_	_	_	_
 2	nou	nou	_	_	_	_	_	_	_
@@ -11657,7 +11738,7 @@
 26	yo	yo	_	_	_	_	_	_	_
 27	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 482
+# sent_id = 509
 # text = Kisiswa dwet, kisiswa goch pa menm palé sa ki an mitan, yo tout ka swété moun la bon lanné.
 1	Kisiswa	Kisiswa	_	_	_	_	_	_	_
 2	dwet	dwet	_	_	_	_	_	_	_
@@ -11682,7 +11763,7 @@
 21	lanné	lanné	_	_	_	_	_	_	_
 22	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 483
+# sent_id = 510
 # text = Adjilbè ki ni an manniè enmen fè lafet di mwen bouch anba bra:
 1	Adjilbè	Adjilbè	_	_	_	_	_	_	_
 2	ki	ki	_	_	_	_	_	_	_
@@ -11699,7 +11780,7 @@
 13	bra	bra	_	_	_	_	_	_	_
 14	:	:	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 484
+# sent_id = 511
 # text = — Si Makawon bliyé yo, asiré mè-a ka chonjé yo, pou sé gran-moun lan pa bliyé yo!
 1	—	—	PUNCT	PUNCT	_	_	_	_	_
 2	Si	Si	_	_	_	_	_	_	_
@@ -11722,7 +11803,7 @@
 19	yo	yo	_	_	_	_	_	_	_
 20	!	!	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 485
+# sent_id = 512
 # text = Anplis di sa ni anlo ka soufè alzaymè, es an 2020 yo ké chonjé misié limè té fè an jes an koumansman lanné-a?
 1	Anplis	Anplis	_	_	_	_	_	_	_
 2	di	di	_	_	_	_	_	_	_
@@ -11750,7 +11831,7 @@
 24	lanné-a	lanné-a	_	_	_	_	_	_	_
 25	?	?	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 486
+# sent_id = 513
 # text = Antouléka, lanné-a koumansé épi dé ansien mè éti ja trapé katrèven lanné, yo di yo pé ké viré pozé kandida yo. 
 1	Antouléka	Antouléka	_	_	_	_	_	_	_
 2	,	,	PUNCT	PUNCT	_	_	_	_	_
@@ -11777,7 +11858,7 @@
 23	yo	yo	_	_	_	_	_	_	_
 24	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 487
+# sent_id = 514
 # text = Asiparé laj amèn la rézon.
 1	Asiparé	Asiparé	_	_	_	_	_	_	_
 2	laj	laj	_	_	_	_	_	_	_
@@ -11786,7 +11867,7 @@
 5	rézon	rézon	_	_	_	_	_	_	_
 6	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 488
+# sent_id = 515
 # text = Sa vré, sa ka vini cho ba sé mè-a. 
 1	Sa	Sa	_	_	_	_	_	_	_
 2	vré	vré	_	_	_	_	_	_	_
@@ -11800,7 +11881,7 @@
 10	mè-a	mè-a	_	_	_	_	_	_	_
 11	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 489
+# sent_id = 516
 # text = Pou an ayen yo pé kondanéw. 
 1	Pou	Pou	_	_	_	_	_	_	_
 2	an	an	_	_	_	_	_	_	_
@@ -11810,7 +11891,7 @@
 6	kondanéw	kondanéw	_	_	_	_	_	_	_
 7	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 490
+# sent_id = 517
 # text = Anni gadé sa ki rivé Tanon. 
 1	Anni	Anni	_	_	_	_	_	_	_
 2	gadé	gadé	_	_	_	_	_	_	_
@@ -11820,7 +11901,7 @@
 6	Tanon	Tanon	PROPN	PROPN	_	_	_	_	_
 7	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 491
+# sent_id = 518
 # text = Atjelman sé pa rédi chez bò tab. 
 1	Atjelman	Atjelman	_	_	_	_	_	_	_
 2	sé	sé	_	_	_	_	_	_	_
@@ -11831,7 +11912,7 @@
 7	tab	tab	_	_	_	_	_	_	_
 8	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 492
+# sent_id = 519
 # text = Pou wè sa bien, sé si la Chanm Réjional ka kontroléʼw kon sa pou fet dan an komin Nor-karayib-la. 
 1	Pou	Pou	_	_	_	_	_	_	_
 2	wè	wè	_	_	_	_	_	_	_
@@ -11855,7 +11936,7 @@
 20	Nor-karayib-la	Nor-karayib-la	PROPN	PROPN	_	_	_	_	_
 21	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 493
+# sent_id = 520
 # text = Ou pé pa fè sa ou lé ankò kon avan.
 1	Ou	Ou	_	_	_	_	_	_	_
 2	pé	pé	_	_	_	_	_	_	_
@@ -11869,7 +11950,7 @@
 10	avan	avan	_	_	_	_	_	_	_
 11	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 494
+# sent_id = 521
 # text = Sel bagay nou ka konstaté an koumansman 2019-la, sé mè-a ja ka prévwa. 
 1	Sel	Sel	_	_	_	_	_	_	_
 2	bagay	bagay	_	_	_	_	_	_	_
@@ -11887,7 +11968,7 @@
 14	prévwa	prévwa	_	_	_	_	_	_	_
 15	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 495
+# sent_id = 522
 # text = Ou sé di yo tout konnet poveb-la: «Bef douvan brè dlo klè.». 
 1	Ou	Ou	_	_	_	_	_	_	_
 2	sé	sé	_	_	_	_	_	_	_
@@ -11907,7 +11988,7 @@
 16	»	»	PUNCT	PUNCT	_	_	_	_	_
 17	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 496
+# sent_id = 523
 # text = Mé pengad yo pa bliyé anlot poveb:
 1	Mé	Mé	_	_	_	_	_	_	_
 2	pengad	pengad	_	_	_	_	_	_	_
@@ -11918,7 +11999,7 @@
 7	poveb	poveb	_	_	_	_	_	_	_
 8	:	:	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 497
+# sent_id = 524
 # text = «Tro présé pa janmen fè jou ouvè».
 1	«	«	PUNCT	PUNCT	_	_	_	_	_
 2	Tro	Tro	_	_	_	_	_	_	_
@@ -11931,7 +12012,7 @@
 9	»	»	PUNCT	PUNCT	_	_	_	_	_
 10	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 498
+# sent_id = 525
 # text = Toupandan nou té ka chonjé twa mapipi ki ja monté an Galilé, Frantz Fanon, Marsel Manvil, ek Ti-Jo Movwa an mwa désanm-lan, sé a moman-tala Bazil mété grapen asou an brital matjè ba kréyol Matinik épi litérati, Joj Eliktè Movwa.
 1	Toupandan	Toupandan	_	_	_	_	_	_	_
 2	nou	nou	_	_	_	_	_	_	_
@@ -11980,7 +12061,7 @@
 45	Movwa	Movwa	PROPN	PROPN	_	_	_	_	_
 46	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 499
+# sent_id = 526
 # text = Sa vré lanné 2018-la pa té mol épi nou adan zafè sargas-la. 
 1	Sa	Sa	_	_	_	_	_	_	_
 2	vré	vré	_	_	_	_	_	_	_
@@ -11996,7 +12077,7 @@
 12	sargas-la	sargas-la	_	_	_	_	_	_	_
 13	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 500
+# sent_id = 527
 # text = Pas sé moun lakot atlantik-la pran bon gaz. 
 1	Pas	Pas	_	_	_	_	_	_	_
 2	sé	sé	_	_	_	_	_	_	_
@@ -12008,7 +12089,7 @@
 8	gaz	gaz	_	_	_	_	_	_	_
 9	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 501
+# sent_id = 528
 # text = Jik atjelman ni ki doubout toujou, mé yo pas av kouman andidan poko gaté.
 1	Jik	Jik	_	_	_	_	_	_	_
 2	atjelman	atjelman	_	_	_	_	_	_	_
@@ -12027,7 +12108,7 @@
 15	gaté	gaté	_	_	_	_	_	_	_
 16	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 502
+# sent_id = 529
 # text = Té ni an bel simenn kréyol, mé annou kontinié djoubaté pou lang-lan pa ped fos ek i viré pran balan.
 1	Té	Té	_	_	_	_	_	_	_
 2	ni	ni	_	_	_	_	_	_	_
@@ -12052,7 +12133,7 @@
 21	balan	balan	_	_	_	_	_	_	_
 22	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 503
+# sent_id = 530
 # text = Lanné 2018 wè anlot kanman pou étid anlè kréyol asou nichtwel-la, an Mastè an lin ka permet moun étidié lang-lan tout oliwon latè. 
 1	Lanné	Lanné	_	_	_	_	_	_	_
 2	2018	2018	NUM	NUM	_	_	_	_	_
@@ -12080,7 +12161,7 @@
 24	latè	latè	_	_	_	_	_	_	_
 25	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 504
+# sent_id = 531
 # text = Menmsi jik atjelman nou poko ni an Lofis pou lang-lan. 
 1	Menmsi	Menmsi	_	_	_	_	_	_	_
 2	jik	jik	_	_	_	_	_	_	_
@@ -12094,7 +12175,7 @@
 10	lang-lan	lang-lan	_	_	_	_	_	_	_
 11	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 505
+# sent_id = 532
 # text = Ou sé menm di sé an lespwa mal papay, mé fok kontinié bat ek konbat pou lang-lan pa débat.
 1	Ou	Ou	_	_	_	_	_	_	_
 2	sé	sé	_	_	_	_	_	_	_
@@ -12118,7 +12199,7 @@
 20	débat	débat	_	_	_	_	_	_	_
 21	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 506
+# sent_id = 533
 # text = Erezdibonnè Izaak mantjé nou, menmsi yonndé ti-mouskouyon ka wouspété kont lamétéwo. 
 1	Erezdibonnè	Erezdibonnè	_	_	_	_	_	_	_
 2	Izaak	Izaak	PROPN	PROPN	_	_	_	_	_
@@ -12134,7 +12215,7 @@
 12	lamétéwo	lamétéwo	_	_	_	_	_	_	_
 13	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 507
+# sent_id = 534
 # text = I ka prévwa i pa ka désidé.
 1	I	I	_	_	_	_	_	_	_
 2	ka	ka	_	_	_	_	_	_	_
@@ -12145,7 +12226,7 @@
 7	désidé	désidé	_	_	_	_	_	_	_
 8	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 508
+# sent_id = 535
 # text = TCSP-a fini pa pati aprè konmen bèkalo. 
 1	TCSP-a	TCSP-a	_	_	_	_	_	_	_
 2	fini	fini	_	_	_	_	_	_	_
@@ -12156,7 +12237,7 @@
 7	bèkalo	bèkalo	_	_	_	_	_	_	_
 8	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 509
+# sent_id = 536
 # text = Malérezman an lagrev konmen jou fini dépotjoléʼy. 
 1	Malérezman	Malérezman	_	_	_	_	_	_	_
 2	an	an	_	_	_	_	_	_	_
@@ -12167,7 +12248,7 @@
 7	dépotjoléʼy	dépotjoléʼy	_	_	_	_	_	_	_
 8	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 510
+# sent_id = 537
 # text = Nou ka swété i ké viré pati san blotjaj lé soutrétan. 
 1	Nou	Nou	_	_	_	_	_	_	_
 2	ka	ka	_	_	_	_	_	_	_
@@ -12182,7 +12263,7 @@
 11	soutrétan	soutrétan	_	_	_	_	_	_	_
 12	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 511
+# sent_id = 538
 # text = Asiparé komkidiré yo té ké ka maltrété yo. 
 1	Asiparé	Asiparé	_	_	_	_	_	_	_
 2	komkidiré	komkidiré	_	_	_	_	_	_	_
@@ -12194,7 +12275,7 @@
 8	yo	yo	_	_	_	_	_	_	_
 9	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 512
+# sent_id = 539
 # text = I ja tan pou sant Matinik kon dan lisid ek dan linò ni an transpò piblik ka maché nawvlaw. 
 1	I	I	_	_	_	_	_	_	_
 2	ja	ja	_	_	_	_	_	_	_
@@ -12217,14 +12298,14 @@
 19	nawvlaw	nawvlaw	_	_	_	_	_	_	_
 20	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 513
+# sent_id = 540
 # text = Sé an minimom.
 1	Sé	Sé	_	_	_	_	_	_	_
 2	an	an	_	_	_	_	_	_	_
 3	minimom	minimom	_	_	_	_	_	_	_
 4	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 514
+# sent_id = 541
 # text = Nou fè pliziè kréyolomaj lanné 2018-la, kontel ba Mariz Kondé éti trapé an pri Nobel litérati altènatif pou tout liv i matjé. 
 1	Nou	Nou	_	_	_	_	_	_	_
 2	fè	fè	_	_	_	_	_	_	_
@@ -12251,7 +12332,7 @@
 23	matjé	matjé	_	_	_	_	_	_	_
 24	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 515
+# sent_id = 542
 # text = Nou chonjé tou Francesca Palli éti té de pasaj an péyi nou. 
 1	Nou	Nou	_	_	_	_	_	_	_
 2	chonjé	chonjé	_	_	_	_	_	_	_
@@ -12267,7 +12348,7 @@
 12	nou	nou	_	_	_	_	_	_	_
 13	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 516
+# sent_id = 543
 # text = Dépi konman lanné madanm-tala ja fè anlo ba kréyol anlo natif-natal pa janmen fè é délè yo pa menm sav.
 1	Dépi	Dépi	_	_	_	_	_	_	_
 2	konman	konman	_	_	_	_	_	_	_
@@ -12291,7 +12372,7 @@
 20	sav	sav	_	_	_	_	_	_	_
 21	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 517
+# sent_id = 544
 # text = Malérezman Kréyolomaj Jilou-a tibren pli tris pas an libréri ka fèmen sé litérati ka tjilé ek lakonésans ka bat dèyè.
 1	Malérezman	Malérezman	_	_	_	_	_	_	_
 2	Kréyolomaj	Kréyolomaj	PROPN	PROPN	_	_	_	_	_
@@ -12315,7 +12396,7 @@
 20	dèyè	dèyè	_	_	_	_	_	_	_
 21	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 518
+# sent_id = 545
 # text = Ta Joj-la tou tibren tris mé sé lavi ek dé fas li bonnè ek malè. 
 1	Ta	Ta	_	_	_	_	_	_	_
 2	Joj-la	Joj-la	PROPN	PROPN	_	_	_	_	_
@@ -12334,7 +12415,7 @@
 15	malè	malè	_	_	_	_	_	_	_
 16	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 519
+# sent_id = 546
 # text = Erezdibonnè pé bouch dit é zafè lajan éti disparet Linivèsité-a, yo fini pa mété lapat asou lé mètafè. 
 1	Erezdibonnè	Erezdibonnè	_	_	_	_	_	_	_
 2	pé	pé	_	_	_	_	_	_	_
@@ -12357,7 +12438,7 @@
 19	mètafè	mètafè	_	_	_	_	_	_	_
 20	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 520
+# sent_id = 547
 # text = Dayè an brital liv «Le Talisman du Président» fè nou wouvè zié asou vakabonajri-tala ki fè yo démaské sé mantè-a.
 1	Dayè	Dayè	_	_	_	_	_	_	_
 2	an	an	_	_	_	_	_	_	_
@@ -12383,7 +12464,7 @@
 22	mantè-a	mantè-a	_	_	_	_	_	_	_
 23	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 521
+# sent_id = 548
 # text = Lanati éparnié nou épi Izaak mé i fè nou chonjé i pa kontan épi sargas ek labou Préchè.
 1	Lanati	Lanati	_	_	_	_	_	_	_
 2	éparnié	éparnié	_	_	_	_	_	_	_
@@ -12405,7 +12486,7 @@
 18	Préchè	Préchè	PROPN	PROPN	_	_	_	_	_
 19	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 522
+# sent_id = 549
 # text = Manmay annou maré ren nou, pou patalon nou pa glisé désann pou lanmou nou pou péyi nou fanmiy nou titak pli méyè pou nou pa kontinié ped jénes nou ka pati an gaway.
 1	Manmay	Manmay	_	_	_	_	_	_	_
 2	annou	annou	_	_	_	_	_	_	_
@@ -12443,7 +12524,7 @@
 34	gaway	gaway	_	_	_	_	_	_	_
 35	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 523
+# sent_id = 550
 # text = Travay nou ouvè pou an bon lanné 2019.
 1	Travay	Travay	_	_	_	_	_	_	_
 2	nou	nou	_	_	_	_	_	_	_
@@ -12455,7 +12536,7 @@
 8	2019	2019	NUM	NUM	_	_	_	_	_
 9	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 524
+# sent_id = 551
 # text = Pa koté Lafrans sé jou-tala, ni jilé jòn toupatou an lari ka manifesté. 
 1	Pa	Pa	_	_	_	_	_	_	_
 2	koté	koté	_	_	_	_	_	_	_
@@ -12473,7 +12554,7 @@
 14	manifesté	manifesté	_	_	_	_	_	_	_
 15	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 525
+# sent_id = 552
 # text = Matinik, nou pa djè anlè sa. 
 1	Matinik	Matinik	_	_	_	_	_	_	_
 2	,	,	PUNCT	PUNCT	_	_	_	_	_
@@ -12484,7 +12565,7 @@
 7	sa	sa	_	_	_	_	_	_	_
 8	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 526
+# sent_id = 553
 # text = Sa ka entérésé nou, ou sé di sé bonnet wouj.
 1	Sa	Sa	_	_	_	_	_	_	_
 2	ka	ka	_	_	_	_	_	_	_
@@ -12499,7 +12580,7 @@
 11	wouj	wouj	_	_	_	_	_	_	_
 12	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 527
+# sent_id = 554
 # text = An 2009 sé té triko wouj, an 2018 sé bonnet wouj. 
 1	An	An	_	_	_	_	_	_	_
 2	2009	2009	NUM	NUM	_	_	_	_	_
@@ -12515,7 +12596,7 @@
 12	wouj	wouj	_	_	_	_	_	_	_
 13	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 528
+# sent_id = 555
 # text = Nou fret an tet, sé pou sa adan tout kwen lari Fwéyal, yonndé machann té ka vann bonnet wouj. 
 1	Nou	Nou	_	_	_	_	_	_	_
 2	fret	fret	_	_	_	_	_	_	_
@@ -12540,7 +12621,7 @@
 21	wouj	wouj	_	_	_	_	_	_	_
 22	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 529
+# sent_id = 556
 # text = Lamanniè moun genyen sa, man té ka atann kò mwen wè anlo défilé an lari.
 1	Lamanniè	Lamanniè	_	_	_	_	_	_	_
 2	moun	moun	_	_	_	_	_	_	_
@@ -12560,7 +12641,7 @@
 16	lari	lari	_	_	_	_	_	_	_
 17	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 530
+# sent_id = 557
 # text = Mé Adjilbè di mwen:
 1	Mé	Mé	_	_	_	_	_	_	_
 2	Adjilbè	Adjilbè	PROPN	PROPN	_	_	_	_	_
@@ -12568,8 +12649,8 @@
 4	mwen	mwen	_	_	_	_	_	_	_
 5	:	:	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 531
-# text = — Jid ou fou an mitan tet! Gouvelman pa menm sav la Matinik yé, ek si nou ka viv, apaw di lè yo bizwen nou pou votman prézidansiel!
+# sent_id = 558
+# text = — Jid ou fou an mitan tet! 
 1	—	—	PUNCT	PUNCT	_	_	_	_	_
 2	Jid	Jid	_	_	_	_	_	_	_
 3	ou	ou	_	_	_	_	_	_	_
@@ -12578,32 +12659,35 @@
 6	mitan	mitan	_	_	_	_	_	_	_
 7	tet	tet	_	_	_	_	_	_	_
 8	!	!	PUNCT	PUNCT	_	_	_	_	_
-9	Gouvelman	Gouvelman	_	_	_	_	_	_	_
-10	pa	pa	_	_	_	_	_	_	_
-11	menm	menm	_	_	_	_	_	_	_
-12	sav	sav	_	_	_	_	_	_	_
-13	la	la	_	_	_	_	_	_	_
-14	Matinik	Matinik	PROPN	PROPN	_	_	_	_	_
-15	yé	yé	_	_	_	_	_	_	_
-16	,	,	PUNCT	PUNCT	_	_	_	_	_
-17	ek	ek	_	_	_	_	_	_	_
-18	si	si	_	_	_	_	_	_	_
-19	nou	nou	_	_	_	_	_	_	_
-20	ka	ka	_	_	_	_	_	_	_
-21	viv	viv	_	_	_	_	_	_	_
-22	,	,	PUNCT	PUNCT	_	_	_	_	_
-23	apaw	apaw	_	_	_	_	_	_	_
-24	di	di	_	_	_	_	_	_	_
-25	lè	lè	_	_	_	_	_	_	_
-26	yo	yo	_	_	_	_	_	_	_
-27	bizwen	bizwen	_	_	_	_	_	_	_
-28	nou	nou	_	_	_	_	_	_	_
-29	pou	pou	_	_	_	_	_	_	_
-30	votman	votman	_	_	_	_	_	_	_
-31	prézidansiel	prézidansiel	_	_	_	_	_	_	_
-32	!	!	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 532
+# sent_id = 559
+# text = Gouvelman pa menm sav la Matinik yé, ek si nou ka viv, apaw di lè yo bizwen nou pou votman prézidansiel!
+1	Gouvelman	Gouvelman	_	_	_	_	_	_	_
+2	pa	pa	_	_	_	_	_	_	_
+3	menm	menm	_	_	_	_	_	_	_
+4	sav	sav	_	_	_	_	_	_	_
+5	la	la	_	_	_	_	_	_	_
+6	Matinik	Matinik	PROPN	PROPN	_	_	_	_	_
+7	yé	yé	_	_	_	_	_	_	_
+8	,	,	PUNCT	PUNCT	_	_	_	_	_
+9	ek	ek	_	_	_	_	_	_	_
+10	si	si	_	_	_	_	_	_	_
+11	nou	nou	_	_	_	_	_	_	_
+12	ka	ka	_	_	_	_	_	_	_
+13	viv	viv	_	_	_	_	_	_	_
+14	,	,	PUNCT	PUNCT	_	_	_	_	_
+15	apaw	apaw	_	_	_	_	_	_	_
+16	di	di	_	_	_	_	_	_	_
+17	lè	lè	_	_	_	_	_	_	_
+18	yo	yo	_	_	_	_	_	_	_
+19	bizwen	bizwen	_	_	_	_	_	_	_
+20	nou	nou	_	_	_	_	_	_	_
+21	pou	pou	_	_	_	_	_	_	_
+22	votman	votman	_	_	_	_	_	_	_
+23	prézidansiel	prézidansiel	_	_	_	_	_	_	_
+24	!	!	PUNCT	PUNCT	_	_	_	_	_
+
+# sent_id = 560
 # text = Es misié pa ni rézon?
 1	Es	Es	_	_	_	_	_	_	_
 2	misié	misié	_	_	_	_	_	_	_
@@ -12612,7 +12696,7 @@
 5	rézon	rézon	_	_	_	_	_	_	_
 6	?	?	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 533
+# sent_id = 561
 # text = Menmsi sé jou –tala sé lé zavan ek ka fè tibren fret, es nou bizwen bonnet wouj pou chofé tet-nou?
 1	Menmsi	Menmsi	_	_	_	_	_	_	_
 2	sé	sé	_	_	_	_	_	_	_
@@ -12638,7 +12722,7 @@
 22	tet-nou	tet-nou	_	_	_	_	_	_	_
 23	?	?	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 534
+# sent_id = 562
 # text = Man pa sav si épi tout lo bonnet wouj-tala moun ki pa ni loto ké désann an lari pou réklamé an TCSP éti pa ka rété estasioné pa espré. 
 1	Man	Man	_	_	_	_	_	_	_
 2	pa	pa	_	_	_	_	_	_	_
@@ -12671,7 +12755,7 @@
 29	espré	espré	_	_	_	_	_	_	_
 30	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 535
+# sent_id = 563
 # text = Asiparé komkidiré yo ba la CFTU palapenn-li, mé jik ki tan nou ké ni anlot transpòtè.
 1	Asiparé	Asiparé	_	_	_	_	_	_	_
 2	komkidiré	komkidiré	_	_	_	_	_	_	_
@@ -12692,7 +12776,7 @@
 17	transpòtè	transpòtè	_	_	_	_	_	_	_
 18	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 536
+# sent_id = 564
 # text = Dapré sa nou ka konstaté, an mitan Matinik éti yo groupé dan la CACEM dwé ni an pichon. 
 1	Dapré	Dapré	_	_	_	_	_	_	_
 2	sa	sa	_	_	_	_	_	_	_
@@ -12715,7 +12799,7 @@
 19	pichon	pichon	_	_	_	_	_	_	_
 20	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 537
+# sent_id = 565
 # text = Pas pies transpò pa ka rivé tjébé.
 1	Pas	Pas	_	_	_	_	_	_	_
 2	pies	pies	_	_	_	_	_	_	_
@@ -12726,7 +12810,7 @@
 7	tjébé	tjébé	_	_	_	_	_	_	_
 8	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 538
+# sent_id = 566
 # text = Tandik ki dan lisid loto ka woulé aléviré, pa menm palé dan linò.
 1	Tandik	Tandik	_	_	_	_	_	_	_
 2	ki	ki	_	_	_	_	_	_	_
@@ -12744,7 +12828,7 @@
 14	linò	linò	_	_	_	_	_	_	_
 15	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 539
+# sent_id = 567
 # text = Fodré ké katjilé anlo sirtou épi lé sou-trétan, pas ou sé di sé soutirè ka chaché dékalé transpòw la.
 1	Fodré	Fodré	_	_	_	_	_	_	_
 2	ké	ké	_	_	_	_	_	_	_
@@ -12768,7 +12852,7 @@
 20	la	la	_	_	_	_	_	_	_
 21	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 540
+# sent_id = 568
 # text = Pétet fok moun ké viré mété triko wouj-yo pou réklamé an transpò épi an sèvis minimom lè ké ni lagrev. 
 1	Pétet	Pétet	_	_	_	_	_	_	_
 2	fok	fok	_	_	_	_	_	_	_
@@ -12792,7 +12876,7 @@
 20	lagrev	lagrev	_	_	_	_	_	_	_
 21	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 541
+# sent_id = 569
 # text = Ou sé di lé pasajé anvil chansé kon kochon lavèy-nwel.
 1	Ou	Ou	_	_	_	_	_	_	_
 2	sé	sé	_	_	_	_	_	_	_
@@ -12806,7 +12890,7 @@
 10	lavèy-nwel	lavèy-nwel	_	_	_	_	_	_	_
 11	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 542
+# sent_id = 570
 # text = Monsieur le Président du Conseil régional
 1	Monsieur	Monsieur	_	_	_	_	_	_	_
 2	le	le	_	_	_	_	_	_	_
@@ -12815,7 +12899,7 @@
 5	Conseil	Conseil	PROPN	PROPN	_	_	_	_	_
 6	régional	régional	_	_	_	_	_	_	_
 
-# sent_id = 543
+# sent_id = 571
 # text = Monsieur le Président du Conseil général
 1	Monsieur	Monsieur	_	_	_	_	_	_	_
 2	le	le	_	_	_	_	_	_	_
@@ -12824,7 +12908,7 @@
 5	Conseil	Conseil	PROPN	PROPN	_	_	_	_	_
 6	général	général	_	_	_	_	_	_	_
 
-# sent_id = 544
+# sent_id = 572
 # text = Monsieur le Maire de la Ville de F de F
 1	Monsieur	Monsieur	_	_	_	_	_	_	_
 2	le	le	_	_	_	_	_	_	_
@@ -12837,7 +12921,7 @@
 9	de	de	_	_	_	_	_	_	_
 10	F	F	PROPN	PROPN	_	_	_	_	_
 
-# sent_id = 545
+# sent_id = 573
 # text = Monsieur le Maire de la Ville de Rivière-Pilote
 1	Monsieur	Monsieur	_	_	_	_	_	_	_
 2	le	le	_	_	_	_	_	_	_
@@ -12848,7 +12932,7 @@
 7	de	de	_	_	_	_	_	_	_
 8	Rivière-Pilote	Rivière-Pilote	PROPN	PROPN	_	_	_	_	_
 
-# sent_id = 546
+# sent_id = 574
 # text = Monsieur le Directeur/ de la Direction Régionale de lʼAction Culturelle en Martinique.
 1	Monsieur	Monsieur	_	_	_	_	_	_	_
 2	le	le	_	_	_	_	_	_	_
@@ -12865,7 +12949,7 @@
 13	Martinique	Martinique	PROPN	PROPN	_	_	_	_	_
 14	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 547
+# sent_id = 575
 # text = Mésiézédanm, lonnè épi anchay respé anlè zot tout ki pran tan pran tan vini oswè-a, pou, ansanm ansanm, nou gloriyé lang kréyol la.
 1	Mésiézédanm	Mésiézédanm	_	_	_	_	_	_	_
 2	,	,	PUNCT	PUNCT	_	_	_	_	_
@@ -12896,7 +12980,7 @@
 27	la	la	_	_	_	_	_	_	_
 28	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 548
+# sent_id = 576
 # text = Chak lanné, lè vent-uit oktob, moun kréolopal oliwon latè ka vréyé douvan sa yo ka kriyé nan lang fransé a «la Journée Internationale du créole».
 1	Chak	Chak	_	_	_	_	_	_	_
 2	lanné	lanné	_	_	_	_	_	_	_
@@ -12929,7 +13013,7 @@
 29	»	»	PUNCT	PUNCT	_	_	_	_	_
 30	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 549
+# sent_id = 577
 # text = Menm manniè, lannuit, nan siel-la ni an sel lablanni zétwel, menm manniè épi sé dives lang la sé dives pep la ka palé a, ka matjé a, latè-a sé kontel an jaden flè bel koulè-bon lodè.
 1	Menm	Menm	_	_	_	_	_	_	_
 2	manniè	manniè	_	_	_	_	_	_	_
@@ -12974,8 +13058,8 @@
 41	lodè	lodè	_	_	_	_	_	_	_
 42	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 550
-# text = Men, mésiézédanm, annou pengad! Jòdijou, zòti ek chiendan, yo la ka véyé toulong pou mété lanmen anlè mòso jaden an ki ta pep Matinik la.
+# sent_id = 578
+# text = Men, mésiézédanm, annou pengad! 
 1	Men	Men	_	_	_	_	_	_	_
 2	,	,	PUNCT	PUNCT	_	_	_	_	_
 3	mésiézédanm	mésiézédanm	_	_	_	_	_	_	_
@@ -12983,32 +13067,35 @@
 5	annou	annou	_	_	_	_	_	_	_
 6	pengad	pengad	_	_	_	_	_	_	_
 7	!	!	PUNCT	PUNCT	_	_	_	_	_
-8	Jòdijou	Jòdijou	_	_	_	_	_	_	_
-9	,	,	PUNCT	PUNCT	_	_	_	_	_
-10	zòti	zòti	_	_	_	_	_	_	_
-11	ek	ek	_	_	_	_	_	_	_
-12	chiendan	chiendan	_	_	_	_	_	_	_
-13	,	,	PUNCT	PUNCT	_	_	_	_	_
-14	yo	yo	_	_	_	_	_	_	_
-15	la	la	_	_	_	_	_	_	_
-16	ka	ka	_	_	_	_	_	_	_
-17	véyé	véyé	_	_	_	_	_	_	_
-18	toulong	toulong	_	_	_	_	_	_	_
-19	pou	pou	_	_	_	_	_	_	_
-20	mété	mété	_	_	_	_	_	_	_
-21	lanmen	lanmen	_	_	_	_	_	_	_
-22	anlè	anlè	_	_	_	_	_	_	_
-23	mòso	mòso	_	_	_	_	_	_	_
-24	jaden	jaden	_	_	_	_	_	_	_
-25	an	an	_	_	_	_	_	_	_
-26	ki	ki	_	_	_	_	_	_	_
-27	ta	ta	_	_	_	_	_	_	_
-28	pep	pep	_	_	_	_	_	_	_
-29	Matinik	Matinik	PROPN	PROPN	_	_	_	_	_
-30	la	la	_	_	_	_	_	_	_
-31	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 551
+# sent_id = 579
+# text = Jòdijou, zòti ek chiendan, yo la ka véyé toulong pou mété lanmen anlè mòso jaden an ki ta pep Matinik la.
+1	Jòdijou	Jòdijou	_	_	_	_	_	_	_
+2	,	,	PUNCT	PUNCT	_	_	_	_	_
+3	zòti	zòti	_	_	_	_	_	_	_
+4	ek	ek	_	_	_	_	_	_	_
+5	chiendan	chiendan	_	_	_	_	_	_	_
+6	,	,	PUNCT	PUNCT	_	_	_	_	_
+7	yo	yo	_	_	_	_	_	_	_
+8	la	la	_	_	_	_	_	_	_
+9	ka	ka	_	_	_	_	_	_	_
+10	véyé	véyé	_	_	_	_	_	_	_
+11	toulong	toulong	_	_	_	_	_	_	_
+12	pou	pou	_	_	_	_	_	_	_
+13	mété	mété	_	_	_	_	_	_	_
+14	lanmen	lanmen	_	_	_	_	_	_	_
+15	anlè	anlè	_	_	_	_	_	_	_
+16	mòso	mòso	_	_	_	_	_	_	_
+17	jaden	jaden	_	_	_	_	_	_	_
+18	an	an	_	_	_	_	_	_	_
+19	ki	ki	_	_	_	_	_	_	_
+20	ta	ta	_	_	_	_	_	_	_
+21	pep	pep	_	_	_	_	_	_	_
+22	Matinik	Matinik	PROPN	PROPN	_	_	_	_	_
+23	la	la	_	_	_	_	_	_	_
+24	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# sent_id = 580
 # text = E sé pou sa, davrè nou pa lé pies pies kalté mové zeb rivé toufé flé jaden-nou an, sé pou sa nou mété doubout, lanné pasé, an asosiasion nou kriyé KALBAS LÒ LAKARAYIB éti larel-li, sé wouvè lawonn ba lapowézi nonm épi fanm ka matjé épi kréyol Lakarayib la.
 1	E	E	_	_	_	_	_	_	_
 2	sé	sé	_	_	_	_	_	_	_
@@ -13066,7 +13153,7 @@
 54	la	la	_	_	_	_	_	_	_
 55	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 552
+# sent_id = 581
 # text = Ba sa ki toujou paré pou malpalé, man ka di kouté – kouté bon kouté a - : nan péyi-nou an, ki nou lé ki nou vlé pa, listwa met-ba dé lang : lang kréyol la, lang fransé a.
 1	Ba	Ba	_	_	_	_	_	_	_
 2	sa	sa	_	_	_	_	_	_	_
@@ -13113,8 +13200,8 @@
 43	a	a	_	_	_	_	_	_	_
 44	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 553
-# text = Mésiézédam, KALBAS LÒ LAKARAYIB mété asou koté powézi yo ka matjé épi fransé a, sa vré! men sé pa pou vréyé pies méprizasion anlè lang fransé a ki, adan péyi- nou an, dépi nanninannan, za ouvè zel-li gran gran gran.. 
+# sent_id = 582
+# text = Mésiézédam, KALBAS LÒ LAKARAYIB mété asou koté powézi yo ka matjé épi fransé a, sa vré! 
 1	Mésiézédam	Mésiézédam	_	_	_	_	_	_	_
 2	,	,	PUNCT	PUNCT	_	_	_	_	_
 3	KALBAS	KALBAS	PROPN	PROPN	_	_	_	_	_
@@ -13134,37 +13221,40 @@
 17	sa	sa	_	_	_	_	_	_	_
 18	vré	vré	_	_	_	_	_	_	_
 19	!	!	PUNCT	PUNCT	_	_	_	_	_
-20	men	men	_	_	_	_	_	_	_
-21	sé	sé	_	_	_	_	_	_	_
-22	pa	pa	_	_	_	_	_	_	_
-23	pou	pou	_	_	_	_	_	_	_
-24	vréyé	vréyé	_	_	_	_	_	_	_
-25	pies	pies	_	_	_	_	_	_	_
-26	méprizasion	méprizasion	_	_	_	_	_	_	_
-27	anlè	anlè	_	_	_	_	_	_	_
-28	lang	lang	_	_	_	_	_	_	_
-29	fransé	fransé	_	_	_	_	_	_	_
-30	a	a	_	_	_	_	_	_	_
-31	ki	ki	_	_	_	_	_	_	_
-32	,	,	PUNCT	PUNCT	_	_	_	_	_
-33	adan	adan	_	_	_	_	_	_	_
-34	péyi-	péyi-	_	_	_	_	_	_	_
-35	nou	nou	_	_	_	_	_	_	_
-36	an	an	_	_	_	_	_	_	_
-37	,	,	PUNCT	PUNCT	_	_	_	_	_
-38	dépi	dépi	_	_	_	_	_	_	_
-39	nanninannan	nanninannan	_	_	_	_	_	_	_
-40	,	,	PUNCT	PUNCT	_	_	_	_	_
-41	za	za	_	_	_	_	_	_	_
-42	ouvè	ouvè	_	_	_	_	_	_	_
-43	zel-li	zel-li	_	_	_	_	_	_	_
-44	gran	gran	_	_	_	_	_	_	_
-45	gran	gran	_	_	_	_	_	_	_
-46	gran	gran	_	_	_	_	_	_	_
-47	.	.	PUNCT	PUNCT	_	_	_	_	_
-48	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 554
+# sent_id = 583
+# text = men sé pa pou vréyé pies méprizasion anlè lang fransé a ki, adan péyi- nou an, dépi nanninannan, za ouvè zel-li gran gran gran.. 
+1	men	men	_	_	_	_	_	_	_
+2	sé	sé	_	_	_	_	_	_	_
+3	pa	pa	_	_	_	_	_	_	_
+4	pou	pou	_	_	_	_	_	_	_
+5	vréyé	vréyé	_	_	_	_	_	_	_
+6	pies	pies	_	_	_	_	_	_	_
+7	méprizasion	méprizasion	_	_	_	_	_	_	_
+8	anlè	anlè	_	_	_	_	_	_	_
+9	lang	lang	_	_	_	_	_	_	_
+10	fransé	fransé	_	_	_	_	_	_	_
+11	a	a	_	_	_	_	_	_	_
+12	ki	ki	_	_	_	_	_	_	_
+13	,	,	PUNCT	PUNCT	_	_	_	_	_
+14	adan	adan	_	_	_	_	_	_	_
+15	péyi-	péyi-	_	_	_	_	_	_	_
+16	nou	nou	_	_	_	_	_	_	_
+17	an	an	_	_	_	_	_	_	_
+18	,	,	PUNCT	PUNCT	_	_	_	_	_
+19	dépi	dépi	_	_	_	_	_	_	_
+20	nanninannan	nanninannan	_	_	_	_	_	_	_
+21	,	,	PUNCT	PUNCT	_	_	_	_	_
+22	za	za	_	_	_	_	_	_	_
+23	ouvè	ouvè	_	_	_	_	_	_	_
+24	zel-li	zel-li	_	_	_	_	_	_	_
+25	gran	gran	_	_	_	_	_	_	_
+26	gran	gran	_	_	_	_	_	_	_
+27	gran	gran	_	_	_	_	_	_	_
+28	.	.	PUNCT	PUNCT	_	_	_	_	_
+29	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# sent_id = 584
 # text = Padavwa nou bizwen lang kréyol la ek lang kréyol bizwen moun ki ka paléʼy, moun ki ka matjéʼy (matjéʼy, paléʼy épi respè), nou lè ba lang-nou an plis fos, plis balan é sé poutji nou vréyé douvan an tiraj powézi nan kréyol Giyàn, kwéyol Sent-Lisi ek Donmnik, kréyol Ayiti, kréyol Gwadloup, kréyol Matnik. 
 1	Padavwa	Padavwa	_	_	_	_	_	_	_
 2	nou	nou	_	_	_	_	_	_	_
@@ -13231,7 +13321,7 @@
 63	Matnik	Matnik	PROPN	PROPN	_	_	_	_	_
 64	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 555
+# sent_id = 585
 # text = Nou mété déwò tiraj powézi tala anba lopsion défen Gilbert Gratiant, an vayan matjè-pawol Matinik ki matjé sa i matjé a nan lang kréyol la kon nan lang fransé a .. 
 1	Nou	Nou	_	_	_	_	_	_	_
 2	mété	mété	_	_	_	_	_	_	_
@@ -13267,7 +13357,7 @@
 32	.	.	PUNCT	PUNCT	_	_	_	_	_
 33	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 556
+# sent_id = 586
 # text = Lonnè épi anlo respè anlèʼw, Misié Gilbert Gratiant!
 1	Lonnè	Lonnè	_	_	_	_	_	_	_
 2	épi	épi	_	_	_	_	_	_	_
@@ -13280,7 +13370,7 @@
 9	Gratiant	Gratiant	PROPN	PROPN	_	_	_	_	_
 10	!	!	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 557
+# sent_id = 587
 # text = Swazant é-en nonm ek fanm Ayiti, Gwadloup, Matnik, vréyé ban nou 180 powem.
 1	Swazant	Swazant	_	_	_	_	_	_	_
 2	é-en	é-en	_	_	_	_	_	_	_
@@ -13300,8 +13390,8 @@
 16	powem	powem	_	_	_	_	_	_	_
 17	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 558
-# text = Mésiézédanm, pou chwézi sis sé pli bel la adan sé 180 powézi tala, an vérité! sa pa té «ralé chez bò tab»... 
+# sent_id = 588
+# text = Mésiézédanm, pou chwézi sis sé pli bel la adan sé 180 powézi tala, an vérité! 
 1	Mésiézédanm	Mésiézédanm	_	_	_	_	_	_	_
 2	,	,	PUNCT	PUNCT	_	_	_	_	_
 3	pou	pou	_	_	_	_	_	_	_
@@ -13320,20 +13410,23 @@
 16	an	an	_	_	_	_	_	_	_
 17	vérité	vérité	_	_	_	_	_	_	_
 18	!	!	PUNCT	PUNCT	_	_	_	_	_
-19	sa	sa	_	_	_	_	_	_	_
-20	pa	pa	_	_	_	_	_	_	_
-21	té	té	_	_	_	_	_	_	_
-22	«	«	PUNCT	PUNCT	_	_	_	_	_
-23	ralé	ralé	_	_	_	_	_	_	_
-24	chez	chez	_	_	_	_	_	_	_
-25	bò	bò	_	_	_	_	_	_	_
-26	tab	tab	_	_	_	_	_	_	_
-27	»	»	PUNCT	PUNCT	_	_	_	_	_
-28	.	.	PUNCT	PUNCT	_	_	_	_	_
-29	.	.	PUNCT	PUNCT	_	_	_	_	_
-30	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 559
+# sent_id = 589
+# text = sa pa té «ralé chez bò tab»... 
+1	sa	sa	_	_	_	_	_	_	_
+2	pa	pa	_	_	_	_	_	_	_
+3	té	té	_	_	_	_	_	_	_
+4	«	«	PUNCT	PUNCT	_	_	_	_	_
+5	ralé	ralé	_	_	_	_	_	_	_
+6	chez	chez	_	_	_	_	_	_	_
+7	bò	bò	_	_	_	_	_	_	_
+8	tab	tab	_	_	_	_	_	_	_
+9	»	»	PUNCT	PUNCT	_	_	_	_	_
+10	.	.	PUNCT	PUNCT	_	_	_	_	_
+11	.	.	PUNCT	PUNCT	_	_	_	_	_
+12	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# sent_id = 590
 # text = Men sa ki té pou fet, fet Talè, zot ké sav kiles moun ki pran kouwonn-lan! 
 1	Men	Men	_	_	_	_	_	_	_
 2	sa	sa	_	_	_	_	_	_	_
@@ -13355,7 +13448,7 @@
 18	kouwonn-lan	kouwonn-lan	_	_	_	_	_	_	_
 19	!	!	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 560
+# sent_id = 591
 # text = Men avan pawol-mwen bout, man ka vréyé an bel mési ba tout sé moun lan ki désidé antré adan lawonn powétik la... An bel woulo bravo ba yo tout!
 1	Men	Men	_	_	_	_	_	_	_
 2	avan	avan	_	_	_	_	_	_	_
@@ -13392,7 +13485,7 @@
 33	tout	tout	_	_	_	_	_	_	_
 34	!	!	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 561
+# sent_id = 592
 # text = Tanto, nou ké tounen sé sis powem – lan zot ké kouté talè, nou ké tounen yo nan lang anglé a, lang pangnol la ek lang fransé a, an manniè pou gloriyé, an plis di kréyol la, sé twa lang -tala (anglé, pangnol, fransé) yo ka palé, yo ka matjé nan Karayib-la
 1	Tanto	Tanto	_	_	_	_	_	_	_
 2	,	,	PUNCT	PUNCT	_	_	_	_	_
@@ -13458,7 +13551,7 @@
 62	nan	nan	_	_	_	_	_	_	_
 63	Karayib-la	Karayib-la	PROPN	PROPN	_	_	_	_	_
 
-# sent_id = 562
+# sent_id = 593
 # text = Mésiézédanm, sé espéré nou ka espéré KALBAS LÒ LAKARAYIB, lanné 2007, ké bay-alé bay-alé douvan douvan .
 1	Mésiézédanm	Mésiézédanm	_	_	_	_	_	_	_
 2	,	,	PUNCT	PUNCT	_	_	_	_	_
@@ -13481,7 +13574,7 @@
 19	douvan	douvan	_	_	_	_	_	_	_
 20	.	.	PUNCT	PUNCT	_	_	_	_	_
 
-# sent_id = 563
+# sent_id = 594
 # text = Mési anpil pou kouté-a.
 1	Mési	Mési	_	_	_	_	_	_	_
 2	anpil	anpil	_	_	_	_	_	_	_
