@@ -1,9 +1,13 @@
-# python3 scripts/automate-tagging.py gcf_dep-ud-test.conllu < gcf_dep-ud-test.conllu 
+# USAGE: python3 not-to-release/automate-tagging.py gcf_dep-ud-test.conllu < gcf_dep-ud-test.conllu 
 
 import sys, re
 
 dico = {}
 freq = {}
+
+if len(sys.argv) < 1: 
+	print('USAGE: python3 not-to-release/automate-tagging.py gcf_dep-ud-test.conllu < gcf_dep-ud-test.conllu')
+	sys.exit(-1)
 
 for line in open(sys.argv[1]).readlines():
 	if line.strip() == '':
