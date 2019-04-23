@@ -1,3 +1,5 @@
+# python3 scripts/automate-tagging.py gcf_dep-ud-test.conllu < gcf_dep-ud-test.conllu 
+
 import sys, re
 
 dico = {}
